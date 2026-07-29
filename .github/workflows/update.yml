@@ -2,8 +2,6 @@ name: Update GBIF Literature RSS Feed
 
 on:
   schedule:
-    # GitHub Actions の cron は UTC。
-    # 日本時間 AM 5:00 は UTC の前日 20:00。
     - cron: "0 20 * * *"
 
   workflow_dispatch:
@@ -21,21 +19,20 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: main
           fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
+      - name: Check Python version
+        run: |
+          python3 --version
 
       - name: Generate RSS feed
         run: |
-          python generate_feed.py
+          python3 generate_feed.py
 
-      - name: Show generated feed info
+      - name: Show generated feed
         run: |
           ls -l feed.xml
           head -n 20 feed.xml

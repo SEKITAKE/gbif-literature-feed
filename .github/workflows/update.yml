@@ -1,0 +1,58 @@
+name: Update GBIF Literature RSS Feed
+
+on:
+  schedule:
+    # GitHub Actions の cron は UTC。
+    # 日本時間 AM 5:00 は UTC の前日 20:00。
+    - cron: "0 20 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-gbif-literature-feed
+  cancel-in-progress: false
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate RSS feed
+        run: |
+          python generate_feed.py
+
+      - name: Show generated feed info
+        run: |
+          ls -l feed.xml
+          head -n 20 feed.xml
+
+      - name: Commit and push feed.xml if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add feed.xml
+
+          if git diff --cached --quiet; then
+            echo "No changes in feed.xml. Nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "Update GBIF literature RSS feed"
+
+          git pull --rebase origin main
+          git push origin HEAD:main

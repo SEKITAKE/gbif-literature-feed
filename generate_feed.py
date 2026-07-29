@@ -30,10 +30,6 @@ def get_text(value, default=""):
 
 
 def parse_date(value):
-    """
-    modified または publicationDate を RSS の pubDate に使う。
-    日付が読めない場合は現在時刻を使う。
-    """
     if not value:
         return datetime.now(timezone.utc)
 
@@ -63,10 +59,6 @@ def rss_date(dt):
 
 
 def fetch_items():
-    """
-    GBIF Literature API から最大100件取得する。
-    APIエラー時は例外にして GitHub Actions を失敗させる。
-    """
     params = {
         "literatureType": "JOURNAL",
         "relevance": ["GBIF_USED", "GBIF_CITED"],
@@ -177,10 +169,6 @@ def make_description(item, doi, journal, pub_dt):
 
 
 def remove_duplicates(items):
-    """
-    key を優先して重複除去する。
-    key がなければ DOI、それもなければ title を使う。
-    """
     seen = set()
     unique = []
 

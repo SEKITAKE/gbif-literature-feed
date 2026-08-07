@@ -1,5 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Fri, 07 Aug 2026 00:50:31 GMT</lastBuildDate><item><title>Assembling the Neotropical Tree Flora: Andean Uplift and the Historical Biogeography of the Brazil Nut Family (Lecythidaceae)</title><link>https://doi.org/10.1111/jbi.70225</link><description>DOI: https://doi.org/10.1111/jbi.70225
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Fri, 07 Aug 2026 20:29:57 GMT</lastBuildDate><item><title>OXYCARENUS LAVATERAE(FABRICIUS, 1787) (HEMIPTERA: HETEROPTERA: LYGAEIDAE) –НОВЫЙ ИНВАЗИВНЫЙ ВИДВ ФАУНЕ Г.ДОНЕЦКА:РАСПРОСТРАНЕНИЕ, ЧИСЛЕННОСТЬ, МОРФОМЕТРИЧЕСКАЯ ХАРАКТЕРИСТИКА</title><link>https://doi.org/10.55355/snv2026151102</link><description>DOI: https://doi.org/10.55355/snv2026151102
+Journal: Samara Journal of Science
+Publisher: Samara State University of Social Sciences and Education
+Published: 2026-04-15
+Authors: Alexandra Alexandrovna Dzhantimirova, Elena Vasilievna Prokopenko, Alyona Olegovna Shkirenko, Andrey Stepanovich Yaitsky
+GBIF relevance: GBIF_USED
+
+Представлены результаты мониторинговых исследований насаждений Tilia cordataMill., про-израстающих на территории г.Донецка, в результате которых был обнаружен новый для Донбасса инвазив-ный вид клопов Oxycarenus lavaterae(Fabricius, 1787), активная экспансия которого в новые области Евразии продолжается на протяжении последнего десятилетия. В августе–ноябре 2025г. в четырёх районах города методом сплошного обследования древесных насаждений были зафиксированы массовые скопления особей O.lavaterae</description><pubDate>Fri, 07 Aug 2026 14:29:57 GMT</pubDate><guid isPermaLink="false">gbif-literature:65c1773b-b4a8-3363-b3fc-79e13cc2fa3e</guid><category>Samara Journal of Science</category></item><item><title>Mapping the Distribution of Eucalyptus globulus in the Western Ghats using Ecological Niche Modelling</title><link>https://doi.org/10.1163/22244662-bja10128</link><description>DOI: https://doi.org/10.1163/22244662-bja10128
+Journal: Israel Journal of Ecology and Evolution
+Publisher: Walter de Gruyter GmbH
+Published: 2026-04-15
+Authors: Phillmon Smart Edward, Jeyasubashini Regupathikannan
+GBIF relevance: GBIF_USED
+
+The Western Ghats, a global biodiversity hotspot, host extensive plantations of Eucalyptus globulus, an exotic species widely cultivated for timber and pulpwood. This study employs the MaxEnt model to assess the habitat suitability of E. globulus across the Western Ghats. The occurrence records representing established plantations and naturalised populations were combined with bioclimatic and topographic variables to predict suitable habitats. The model exhibited high predictive accuracy (AUC = </description><pubDate>Fri, 07 Aug 2026 13:43:18 GMT</pubDate><guid isPermaLink="false">gbif-literature:1bdb0be3-05f1-30d2-ad6c-b8f018734752</guid><category>Israel Journal of Ecology and Evolution</category></item><item><title>Calibration of a climate suitability model using a generalized likelihood uncertainty estimation (GLUE): a global case study of orange production</title><link>https://doi.org/10.1038/s41598-026-44664-5</link><description>DOI: https://doi.org/10.1038/s41598-026-44664-5
+Journal: Scientific Reports
+Publisher: Springer Science and Business Media LLC
+Published: 2026-04-17
+Authors: Shinwoo Hyun, Kwang Soo Kim, Robert M. Beresford
+GBIF relevance: GBIF_USED
+
+Parameter calibration of climate suitability models is often hindered by the lack of absence data for plant species, limiting their effectiveness for global scale applications. Here we propose a novel calibration approach based on the Generalized Likelihood Uncertainty Estimation (GLUE) framework that eliminates the needs for background samples. This method defines the likelihood statistics under the assumption that the distribution of the climate suitability index at the occurrence sites differ</description><pubDate>Fri, 07 Aug 2026 13:24:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:359e90f6-083f-3ce8-9444-1cd0987e629f</guid><category>Scientific Reports</category></item><item><title>Weak association between ecological niche divergence and speciation in galagos (Primates: Galagidae)</title><link>https://doi.org/10.1093/biolinnean/blag020</link><description>DOI: https://doi.org/10.1093/biolinnean/blag020
+Journal: Biological Journal of the Linnean Society
+Publisher: Oxford University Press (OUP)
+Published: 2026-03-10
+Authors: Evan Miller, Luca Pozzi
+GBIF relevance: GBIF_USED
+
+Ecological niche conservatism and divergence are key indicators of diversification and speciation processes. Niche conservatism often indicates allopatric speciation, where geographical barriers separate populations, while divergence typically arises when ecological adaptations promote reproductive isolation and speciation. Diversification in the nocturnal primate family Galagidae of mainland sub-Saharan Africa has been hypothesized to have been driven by adaptational changes or climate change-i</description><pubDate>Fri, 07 Aug 2026 13:22:29 GMT</pubDate><guid isPermaLink="false">gbif-literature:be97329b-7455-3aee-8683-fdf52bec424e</guid><category>Biological Journal of the Linnean Society</category></item><item><title>Stepping-stone larval dispersal networks maintain broad-scale connectivity across the Indo-West Pacific</title><link>https://doi.org/10.3354/meps15103</link><description>DOI: https://doi.org/10.3354/meps15103
+Journal: Marine Ecology Progress Series
+Publisher: Inter-Research Science Center
+Published: 2026-01-19
+Authors: Naoki Saito, Kohei Hamamoto, Akira Iguchi
+GBIF relevance: GBIF_USED
+
+Connectivity between patchy marine habitats through larval dispersal is crucial for the persistence of local populations. Studies of various marine species suggest broad-scale gene flow across the tropical Indo-West Pacific (IWP), presumably facilitated by larval dispersal via stepping-stone habitats. However, the generational timescales and geographic paths involved in such dispersal remain unclear, owing to limited biophysical modelling studies. Here, we quantified connectivity among patchy ha</description><pubDate>Fri, 07 Aug 2026 13:18:08 GMT</pubDate><guid isPermaLink="false">gbif-literature:51479340-fed9-3fa3-9c91-ecf07d306291</guid><category>Marine Ecology Progress Series</category></item><item><title>Evolutionary and ecological processes drive the global diversity of the avian family Paridae</title><link>https://doi.org/10.1016/j.avrs.2026.100381</link><description>DOI: https://doi.org/10.1016/j.avrs.2026.100381
+Journal: Avian Research
+Publisher: Elsevier BV
+Published: 2026-09-30
+Authors: Huan Wang, Ping Fan, Tianlong Cai, Kai Zhang, Gang Song
+GBIF relevance: GBIF_USED
+
+Understanding how biodiversity is formed and maintained, is a key topic in both ecology and conservation biology. Both ecological and evolutionary processes jointly shape community assembly and maintain biodiversity, often through complex interactions. This study aims to examine how ecological and evolutionary processes jointly shape the global and regional distribution patterns of diversity in the avian family Paridae, focusing on assembly and species pairwise levels. We integrated phylogenetic</description><pubDate>Fri, 07 Aug 2026 12:58:37 GMT</pubDate><guid isPermaLink="false">gbif-literature:10cf4cfa-2736-33c5-af92-bc69e2c4bbec</guid><category>Avian Research</category></item><item><title>Protected and Yet Pressured: Persistence of Southern African Pythons ( Python natalensis ) in South Africa Despite Changing Land Use and Other Anthropogenic Threats</title><link>https://doi.org/10.1111/aje.70167</link><description>DOI: https://doi.org/10.1111/aje.70167
+Journal: African Journal of Ecology
+Publisher: Wiley
+Published: 2026-04-15
+Authors: Kirsty J. Kyle, Colleen T. Downs
+GBIF relevance: GBIF_USED
+
+Around the globe, changing landscapes and habitat transformation are major factors affecting wildlife. In recent years, South Africa has experienced significant population growth and migration, leading to the transformation and expansion of both rural and urban areas, with the loss of natural areas. We used locality records to determine whether southern African pythons (Python natalensis) persist despite ongoing land transformation in South Africa, assess the threats they face and identify veget</description><pubDate>Fri, 07 Aug 2026 09:59:27 GMT</pubDate><guid isPermaLink="false">gbif-literature:702a5ab3-223f-3b48-9ab7-c85863d44b2d</guid><category>African Journal of Ecology</category></item><item><title>Dicrananthera hedyotidea C. Presl. (Melastomataceae) in Maranhão state, Brazil: first record and ecological niche model of the species</title><link>https://doi.org/10.1002/njb.05148</link><description>DOI: https://doi.org/10.1002/njb.05148
+Journal: Nordic Journal of Botany
+Publisher: Wiley
+Published: 2026-04-16
+Authors: Elias Julio Oliveira Correa, Sandro Márcio dos Santos Junior, Antônio Fernando Costa da Silva, Kalynne Nayara Lima dos Santos, Eduardo Bezerra de Almeida
+GBIF relevance: GBIF_USED
+
+Dicrananthera C. Presl. is a monospecific genus of the tribe Marcetieae, comprising perennial herbs typically occurring in areas adjacent to wetlands. The species exhibits a disjunct distribution, with confirmed records in both the Amazon and Atlantic Forest domains. Dicrananthera hedyotidea is morphologically distinct from other genera within the tribe by the presence of dimorphic stamens bearing subulate ventral appendages. This study reports the first occurrence of D. hedyotidea in the state </description><pubDate>Fri, 07 Aug 2026 09:57:06 GMT</pubDate><guid isPermaLink="false">gbif-literature:b7a6f1c2-6c53-3775-bb30-6bf9eabb3591</guid><category>Nordic Journal of Botany</category></item><item><title>Assembling the Neotropical Tree Flora: Andean Uplift and the Historical Biogeography of the Brazil Nut Family (Lecythidaceae)</title><link>https://doi.org/10.1111/jbi.70225</link><description>DOI: https://doi.org/10.1111/jbi.70225
 Journal: Journal of Biogeography
 Publisher: Wiley
 Published: 2026-04-15
@@ -641,59 +697,4 @@ Published: 2026-03-06
 Authors: Chris T. McAllister, Isabel Tresidder
 GBIF relevance: GBIF_CITED
 
-Little is known about the helminth parasites of Baird’s pocket gopher, Geomys breviceps, particularly from specimens collected and examined from northeastern Texas. Four adult pocket gophers collected from Lamar (n = 3) and Titus (n = 1) counties yielded a cyclophyllidean tapeworm, Hymenolepis sp. in two (50%), and spirurid nematodes, Mastophorus muris in one (25%). These tapeworms were the same morphologically but new information suggests significant difference in mitochondrial sequences repres</description><pubDate>Wed, 29 Jul 2026 12:33:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:802c6a35-ac95-367d-9a43-6614c92e95cb</guid><category>Proceedings of the Oklahoma Academy of Science</category></item><item><title>Understanding of Pest Species Distribution on Land Use, Geographic Location, and Climate Factor using Species Distribution Modelling: Case Study in Java Island …</title><link>https://www.gbif.org/literature/65cd925d-8b80-3caa-bde7-5e61c4a606a3</link><description>Journal: SSRS Journal A: Agro-Environmental Research
-Publisher: SSRS Publishing
-Published: 2026-03-01
-Authors: Usnil Khotimah, Muhammad Ferdiansyah, Abd. Malik A. Madinu, Aulia Ulfa, Danik Septianingrum
-GBIF relevance: GBIF_USED
-
-Pest distribution has a broad impact across sectors, including agriculture, plantations, and forestry. The impacts are predicted to continue to increase in the future, so understanding pest distribution patterns is important as a basis for more effective pest management decision-making. This study aims to analyze the distribution of pests in Java Island based on land use, geographical location, and climate factors. A total of 2,777 individuals from 14 pest families in GBIF citizen science data w</description><pubDate>Wed, 29 Jul 2026 12:26:27 GMT</pubDate><guid isPermaLink="false">gbif-literature:65cd925d-8b80-3caa-bde7-5e61c4a606a3</guid><category>SSRS Journal A: Agro-Environmental Research</category></item><item><title>Global distribution of the invasive little fire ant Wasmannia auropunctata: first insights from citizen science contributions</title><link>https://doi.org/10.20350/digitalcsic/17854</link><description>DOI: https://doi.org/10.20350/digitalcsic/17854
-Journal: Iberomyrmex
-Publisher: Asociación Ibérica de Mirmecología
-Published: 2025-12-02
-Authors: Javier Arcos, Fikret Arda Düzgünses, Juan Pascual-Gil
-GBIF relevance: GBIF_CITED
-
-The little fire ant Wasmannia auropunctata is among the world’s most damaging invasive ants, with pronounced ecological, agricultural, and socio-economic impacts. Originally native to the Neotropics, its range has expanded globally through human-mediated transport, with more recent records demonstrating its establishment in southern Europe. The objective of this paper is to update the global distribution of W. auropunctata by integrating curated citizen-science observations with bibliographic da</description><pubDate>Wed, 29 Jul 2026 12:07:00 GMT</pubDate><guid isPermaLink="false">gbif-literature:fd4ab2ce-eb91-3c59-ab01-d5bec2f6e32e</guid><category>Iberomyrmex</category></item><item><title>The Malacofauna of Mexico City: A Historical and Modern Record,La Malacofauna de la Ciudad de México: Un Registro Histórico y Actual</title><link>https://doi.org/10.21829/azm.2026.4212799</link><description>DOI: https://doi.org/10.21829/azm.2026.4212799
-Journal: ACTA ZOOLÓGICA MEXICANA (N.S.)
-Publisher: Instituto de Ecologia, A.C.
-Published: 2026-03-06
-Authors: Rodrigo Rangel Velasco, Tadeo de Jesús Esquivel Blanco, Edna Naranjo García
-GBIF relevance: GBIF_CITED
-
-Mexico City, one of the largest urban centers in the Americas, harbors a remarkable diversity of fauna, including land and freshwater mollusks, a group considered globally vulnerable. This study aimed to compile an inventory of terrestrial and freshwater mollusk species present in Mexico City by integrating historical records from museum collections and literature with recent field surveys. A total of 73 species were identified, distributed across 34 families of gastropods and bivalves. A signif</description><pubDate>Wed, 29 Jul 2026 11:31:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:2234362d-a6f2-3885-98ba-a668987755d9</guid><category>ACTA ZOOLÓGICA MEXICANA (N.S.)</category></item><item><title>Global Patterns and Future Dynamics of Four Invasive Cocklebur Species Under Climate Change: Contrasting Climatic and Anthropogenic Drivers</title><link>https://doi.org/10.3390/biology15050439</link><description>DOI: https://doi.org/10.3390/biology15050439
-Journal: Biology
-Publisher: MDPI AG
-Published: 2026-03-09
-Authors: Yunzhi Sang, Xuan Li, Jianghua Zheng, Zhong Liang, Liang Liu
-GBIF relevance: GBIF_USED
-
-Climate change, together with intensifying human activities, is reshaping global plant invasion dynamics and increasingly threatening ecosystem stability and biodiversity. Cockleburs are highly invasive weeds with strong ecological plasticity and dispersal capacity, causing widespread impacts on agricultural systems and native ecosystems. Here, we used the maximum entropy (MaxEnt) model to assess the current (2001–2020) and future (2021–2040, 2041–2060, and 2061–2080) potential distributions, ke</description><pubDate>Wed, 29 Jul 2026 11:29:28 GMT</pubDate><guid isPermaLink="false">gbif-literature:6ba44a52-36d5-36d3-a0f3-91f4b0ec12fd</guid><category>Biology</category></item><item><title>Analysis of the Potential Distribution of Solanum rostratum in China Based on the Biomod2 Ensemble Model</title><link>https://doi.org/10.3390/plants15050816</link><description>DOI: https://doi.org/10.3390/plants15050816
-Journal: Plants
-Publisher: MDPI AG
-Published: 2026-03-06
-Authors: Yue Zhang, Weige Ma, Quanlai Zhou, Wei Cao, Bo Qu
-GBIF relevance: GBIF_USED
-
-Solanum rostratum is a globally regulated invasive species, known for its detrimental impacts on local biodiversity, human and livestock health, and agricultural productivity. This study employed the Biomod2 ensemble modeling framework to analyze the geographic distribution of S. rostratum in China, identify key environmental factors limiting its spread, and provide a scientific basis for its management and control. By integrating species distribution data with multiple environmental variables, </description><pubDate>Wed, 29 Jul 2026 11:26:35 GMT</pubDate><guid isPermaLink="false">gbif-literature:a74313ae-8d8a-3299-9faa-b7eecb26e629</guid><category>Plants</category></item><item><title>A Ruddy Oxyura jamaicensis × White-headed Duck O. leucocephala hybrid diagnosed in Denmark</title><link>https://doi.org/10.25226/bboc.v146i1.2026.a6</link><description>DOI: https://doi.org/10.25226/bboc.v146i1.2026.a6
-Journal: Bulletin of the British Ornithologists’ Club
-Publisher: British Ornithologists' Club
-Published: 2026-03-06
-Authors: Kees Wanders, Peter A. Hosner
-GBIF relevance: GBIF_CITED
-
-The endangered White-headed Duck Oxyura leucocephalus is threatened by the prospect of hybridisation and genetic introgression from the invasive Ruddy Duck O. jamaicensis, which became established in Europe from a small captive population imported from North America to England. Previous studies have demonstrated that these species readily hybridise in the wild if they come into contact, but the prospect of hybrids occurring far outside the range of leucocephala has not previously been described.</description><pubDate>Wed, 29 Jul 2026 11:18:24 GMT</pubDate><guid isPermaLink="false">gbif-literature:e26d15ff-fe7b-3edf-a5ae-5cc6b0c0dc1e</guid><category>Bulletin of the British Ornithologists’ Club</category></item><item><title>Utilizing natural history collections and data mining to assess flower associations and phenology of North American bees in the genus Andrena (Hymenoptera: Andrenidae) subgenus Plastandrena</title><link>https://doi.org/10.26786/1920-7603(2026)899</link><description>DOI: https://doi.org/10.26786/1920-7603(2026)899
-Journal: Journal of Pollination Ecology
-Publisher: Journal of Pollination Ecology (ASBL)
-Published: 2026-03-05
-Authors: Wyatt Zabinski
-GBIF relevance: GBIF_USED
-
-Even though bees are the most frequently discussed and important pollinators, most native species’ fundamental ecology including phenology and flower preferences is not known. This is especially true within the mega diverse bee genus Andrena Fabricius, 1775 where only a small percentage of species floral associations have been assessed. Here, using label data with associated floral records and collection event dates, the phenology and flower visitations of North American bees in the Andrena subg</description><pubDate>Wed, 29 Jul 2026 11:09:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:4fab084a-2a5c-35f1-80c9-322df5a7c863</guid><category>Journal of Pollination Ecology</category></item><item><title>Exploring the diversity of Peziza echinospora (Ascomycota, Pezizomycetes) and related species in Australia, with descriptions of the new species P. austroechinospora and P. meridionalis</title><link>https://doi.org/10.1080/00275514.2026.2616180</link><description>DOI: https://doi.org/10.1080/00275514.2026.2616180
-Journal: Mycologia
-Publisher: Informa UK Limited
-Published: 2026-03-06
-Authors: Luke J. Vaughan, Joanne L. Birch, Pamela S. Catcheside, Benjamin Lemmond, Camille Truong
-GBIF relevance: GBIF_CITED
-
-Peziza echinospora (Ascomycota, Pezizomycetes) is a species of cup-forming fungi that bears spiny, ellipsoid ascospores and is typically found on burnt ground as a saprotrophic species. It has a cosmopolitan distribution and has been reported from Australia based on morphological studies, but this has not been confirmed with molecular data. To address this knowledge gap and explore the phylogenetic diversity within the group, we investigated the species delimitation of P. echinospora and related</description><pubDate>Wed, 29 Jul 2026 10:58:04 GMT</pubDate><guid isPermaLink="false">gbif-literature:f410c4b2-fb8e-3fd4-bc3d-f589dec2e548</guid><category>Mycologia</category></item></channel></rss>
+Little is known about the helminth parasites of Baird’s pocket gopher, Geomys breviceps, particularly from specimens collected and examined from northeastern Texas. Four adult pocket gophers collected from Lamar (n = 3) and Titus (n = 1) counties yielded a cyclophyllidean tapeworm, Hymenolepis sp. in two (50%), and spirurid nematodes, Mastophorus muris in one (25%). These tapeworms were the same morphologically but new information suggests significant difference in mitochondrial sequences repres</description><pubDate>Wed, 29 Jul 2026 12:33:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:802c6a35-ac95-367d-9a43-6614c92e95cb</guid><category>Proceedings of the Oklahoma Academy of Science</category></item></channel></rss>

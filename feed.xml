@@ -1,5 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Wed, 05 Aug 2026 20:57:34 GMT</lastBuildDate><item><title>Risk analysis of cross-interface spillover of avian influenza between terrestrial bird and seabird hosts</title><link>https://doi.org/10.1016/j.avrs.2026.100358</link><description>DOI: https://doi.org/10.1016/j.avrs.2026.100358
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Fri, 07 Aug 2026 00:50:31 GMT</lastBuildDate><item><title>Assembling the Neotropical Tree Flora: Andean Uplift and the Historical Biogeography of the Brazil Nut Family (Lecythidaceae)</title><link>https://doi.org/10.1111/jbi.70225</link><description>DOI: https://doi.org/10.1111/jbi.70225
+Journal: Journal of Biogeography
+Publisher: Wiley
+Published: 2026-04-15
+Authors: Diana Medellín‐Zabala, Joseph L. M. Charboneau, Oscar M. Vargas, Stephen A. Smith, Deise J. P. Gonçalves
+GBIF relevance: GBIF_USED
+
+Aim                     The assembly of tropical tree floras is complex, involving many lineage‐specific histories; however, focusing on the biogeographic history of diverse clades can reveal general patterns. We investigated the historical biogeography of the ecologically important Brazil nut clade (Lecythidoideae) to: (1) expand prior phylogenies with greater sampling of the early branching Andean‐centered subclades; (2) infer the ages and dispersal histories of the major subclades; and (3) do</description><pubDate>Thu, 06 Aug 2026 14:13:29 GMT</pubDate><guid isPermaLink="false">gbif-literature:85d12230-6caa-34cc-a3a5-84bb983352e0</guid><category>Journal of Biogeography</category></item><item><title>Environmental Factors and Biodiversity in Nigeria (1960–2025)</title><link>https://doi.org/10.10120/jere.2026.v12i4.1011</link><description>DOI: https://doi.org/10.10120/jere.2026.v12i4.1011
+Journal: Journal of Environmental and Resource Economics
+Publisher: Journal of Environmental and Resource Economics
+Published: 2026-04-01
+Authors: Onipe Adabenege Yahaya
+GBIF relevance: GBIF_USED
+
+Nigeria, one of Africa's most biologically diverse nations, is confronting an accelerating biodiversity crisis driven by compounding environmental stressors. This study examines the impact of three primary environmental factors-deforestation rate, pollution levels, and climate change indicators-on biodiversity in Nigeria over the period 1960-2025, while controlling for location, terrain, population density, GDP per capita, income level, invasive species presence, and natural disasters. Employing</description><pubDate>Thu, 06 Aug 2026 12:44:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:c60e5945-6581-36b3-9626-f0d2f92ab383</guid><category>Journal of Environmental and Resource Economics</category></item><item><title>Climatic niche shifts along the worldwide expansion of jimsonweed (Datura stramonium L.)</title><link>https://doi.org/10.1007/s10530-026-03806-6</link><description>DOI: https://doi.org/10.1007/s10530-026-03806-6
+Journal: Biological Invasions
+Publisher: Springer Science and Business Media LLC
+Published: 2026-04-13
+Authors: Christine Vaz-Jarnieu, Francisco Rodríguez-Sánchez, Juan Arroyo
+GBIF relevance: GBIF_USED
+
+Biological invasions are one of the main drivers of global change. The European arrival to America in the late fifteenth century, and subsequent new trade routes, were critical events in the introduction of alien species, which have been increasing rapidly since the seventeenth century. In this study, we examine the global distribution and model the climatic niche of Datura stramonium , a cosmopolitan noxious weed. D. stramonium is of Mesoamerican origin and was introduced to Europe 450 years ag</description><pubDate>Thu, 06 Aug 2026 10:51:55 GMT</pubDate><guid isPermaLink="false">gbif-literature:ef525966-ca94-382f-8b0b-2f8a8fdf6ac5</guid><category>Biological Invasions</category></item><item><title>On the move: southern range expansion of Italian parti-coloured bats</title><link>https://doi.org/10.1007/s42991-026-00578-3</link><description>DOI: https://doi.org/10.1007/s42991-026-00578-3
+Journal: Mammalian Biology
+Publisher: Springer Science and Business Media LLC
+Published: 2026-08-01
+Authors: Emiliano Mori, Leonardo Ancillotto, Mattia Falaschi, Orly Razgour, Mariella Baratti
+GBIF relevance: GBIF_USED
+
+Climate change is a major driver of biogeographic patterns, prompting species to shift their geographical ranges. Most documented distributional changes by wildlife related to climate change involve poleward expansions or shifts. Here, we document a southward range expansion in the Italian territory by the parti-coloured bat, Vespertilio murinus . Considered as restricted to the Alps, a recent surge in sightings triggered the question of whether these observations represent an expanding local li</description><pubDate>Thu, 06 Aug 2026 10:35:03 GMT</pubDate><guid isPermaLink="false">gbif-literature:3403a7ba-3e6b-30bb-8114-9ad3e10ad257</guid><category>Mammalian Biology</category></item><item><title>Climate-driven changes in zoonotic risk of arenaviral hemorrhagic fevers in South America</title><link>https://doi.org/10.1038/s44298-026-00189-2</link><description>DOI: https://doi.org/10.1038/s44298-026-00189-2
+Journal: npj Viruses
+Publisher: Springer Science and Business Media LLC
+Published: 2026-04-15
+Authors: Pranav S. Kulkarni, Nuri Y. Flores-Pérez, Andie H. Jian, Brian H. Bird, Christine K. Johnson
+GBIF relevance: GBIF_USED
+
+Climate change is expected to significantly alter the ecological dynamics of zoonotic diseases, yet its long-term impact on rodent-borne hemorrhagic fevers in South America remains poorly understood. Here, we developed a robust predictive modeling framework that integrates species distribution models with a mechanistic force-of-infection approach to evaluate the effects of climate change on zoonotic risk of New World Arenaviruses. Using climate projections under Shared Socioeconomic Pathways SSP</description><pubDate>Thu, 06 Aug 2026 10:14:49 GMT</pubDate><guid isPermaLink="false">gbif-literature:08cb3c0b-171d-3081-bad7-37c66d661f2b</guid><category>npj Viruses</category></item><item><title>Predicting northern stonefly responses to climate change using species distribution modelling and population genetics (Plecoptera: Nemouridae)</title><link>https://doi.org/10.1111/icad.70080</link><description>DOI: https://doi.org/10.1111/icad.70080
+Journal: Insect Conservation and Diversity
+Publisher: Wiley
+Published: 2026-04-15
+Authors: Jude Mirghani, Katherine Schmalz, Anna Eichert, Amanda Markee, Jessica Ware
+GBIF relevance: GBIF_USED
+
+Climate change is one of the main drivers of a global insect decline. Stoneflies (Insecta: Plecoptera) have one of the highest local extinction rates among insects, in part due to their requirements for cold, highly oxygenated, unpolluted water. Investigating the population structure of stonefly species is integral to their conservation as it can identify populations at risk of localized extinction.In this study, we extracted DNA from Nemoura arctica (Esben‐Petersen, 1910), Nemoura cinerea (Retz</description><pubDate>Wed, 05 Aug 2026 14:44:18 GMT</pubDate><guid isPermaLink="false">gbif-literature:e2d761da-7bfe-3cbf-97bb-a056a03b8f25</guid><category>Insect Conservation and Diversity</category></item><item><title>The distribution of locally rare moss species in the Argentine Islands-Kyiv Peninsula region, Maritime Antarctic</title><link>https://doi.org/10.1017/s0954102026100650</link><description>DOI: https://doi.org/10.1017/s0954102026100650
+Journal: Antarctic Science
+Publisher: Cambridge University Press (CUP)
+Published: 2026-04-15
+Authors: Hanna Yevchun, Ivan Parnikoza, Peter Convey, Jerzy Smykla, Evgen Dykyi
+GBIF relevance: GBIF_USED
+
+Located in the central part of the Western Antarctic Peninsula, the Argentine Islands-Kyiv Peninsula region is a hotspot of moss diversity, with 51 species and one variety currently known. However, no studies have specifically addressed the distribution of rare mosses in this region. Applying the only definition of moss rarity currently available for Antarctica, we identify very rare (one to two unique occurrences) and rare (three to five unique occurrences) moss species in the region and presen</description><pubDate>Wed, 05 Aug 2026 14:41:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:d069c3ca-bd6e-3142-91b4-870cb300b416</guid><category>Antarctic Science</category></item><item><title>Погляд усередину: гніздові матеріали і деякі закономірності гніздової біології коноплянки Linaria cannabina (Linnaeus, C 1758) на Львівщині</title><link>https://doi.org/10.30970/vlubs.2024.92.07</link><description>DOI: https://doi.org/10.30970/vlubs.2024.92.07
+Journal: Visnyk of Lviv University. Biological series
+Publisher: Ivan Franko National University of Lviv
+Published: 2024-11-18
+Authors: O. Hnatyna, T. Makitra
+GBIF relevance: GBIF_CITED
+
+У статті розглянуто деякі аспекти гніздової біології коноплянки Linaria cannabina (Linnaeus, 1758) на Львівщині. Розкрито питання розміщення, складу гнізд і факторів, які на це впливають. Матеріалом слугували дані Банку анкет на гнізда і кладки птахів Західноукраїнського орнітологічного товариства (ЗУОТ) (n=181) та власні збори (n=18) протягом 40 років (з 1973 до 2012 рр.). Гнізда зібрано в різних біотопах і залежно від відстані до населеного пункту розділено на три групи (в межах населених пунк</description><pubDate>Wed, 05 Aug 2026 14:25:09 GMT</pubDate><guid isPermaLink="false">gbif-literature:9c8886f8-6b6e-3138-ab8c-757c700d4f79</guid><category>Visnyk of Lviv University. Biological series</category></item><item><title>Predicted Range Shifts of Non‐Native Grasses in Response to Climate Change Are Influenced by Photosynthetic Pathway: A Case Study in the Hawaiian Islands</title><link>https://doi.org/10.1111/ddi.70190</link><description>DOI: https://doi.org/10.1111/ddi.70190
+Journal: Diversity and Distributions
+Publisher: Wiley
+Published: 2026-04-15
+Authors: Curtis C. Daehler, Kevin Faccenda, Elizabeth Aquino Peterson, Kelsey C. Brock, Lucas Berio Fortini
+GBIF relevance: GBIF_USED
+
+Aim                                            Grasses comprise three main photosynthetic pathway variants (C                       3                       ‐BOP, C                       3                       ‐PACMAD and C                       4                       ‐PACMAD hereafter referred to as C                       4                       ). We sought to confirm climate niche differences among these photosynthetic pathway variants and assessed whether predicted non‐native grass range s</description><pubDate>Wed, 05 Aug 2026 13:10:54 GMT</pubDate><guid isPermaLink="false">gbif-literature:93966717-4ad5-3c75-a18f-68189456d0ce</guid><category>Diversity and Distributions</category></item><item><title>Dengue vector niche modeling with future SSP climatic scenarios over India using the machine learning-based MaxEnt model</title><link>https://doi.org/10.1007/s00484-026-03189-2</link><description>DOI: https://doi.org/10.1007/s00484-026-03189-2
+Journal: International Journal of Biometeorology
+Publisher: Springer Science and Business Media LLC
+Published: 2026-04-14
+Authors: Subrahmanya Hari Prasad Peri
+GBIF relevance: GBIF_USED
+
+Dengue remains a major mosquito-borne public-health threat, and climate change is expected to reshape the geographic suitability of its principal vectors. We developed India-wide species distribution models for Aedes aegypti and Aedes albopictus using a presence–background MaxEnt framework driven by high-resolution (~ 1 km) CHELSA bioclimatic predictors. Occurrence records were compiled from GBIF and subjected to transparent quality control and de-duplication on the modelling grid, yielding 301 </description><pubDate>Wed, 05 Aug 2026 12:39:09 GMT</pubDate><guid isPermaLink="false">gbif-literature:b3a2e0e9-38df-3689-85c6-56282405284c</guid><category>International Journal of Biometeorology</category></item><item><title>Morphology, ethology, new records, and ecological niche modeling for Hydromorphus and Tretanorhinus (Squamata, Colubridae) in Panama</title><link>https://doi.org/10.3897/herpetozoa.39.e173419</link><description>DOI: https://doi.org/10.3897/herpetozoa.39.e173419
+Journal: Herpetozoa
+Publisher: Pensoft Publishers
+Published: 2026-04-14
+Authors: Rogemif Fuentes, Abel Batista, Marcos Ponce, Mario Urriola, Katherine Muñóz
+GBIF relevance: GBIF_USED
+
+The genera Hydromorphus and Tretanorhinus (Colubridae) comprise uncommon, poorly studied aquatic snakes, largely because of their nocturnal and aquatic habits. In Panama, four species have been recorded: Hydromorphusconcolor, H.dunni, Tretanorhinusmocquardi, and T.nigroluteus. Although more than a century has passed since the first Panamanian record, knowledge of their distribution, morphology, ecology, and behavior remains limited. Through an exhaustive literature review and fieldwork, we updat</description><pubDate>Wed, 05 Aug 2026 12:26:50 GMT</pubDate><guid isPermaLink="false">gbif-literature:1d8287f3-f6b4-3a82-a70b-0ae7d7b246fa</guid><category>Herpetozoa</category></item><item><title>Risk analysis of cross-interface spillover of avian influenza between terrestrial bird and seabird hosts</title><link>https://doi.org/10.1016/j.avrs.2026.100358</link><description>DOI: https://doi.org/10.1016/j.avrs.2026.100358
 Journal: Avian Research
 Publisher: Elsevier BV
 Published: 2026-06-30
@@ -619,81 +696,4 @@ Published: 2026-03-06
 Authors: Luke J. Vaughan, Joanne L. Birch, Pamela S. Catcheside, Benjamin Lemmond, Camille Truong
 GBIF relevance: GBIF_CITED
 
-Peziza echinospora (Ascomycota, Pezizomycetes) is a species of cup-forming fungi that bears spiny, ellipsoid ascospores and is typically found on burnt ground as a saprotrophic species. It has a cosmopolitan distribution and has been reported from Australia based on morphological studies, but this has not been confirmed with molecular data. To address this knowledge gap and explore the phylogenetic diversity within the group, we investigated the species delimitation of P. echinospora and related</description><pubDate>Wed, 29 Jul 2026 10:58:04 GMT</pubDate><guid isPermaLink="false">gbif-literature:f410c4b2-fb8e-3fd4-bc3d-f589dec2e548</guid><category>Mycologia</category></item><item><title>Climate-driven shifts in the distribution of economically and ecologically important Paulownia species in China: Implications for sustainable cultivation</title><link>https://doi.org/10.1016/j.indcrop.2026.122956</link><description>DOI: https://doi.org/10.1016/j.indcrop.2026.122956
-Journal: Industrial Crops and Products
-Publisher: Elsevier BV
-Published: 2026-03-15
-Authors: Xuefei Tang, Mengyao Zhou, Guoqiang Fan, Xiaoqiao Zhai, Haibo Yang
-GBIF relevance: GBIF_USED
-
-Paulownia, valued as fast-growing timber crops in China, underpins a multi-billion-dollar industry through the production of high-quality wood for furniture and musical instruments, as well as the provision of ecological services. However, the sustainability of Paulownia wood, the primary raw material for this industrial chain, is increasingly threatened by climate change. To project future habitat suitability for three key commercial species of Paulownia—P. elongata, P. fortunei, and P. tomento</description><pubDate>Wed, 29 Jul 2026 10:40:16 GMT</pubDate><guid isPermaLink="false">gbif-literature:8e21abef-33e3-34c2-ac55-d6b165ab5954</guid><category>Industrial Crops and Products</category></item><item><title>A taxonomic revision of the genus Sesbania (Fabaceae: Sesbanieae) in southern Africa, including introduced species</title><link>https://doi.org/10.1016/j.sajb.2026.01.045</link><description>DOI: https://doi.org/10.1016/j.sajb.2026.01.045
-Journal: South African Journal of Botany
-Publisher: Elsevier BV
-Published: 2026-04-30
-Authors: Nomali S. Malindi, R.J. Sebola, K. Balkwill
-GBIF relevance: GBIF_CITED
-
-The genus Sesbania (Fabaceae) comprises approximately 80 species distributed in tropical and subtropical regions. Species circumscription of southern African members of Sesbania has been problematic due to overlapping morphological variation and had not been updated since a revision in 1963. Many specimens in various herbaria remained misidentified or identified only to genus level. The aims of this study were to conduct a detailed taxonomic revision of Sesbania (native and introduced species) i</description><pubDate>Wed, 29 Jul 2026 10:33:40 GMT</pubDate><guid isPermaLink="false">gbif-literature:2a7fe41a-8d91-3a2a-8f0d-09d74590272f</guid><category>South African Journal of Botany</category></item><item><title>Global assessment of alien freshwater megafauna reveals complex socio-economic impacts</title><link>https://doi.org/10.1016/j.oneear.2026.101623</link><description>DOI: https://doi.org/10.1016/j.oneear.2026.101623
-Journal: One Earth
-Publisher: Elsevier BV
-Published: 2026-04-17
-Authors: Xing Chen, Thomas G. Evans, Jonathan M. Jeschke, Phoebe Griffith, Sonja C. Jähnig
-GBIF relevance: GBIF_USED
-
-Freshwater megafauna are frequently introduced to new ecosystems for their perceived economic benefits. Meanwhile, these large alien animals can have unintended negative impacts on these ecosystems and the people who depend on them. However, socio-economic impacts of alien freshwater megafauna have not been systematically assessed at a global scale. Here, we integrate a novel scoring system with the nature’s contributions to people framework to quantify by magnitude and categorize by type the de</description><pubDate>Wed, 29 Jul 2026 09:55:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:6eb1841e-791e-3b0b-8f64-8591211c2100</guid><category>One Earth</category></item><item><title>Integrating the spatiotemporal connectivity – component effects framework into habitat conservation of migratory species: A case study for Swan Geese along the East Asian–Australasian Flyway</title><link>https://doi.org/10.1016/j.biocon.2026.111774</link><description>DOI: https://doi.org/10.1016/j.biocon.2026.111774
-Journal: Biological Conservation
-Publisher: Elsevier BV
-Published: 2026-04-30
-Authors: Cheng Yang, Houlang Duan, Xiubo Yu
-GBIF relevance: GBIF_USED
-
-Interconnected habitats are essential for migratory species to complete their life cycles. Traditional habitat connectivity assessment methods often neglect temporal interactions, changes over time, as well as the heterogeneous ecological roles of internal habitat components. These limitations hinder the effectiveness of conservation efforts. In this study, we developed a spatiotemporal connectivity - component effects framework to assess habitat distribution, spatiotemporal connectivity, compon</description><pubDate>Wed, 29 Jul 2026 09:52:31 GMT</pubDate><guid isPermaLink="false">gbif-literature:9e0be375-35dd-3a2d-8bb4-e1679935d3e4</guid><category>Biological Conservation</category></item><item><title>Projected climate-driven contraction of Mediterranean coniferous and mixed forests in North Africa: Ensemble SDMs with dispersal constraints</title><link>https://doi.org/10.1016/j.jenvman.2026.129205</link><description>DOI: https://doi.org/10.1016/j.jenvman.2026.129205
-Journal: Journal of Environmental Management
-Publisher: Elsevier BV
-Published: 2026-04-01
-Authors: Mohsen Ahmadi, Farzin Shabani, Manel Zaghdoudi, Mohammed Abu-Dieyeh, Kaouther Mechergui
-GBIF relevance: GBIF_USED
-
-Effective management of Mediterranean forests requires a clear understanding of their vulnerability and adaptive capacity to climate change. This study aimed to quantify climate-driven range shifts of native tree species in North Africa and to assess how species-specific dispersal limitations constrain access to future suitable habitats. We examined the impacts of climate change on 23 native tree species representing six plant families in the Mediterranean coniferous and mixed forests (MCMF) of </description><pubDate>Wed, 29 Jul 2026 09:50:21 GMT</pubDate><guid isPermaLink="false">gbif-literature:1776c9ab-e6f6-3431-a7a1-13c848d9ad7d</guid><category>Journal of Environmental Management</category></item><item><title>Short-term high-temperature stress enhances trait plasticity and phytochemical yield in the Southern African medicinal shrub Lippia javanica</title><link>https://doi.org/10.1016/j.sajb.2026.03.002</link><description>DOI: https://doi.org/10.1016/j.sajb.2026.03.002
-Journal: South African Journal of Botany
-Publisher: Elsevier BV
-Published: 2026-05-31
-Authors: E.J. Singini
-GBIF relevance: GBIF_USED
-
-Lippia javanica (Burm. f.) Spreng., a culturally significant medicinal shrub in African traditional healthcare, is increasingly valued for its therapeutic potential under changing climatic conditions. However, its resilience to elevated temperatures remains poorly understood. This study integrated species distribution modelling (SDM) with controlled-environment experimentation to assess both the climatic suitability and thermal acclimation capacity of L. javanica. SDMs based on 1502 occurrence r</description><pubDate>Wed, 29 Jul 2026 09:38:30 GMT</pubDate><guid isPermaLink="false">gbif-literature:5d1f0076-ce5a-3245-ae82-d94ed82af3c7</guid><category>South African Journal of Botany</category></item><item><title>Natural history societies as stewards of biodiversity data: Lessons from arachnology for improving quality, access and trust</title><link>https://doi.org/10.1016/j.ecoinf.2026.103694</link><description>DOI: https://doi.org/10.1016/j.ecoinf.2026.103694
-Journal: Ecological Informatics
-Publisher: Elsevier BV
-Published: 2026-06-30
-Authors: Alexander Bach, Martina Roß-Nickoll, Helge Bruelheide, Aletta Bonn, Michael Hohner
-GBIF relevance: GBIF_CITED
-
-Scientific societies, particularly taxon-focused natural history societies, play a crucial role in the long-term curation, mobilization, and governance of biodiversity data. They provide both the necessary expertise and social continuity to ensure data quality, foster trust, and build community cohesion. In this paper, we highlight the contributions of a natural history society for arachnids in Central Europe, the Arachnologische Gesellschaft, by describing two complementary biodiversity data in</description><pubDate>Wed, 29 Jul 2026 09:34:28 GMT</pubDate><guid isPermaLink="false">gbif-literature:29864727-4cd4-3f60-92ad-1ecba9782c2d</guid><category>Ecological Informatics</category></item><item><title>Data integration advances reproductive phenology research across temporal, spatial and taxonomic scales</title><link>https://doi.org/10.1002/ecog.08542</link><description>DOI: https://doi.org/10.1002/ecog.08542
-Journal: Ecography
-Publisher: Wiley
-Published: 2026-03-08
-Authors: Ella Cathcart‐van Weeren, John M. Dwyer, Brian Hawkins, Jennifer Holmes, Glenn Holmes
-GBIF relevance: GBIF_USED
-
-Climate change is altering plant reproductive phenology; however, a scarcity of long‐term, systematic monitoring hinders our ability to quantify and predict these responses in many parts of the world. We addressed this gap by demonstrating how data integration can be used to produce a synthesised record of reproductive phenology observations (flowering and fruiting) that spans longer time periods, larger spatial scales, and includes more species than any single source alone. Using Australian sub</description><pubDate>Wed, 29 Jul 2026 09:04:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:f370b34a-0e09-3bce-8e38-fb19990e9355</guid><category>Ecography</category></item><item><title>Primary Productivity and Habitat Depth Shape Developmental Mode in European Marine Gastropods</title><link>https://doi.org/10.1002/ece3.73147</link><description>DOI: https://doi.org/10.1002/ece3.73147
-Journal: Ecology and Evolution
-Publisher: Wiley
-Published: 2026-03-08
-Authors: Nicolás Weidberg, Juan Bueno‐Pardo, Ainhoa Diego, José Luis Acuña
-GBIF relevance: GBIF_USED
-
-Prolonged larval development in marine gastropods is less frequent in high latitudes, with non‐pelagic larval development much more common in these regions. This pattern has been historically referred to in biogeography as the Thorson's rule. The most invoked theoretical explanation for this pattern is that pelagic larval duration becomes too long as temperatures decrease, thus increasing exposure to predators and transport towards habitats not suitable for recruitment. However, more factors rat</description><pubDate>Wed, 29 Jul 2026 08:57:34 GMT</pubDate><guid isPermaLink="false">gbif-literature:bc85bdb6-c389-39ae-a5ad-7305138fb6e6</guid><category>Ecology and Evolution</category></item><item><title>Potential habitat suitability and landscape permeability analysis for the conservation of Red List plant species</title><link>https://doi.org/10.1007/s10980-026-02314-1</link><description>DOI: https://doi.org/10.1007/s10980-026-02314-1
-Journal: Landscape Ecology
-Publisher: Springer Science and Business Media LLC
-Published: 2026-02-19
-Authors: Nicu Alexandru Gîlea, Ileana Pătru-Stupariu, Athanasios Alexandru Gavrilidis, Simona R. Gradinaru, Simona Dumitrița Chirilă
-GBIF relevance: GBIF_USED
-
-Context Habitat fragmentation contributes to population isolation and threatens the survival of plant species listed on the Red List. Effective conservation measures require considering both suitable habitats and landscape permeability. Species Distribution Models (SDMs) are valuable for identifying suitable habitats. These models gain utility when combined with landscape permeability analyses for conservation planning. Objectives This study aims to (1) model the potentially suitable habitat dis</description><pubDate>Tue, 28 Jul 2026 16:37:10 GMT</pubDate><guid isPermaLink="false">gbif-literature:70517c6b-6543-3fb6-baf5-e7049481500a</guid><category>Landscape Ecology</category></item><item><title>Constructing an ecological security pattern for waterfront areas from the perspective of water culture conservation: a case study of the J section of the Beijing–Hangzhou grand canal</title><link>https://doi.org/10.1007/s10653-026-03075-1</link><description>DOI: https://doi.org/10.1007/s10653-026-03075-1
-Journal: Environmental Geochemistry and Health
-Publisher: Springer Science and Business Media LLC
-Published: 2026-02-19
-Authors: Haiyan Yang, Sheng He
-GBIF relevance: GBIF_USED
-
-Under rapid urbanization, waterfront space is increasingly encroached upon, disconnecting water cultural heritage protection from ecosystem restoration and undermining urban resilience. Focusing on the J section of the Beijing–Hangzhou Grand Canal, this paper proposes a “culture–ecology” framework to integrate an ecological–cultural security pattern. Five factors—water retention, soil conservation, biodiversity, water environmental capacity and water culture conservation—are coupled to establish</description><pubDate>Tue, 28 Jul 2026 16:14:23 GMT</pubDate><guid isPermaLink="false">gbif-literature:2974c99f-d072-31f0-ac74-4ca442215359</guid><category>Environmental Geochemistry and Health</category></item></channel></rss>
+Peziza echinospora (Ascomycota, Pezizomycetes) is a species of cup-forming fungi that bears spiny, ellipsoid ascospores and is typically found on burnt ground as a saprotrophic species. It has a cosmopolitan distribution and has been reported from Australia based on morphological studies, but this has not been confirmed with molecular data. To address this knowledge gap and explore the phylogenetic diversity within the group, we investigated the species delimitation of P. echinospora and related</description><pubDate>Wed, 29 Jul 2026 10:58:04 GMT</pubDate><guid isPermaLink="false">gbif-literature:f410c4b2-fb8e-3fd4-bc3d-f589dec2e548</guid><category>Mycologia</category></item></channel></rss>

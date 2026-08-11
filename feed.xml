@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Sun, 09 Aug 2026 20:20:26 GMT</lastBuildDate><item><title>OXYCARENUS LAVATERAE(FABRICIUS, 1787) (HEMIPTERA: HETEROPTERA: LYGAEIDAE) –НОВЫЙ ИНВАЗИВНЫЙ ВИДВ ФАУНЕ Г.ДОНЕЦКА:РАСПРОСТРАНЕНИЕ, ЧИСЛЕННОСТЬ, МОРФОМЕТРИЧЕСКАЯ ХАРАКТЕРИСТИКА</title><link>https://doi.org/10.55355/snv2026151102</link><description>DOI: https://doi.org/10.55355/snv2026151102
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Tue, 11 Aug 2026 01:57:38 GMT</lastBuildDate><item><title>Exploring distribution, caste-specific seasonality, and winter activity of three invasive wasps (Hymenoptera: Vespidae) in New Zealand using citizen science data</title><link>https://doi.org/10.1007/s00040-026-01099-5</link><description>DOI: https://doi.org/10.1007/s00040-026-01099-5
+Journal: Insectes Sociaux
+Publisher: Springer Science and Business Media LLC
+Published: 2026-04-18
+Authors: M. Anastasi, M. Bulgarella, J. Anastasi, P. J. Lester
+GBIF relevance: GBIF_USED
+
+Invasive social wasps are a growing concern in New Zealand, posing both ecological and economic threats. However, gathering large datasets on their phenology and seasonal dynamics can be challenging. In this study, the caste-specific seasonal activity and spatial distribution of three invasive social wasp species ( Polistes dominula , Vespula germanica , and Vespula vulgaris ) in New Zealand were investigated using online citizen science data. The original dataset, sourced from the Global Biodiv</description><pubDate>Mon, 10 Aug 2026 12:40:11 GMT</pubDate><guid isPermaLink="false">gbif-literature:3bbfad6d-00c1-3b0f-9c40-0ee79fa5b016</guid><category>Insectes Sociaux</category></item><item><title>The Chalk Streams of Southern England and Northern France Harbour Substantial Unique Components of the Overall Genetic Diversity of Atlantic Salmon ( Salmo salar L.)</title><link>https://doi.org/10.1111/eva.70237</link><description>DOI: https://doi.org/10.1111/eva.70237
+Journal: Evolutionary Applications
+Publisher: Wiley
+Published: 2026-04-17
+Authors: R. Andrew King, Guillaume Evanno, Jamie R. Stevens
+GBIF relevance: GBIF_CITED
+
+Populations of Atlantic salmon continue to suffer marked declines in abundance due to stressors acting in both their freshwater and marine habitats. It is therefore an imperative to identify populations in need of increased conservation intervention, with the aim of preserving as much as possible the genetic diversity present within the species. Previous microsatellite‐based analyses have shown the chalk rivers of southern England and northern France to hold genetically distinct populations of s</description><pubDate>Mon, 10 Aug 2026 12:37:47 GMT</pubDate><guid isPermaLink="false">gbif-literature:58bf62e4-6207-3d94-8fbd-a78caad8f8a7</guid><category>Evolutionary Applications</category></item><item><title>Secrets of the Spring‐Keepers: Phylogeographic Analyses of a Freshwater Amphipod Uncover Dispersal Pathways in Eastern North America</title><link>https://doi.org/10.1111/jbi.70227</link><description>DOI: https://doi.org/10.1111/jbi.70227
+Journal: Journal of Biogeography
+Publisher: Wiley
+Published: 2026-04-17
+Authors: Andrew G. Cannizzaro, Thomas R. Sawicki, David A. Lieb, David J. Berg
+GBIF relevance: GBIF_USED
+
+Aim                                            While the Nearctic freshwater amphipod                                                Gammarus minus                                              is known for its adaptation to groundwater environments, relatively little is known about other aspects of the evolutionary history of the species throughout its range, which spans much of the eastern United States. As a result, we investigated the phylogeography of the species.                            </description><pubDate>Mon, 10 Aug 2026 12:31:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:de0fead3-6fcf-3fb8-bd0f-9f6d2fd78487</guid><category>Journal of Biogeography</category></item><item><title>Hyperdominant Trees Reveal Savanna Vulnerability Under Climate Change</title><link>https://doi.org/10.1111/gcb.70859</link><description>DOI: https://doi.org/10.1111/gcb.70859
+Journal: Global Change Biology
+Publisher: Wiley
+Published: 2026-04-17
+Authors: Facundo Alvarez, Ben Hur Marimon‐Junior, Beatriz Schwantes Marimon, Wesley Jonatar Alves Cruz, Norberto Gomes Ribeiro Júnior
+GBIF relevance: GBIF_USED
+
+The Cerrado biome, spanning ~2 million km2, is one of the most extensive and biodiverse tropical savannas, yet it is paradoxically dominated by only 30 hyperdominant tree species (~2% of all species, &gt; 50% of all stems). However, their vulnerability to climate change and the effectiveness of current conservation efforts remain uncertain. By combining (i) species distribution models calibrated with edaphic‐climatic predictors and occurrence data for hyperdominant Cerrado trees with (ii) functiona</description><pubDate>Mon, 10 Aug 2026 12:08:10 GMT</pubDate><guid isPermaLink="false">gbif-literature:0d73aee8-b315-3827-bf92-555f887a7ccc</guid><category>Global Change Biology</category></item><item><title>Community Science: Big Insights From Small Mammal Data</title><link>https://doi.org/10.1002/ece3.73506</link><description>DOI: https://doi.org/10.1002/ece3.73506
+Journal: Ecology and Evolution
+Publisher: Wiley
+Published: 2026-04-18
+Authors: Marion Sherbourne, Meghan Ward, Meagan Stager, Shelby Cohen, Lucy Haaften
+GBIF relevance: GBIF_USED
+
+Biodiversity surveys can be costly and labor‐intensive; therefore, community science databases serve as a practical resource to support survey goals. Community science datasets may be a valuable tool for easily identifiable species. In contrast, cryptic or hard‐to‐identify species may appear less frequently in community science datasets. We investigated the reliability of community science datasets for evaluating the distribution and abundance of small mammals in Ontario, Canada. We selected eig</description><pubDate>Mon, 10 Aug 2026 12:05:17 GMT</pubDate><guid isPermaLink="false">gbif-literature:fff99e56-7a8b-365e-8d23-074b0f8182e6</guid><category>Ecology and Evolution</category></item><item><title>Oxytropis dariimaae (Fabaceae), a new species from Khovd Province, Mongolia</title><link>https://doi.org/10.6165/tai.2026.71.319</link><description>DOI: https://doi.org/10.6165/tai.2026.71.319
+Journal: TAIWANIA
+Publisher: National Taiwan University
+Published: 2026-06-01
+Authors: Dariganga MUNKHTULGA, Shukherdorj BAASANMUNKH, Chingis-Od CHOINOM, Batlai OYUNTSETSEG, Gun-Aajav BAYARMAA
+GBIF relevance: GBIF_CITED
+
+A new species, Oxytropis dariimaae (Fabaceae), from Sutai Mountain, Khovd Province, Mongolia is described and illustrated in this study. The new species is morphologically similar to O. sutaica, which belongs to section Verticillares| however, it can be distinguished by several key characteristics, including peduncle length, raceme structure, leaflet size, and pod morphology. Oxytropis dariimaae was provisionally assessed as data deficient. We provide taxonomic keys and comparative plates of clo</description><pubDate>Mon, 10 Aug 2026 09:52:35 GMT</pubDate><guid isPermaLink="false">gbif-literature:ebeaa5a0-2964-33d8-af90-8004408eb468</guid><category>TAIWANIA</category></item><item><title>OXYCARENUS LAVATERAE(FABRICIUS, 1787) (HEMIPTERA: HETEROPTERA: LYGAEIDAE) –НОВЫЙ ИНВАЗИВНЫЙ ВИДВ ФАУНЕ Г.ДОНЕЦКА:РАСПРОСТРАНЕНИЕ, ЧИСЛЕННОСТЬ, МОРФОМЕТРИЧЕСКАЯ ХАРАКТЕРИСТИКА</title><link>https://doi.org/10.55355/snv2026151102</link><description>DOI: https://doi.org/10.55355/snv2026151102
 Journal: Samara Journal of Science
 Publisher: Samara State University of Social Sciences and Education
 Published: 2026-04-15
@@ -656,45 +698,4 @@ Published: 2026-03-10
 Authors: Zinaida Klestova, Daniel Sauter, Michael Schindler, Thomas Iftner
 GBIF relevance: GBIF_USED
 
-Flaviviruses pose a major threat to global health and can cause severe disease in animals and humans. Among them, tick‐borne encephalitis virus (TBEV) and related members of the tick‐borne encephalitis (TBE) serocomplex are transmitted primarily by ticks and can lead to neurological disease, including encephalitis and death. Despite many years of research on the TBE‐serocomplex, no specific antiviral treatment has been developed. Langat virus (LGTV), another member of this serocomplex typically </description><pubDate>Thu, 30 Jul 2026 10:27:30 GMT</pubDate><guid isPermaLink="false">gbif-literature:e1a5791c-0348-3200-ab4a-8a56596b57fc</guid><category>Reviews in Medical Virology</category></item><item><title>A century of passive surveillance reveals widespread triatomines (Hemiptera: Reduviidae) across North Carolina, including detection of the Chagas disease parasite</title><link>https://doi.org/10.1093/jme/tjag024</link><description>DOI: https://doi.org/10.1093/jme/tjag024
-Journal: Journal of Medical Entomology
-Publisher: Oxford University Press (OUP)
-Published: 2026-03-10
-Authors: Nicholas Juhasz, Alka Manoj, Matthew A Bertone, Sarah A Hamer, Rachel Curtis-Robles
-GBIF relevance: GBIF_USED
-
-Trypanosoma cruzi, the parasitic protozoan that causes Chagas disease, can be transmitted via bite wound contamination with feces from triatomines (“kissing bugs,” Hemiptera: Reduviidae: Triatominae). Often thought of as restricted to Central and South America, kissing bugs live throughout North America, including North Carolina and other southern regions of the United States. In this assessment of kissing bugs in North Carolina, data were gathered from clinic samples and public submissions to o</description><pubDate>Thu, 30 Jul 2026 10:23:52 GMT</pubDate><guid isPermaLink="false">gbif-literature:48628cb1-a424-3732-961f-1e0744ed9d05</guid><category>Journal of Medical Entomology</category></item><item><title>In search of survival grounds—Habitat preference analysis and species distribution modelling of critically endangered Jerdon’s Courser, Rhinoptilus bitorquatus</title><link>https://doi.org/10.1007/s41324-026-00669-w</link><description>DOI: https://doi.org/10.1007/s41324-026-00669-w
-Journal: Spatial Information Research
-Publisher: Springer Science and Business Media LLC
-Published: 2026-03-09
-Authors: C. Sudhakar Reddy, G. Pranathi
-GBIF relevance: GBIF_USED
-
-This study presents habitat suitability modelling of critically endangered bird species - Jerdon’s Courser, Rhinoptilus bitorquatus . Species distribution analysis was conducted using bioclimatic, soil, vegetation, biophysical, topographic, hydrological, and habitat-structure variables covering the Sri Lankamalleswara wildlife sanctuary and the surrounding Lankamalla landscape in Eastern Ghats of Andhra Pradesh. Across the study area, dry deciduous forest is the most widespread vegetation type, </description><pubDate>Thu, 30 Jul 2026 09:02:07 GMT</pubDate><guid isPermaLink="false">gbif-literature:fb22feca-790d-376b-8319-d913ba15fdf5</guid><category>Spatial Information Research</category></item><item><title>Origins of Diversity in the Eastern Gulf Coastal Plain of North America: High Endemism Within a Biodiversity Hotspot</title><link>https://doi.org/10.1111/mec.70276</link><description>DOI: https://doi.org/10.1111/mec.70276
-Journal: Molecular Ecology
-Publisher: Wiley
-Published: 2026-03-09
-Authors: Elizabeth White, Pamela S. Soltis, Douglas E. Soltis
-GBIF relevance: GBIF_USED
-
-The Eastern Gulf Coastal Plain (EGCP) is a small region within the North American Coastal Plain (NACP), a recognised biodiversity hotspot. The EGCP has been described as ‘one of the most important hotspots of speciation and endemism’ in the United States, yet remains an anomaly relative to other regions with high biodiversity and endemism. In contrast to most biodiversity hotspots, the EGCP is homogeneous in elevation, coastal and geologically young. We here provide a novel synthesis of the orig</description><pubDate>Thu, 30 Jul 2026 08:58:28 GMT</pubDate><guid isPermaLink="false">gbif-literature:c24b267e-a374-3099-9abf-c234fb0cb1e7</guid><category>Molecular Ecology</category></item><item><title>Exploring the benefits of invasive alien plant species as food sources: Mapping their socio-ecological impacts in Zimbabwe</title><link>https://doi.org/10.20525/ijrbs.v15i1.4360</link><description>DOI: https://doi.org/10.20525/ijrbs.v15i1.4360
-Journal: International Journal of Research in Business and Social Science (2147- 4478)
-Publisher: Center for Strategic Studies in Business and Finance SSBFNET
-Published: 2026-03-05
-Authors: Alfred Maroyi
-GBIF relevance: GBIF_CITED
-
-Alien invasive plant species that invade natural habitats end up altering the ecosystem services and the socio-economic conditions. The current study, conducted in Zimbabwe, focused on assessing the food values of herbaceous invasive alien plant species. An extensive literature review resulted in identification of 21 herbaceous invasive alien plant species that are used as food plants in Zimbabwe. This comparative analysis of historical accounts of use from 1955 and subsequent publications revea</description><pubDate>Wed, 29 Jul 2026 12:41:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:0ed13825-8406-327b-ba2f-47dad3e771c8</guid><category>International Journal of Research in Business and Social Science (2147- 4478)</category></item><item><title>Spermacoce remota Lam.: A New Addition to the Flora of the Western Himalayas</title><link>https://doi.org/10.1007/s40009-026-01957-7</link><description>DOI: https://doi.org/10.1007/s40009-026-01957-7
-Journal: National Academy Science Letters
-Publisher: Springer Science and Business Media LLC
-Published: 2026-03-05
-Authors: Harminder Singh, Subhasmit Bhattacharyya, Puneet Kumar, Sushil Kumar Singh
-GBIF relevance: GBIF_CITED
-
-Spermacoce remota Lam. (Rubiaceae) is a pantropical weed of American origin, and is here reported for the first time as an addition to the flora of Western Himalayas, India. Previously, the species had been documented from other parts of India, but no records existed for its occurrence in the Western Himalayan region. The occurrence of S. remota in the Western Himalayas depicts the gradual spread of this weedy taxon into newer ecological regions.</description><pubDate>Wed, 29 Jul 2026 12:39:33 GMT</pubDate><guid isPermaLink="false">gbif-literature:6bca19f9-a5e4-364c-9969-6f4393ae8a44</guid><category>National Academy Science Letters</category></item><item><title>Helminth Parasites (Cestoda: Nematoda) of Baird's Pocket Gopher, Geomys breviceps (Rodentia: Geo-myidae) from Northeastern Texas</title><link>https://www.gbif.org/literature/802c6a35-ac95-367d-9a43-6614c92e95cb</link><description>Journal: Proceedings of the Oklahoma Academy of Science
-Publisher: Oklahoma Academy of Science
-Published: 2026-03-06
-Authors: Chris T. McAllister, Isabel Tresidder
-GBIF relevance: GBIF_CITED
-
-Little is known about the helminth parasites of Baird’s pocket gopher, Geomys breviceps, particularly from specimens collected and examined from northeastern Texas. Four adult pocket gophers collected from Lamar (n = 3) and Titus (n = 1) counties yielded a cyclophyllidean tapeworm, Hymenolepis sp. in two (50%), and spirurid nematodes, Mastophorus muris in one (25%). These tapeworms were the same morphologically but new information suggests significant difference in mitochondrial sequences repres</description><pubDate>Wed, 29 Jul 2026 12:33:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:802c6a35-ac95-367d-9a43-6614c92e95cb</guid><category>Proceedings of the Oklahoma Academy of Science</category></item></channel></rss>
+Flaviviruses pose a major threat to global health and can cause severe disease in animals and humans. Among them, tick‐borne encephalitis virus (TBEV) and related members of the tick‐borne encephalitis (TBE) serocomplex are transmitted primarily by ticks and can lead to neurological disease, including encephalitis and death. Despite many years of research on the TBE‐serocomplex, no specific antiviral treatment has been developed. Langat virus (LGTV), another member of this serocomplex typically </description><pubDate>Thu, 30 Jul 2026 10:27:30 GMT</pubDate><guid isPermaLink="false">gbif-literature:e1a5791c-0348-3200-ab4a-8a56596b57fc</guid><category>Reviews in Medical Virology</category></item></channel></rss>

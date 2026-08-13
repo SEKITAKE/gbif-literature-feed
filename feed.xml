@@ -1,5 +1,96 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Wed, 12 Aug 2026 20:33:05 GMT</lastBuildDate><item><title>Four new records of rare pileostipitate hydnoid fungi (Bankeraceae and Sarcodonaceae, Thelephorales) from Italy and Croatia</title><link>https://doi.org/10.11646/phytotaxa.751.3.1</link><description>DOI: https://doi.org/10.11646/phytotaxa.751.3.1
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Thu, 13 Aug 2026 20:31:09 GMT</lastBuildDate><item><title>Prioritizing individual conservation features in multi-objective conservation planning: a study case in Gansu Province, China</title><link>https://doi.org/10.1016/j.jenvman.2026.129341</link><description>DOI: https://doi.org/10.1016/j.jenvman.2026.129341
+Journal: Journal of Environmental Management
+Publisher: Elsevier BV
+Published: 2026-04-15
+Authors: Neng Xiong, Wenya Zhang, Yaqiong Wan, Liangfei Peng, Yue Qi
+GBIF relevance: GBIF_USED
+
+Maximizing overall conservation benefits in conservation planning always leads to inadequate conservation of certain features, thereby reducing conservation effectiveness. To address this issue, we treated each conservation feature as an independent unit and conducted a conservation planning across three biodiversity levels—species, ecosystem, and landscape—in Gansu Province, an ecologically diverse region in China. By evaluating different Zonation-based prioritization scenarios (species, ecosys</description><pubDate>Thu, 13 Aug 2026 15:39:39 GMT</pubDate><guid isPermaLink="false">gbif-literature:900bec92-d5fc-3dfe-9d43-cdc63ece60e0</guid><category>Journal of Environmental Management</category></item><item><title>Potential distribution of medium-sized felines in Morelos: climate suitability and coverage in protected natural areas</title><link>https://doi.org/10.12933/therya.2026.6224</link><description>DOI: https://doi.org/10.12933/therya.2026.6224
+Journal: THERYA
+Publisher: Asociacion Mexicana de Mastozoologia
+Published: 2026-01-31
+Authors: Ana Cecilia Bonilla Escudero, Jesús Aparicio Pérez, José Antonio Guerrero Enríquez, Juan M. Uriostegui-Velarde
+GBIF relevance: GBIF_USED
+
+The presence of the six species of felids distributed throughout Mexico has been documented in the state of Morelos. These species face serious  threats  from  habitat  loss  and  fragmentation  driven  by  human  activities.  Some,  particularly  medium-sized  felines,  such  as  margay,  jaguarundi, ocelot, and bobcat, remain poorly studied. Our objective was to identify their potential distribution areas within Morelos, assess the impact of human activities on these areas, and evaluate the ro</description><pubDate>Thu, 13 Aug 2026 15:32:50 GMT</pubDate><guid isPermaLink="false">gbif-literature:d707bae2-4b38-3b35-a005-2750de35a502</guid><category>THERYA</category></item><item><title>Species richness and ecogeographic patterns of Scarabaeinae (Coleoptera: Scarabaeidae) in Jalisco, Mexico</title><link>https://doi.org/10.12976/jib/2026.81.1.2</link><description>DOI: https://doi.org/10.12976/jib/2026.81.1.2
+Journal: Journal of Insect Biodiversity
+Publisher: Magnolia Press
+Published: 2026-03-12
+Authors: BENJAMÍN HERNÁNDEZ, DIANA MARÍA RIVERA-RODRÍGUEZ, CUAUHTEMOC DELOYA, MIGUEL VÁSQUEZ-BOLAÑOS, JOSÉ LUIS NAVERRETE-HEREDIA
+GBIF relevance: GBIF_USED
+
+We analyzed species richness and ecogeographic patterns of Scarabaeinae (Coleoptera: Scarabaeidae) in Jalisco, Mexico. Occurrence data were compiled from digital databases, literature, and entomological collections, yielding 6,042 records for 86 species. A current richness model was generated using 100 km² grid cells, and species distribution models were constructed using MaxEnt to estimate potential richness. We also performed a principal component analysis based on 23 climatic variables to ide</description><pubDate>Thu, 13 Aug 2026 15:08:12 GMT</pubDate><guid isPermaLink="false">gbif-literature:866af437-490f-3612-a683-0f055d6ca103</guid><category>Journal of Insect Biodiversity</category></item><item><title>Voucher-verified checklist of Colombian Pacific marine fishes with emphasis on material deposited in Colombian museums</title><link>https://doi.org/10.3897/zookeys.1272.141461</link><description>DOI: https://doi.org/10.3897/zookeys.1272.141461
+Journal: ZooKeys
+Publisher: Pensoft Publishers
+Published: 2026-03-12
+Authors: Jose Tavera, Beatriz S. Beltrán-León, Andrea Polanco F, Luis A. Zapata, Fernando A. Zapata
+GBIF relevance: GBIF_CITED
+
+A checklist of marine fishes from the Colombian Pacific is presented based on an appraisal of local inventories published in peer-reviewed journals and validation of records with voucher specimens deposited in Colombian marine fish collections and photographic records. Unpublished information collected over several years by the authors is also included. An exhaustive re-evaluation of the taxonomy of all species present in the area was also carried out. As a result, 727 species were confirmed, re</description><pubDate>Thu, 13 Aug 2026 14:46:25 GMT</pubDate><guid isPermaLink="false">gbif-literature:3e854c2e-f8d8-3770-8cbf-dbf9a16171f8</guid><category>ZooKeys</category></item><item><title>Evolutionary adaptation to global change reduces sustainable fisheries yields</title><link>https://doi.org/10.1126/science.aea1341</link><description>DOI: https://doi.org/10.1126/science.aea1341
+Journal: Science
+Publisher: American Association for the Advancement of Science (AAAS)
+Published: 2026-03-12
+Authors: Jan Kozłowski, Dustin J. Marshall, Craig R. White
+GBIF relevance: GBIF_USED
+
+Global warming is altering the fisheries that underpin food security, but projections of these impacts generally exclude evolutionary processes. We describe a model that forecasts how fish will adapt to future climates and the consequences of that evolution for fisheries yields. We predict that fish in warmer waters will grow faster but evolve earlier maturation, decreasing their maximum size. We predict that evolution ameliorates the impacts of climate change on fish fitness but exacerbates its</description><pubDate>Thu, 13 Aug 2026 14:18:32 GMT</pubDate><guid isPermaLink="false">gbif-literature:5773d32a-59ad-3dc9-98dd-8a7a59862193</guid><category>Science</category></item><item><title>Least-cost path model integration: a multidisciplinary approach to tackling urban nature deficit – evidence from Otavalo, an Andean city in Ecuador</title><link>https://doi.org/10.1080/19463138.2026.2643974</link><description>DOI: https://doi.org/10.1080/19463138.2026.2643974
+Journal: International Journal of Urban Sustainable Development
+Publisher: Informa UK Limited
+Published: 2026-03-12
+Authors: Daniel Villa-Castro, Juan Carlos García-Montoya, Santiago Cabrera-García, Gabriel Jácome-Aguirre
+GBIF relevance: GBIF_USED
+
+The necessity to develop greener, more efficient and context-adaptable methods to address global cities problems is more urgent than never as urbanisation rises and so do environmental, social and economic related problematics. This study proposed an innovative multidisciplinary Least-Cost Path method (LCP) application for modelling Green Infrastructure (GI) networks in urban areas. The model simultaneously considered different character variables including ground-level CO2 distribution. Perform</description><pubDate>Thu, 13 Aug 2026 14:06:20 GMT</pubDate><guid isPermaLink="false">gbif-literature:8abfdb9b-9970-3199-8c58-bdd739c103b8</guid><category>International Journal of Urban Sustainable Development</category></item><item><title>Impact of climate change on the suitable niches of an ornithophilous neotropical orchid (Elleanthus brasiliensis) and its pollen vectors</title><link>https://doi.org/10.1038/s41598-026-43348-4</link><description>DOI: https://doi.org/10.1038/s41598-026-43348-4
+Journal: Scientific Reports
+Publisher: Springer Science and Business Media LLC
+Published: 2026-03-12
+Authors: Marta Kolanowska
+GBIF relevance: GBIF_USED
+
+There is no doubt that climate change not only affects the spatial distribution of organisms but also alters ecological interactions that are crucial for the maintenance and functioning of ecosystems. Much research has been devoted to assessing the impact of global warming on animal-mediated pollination, which is vital for the reproduction of vascular plants. Most analyses have focused on insect pollen vectors, as these are the most common animals involved in pollination. The aim of this study w</description><pubDate>Thu, 13 Aug 2026 13:45:08 GMT</pubDate><guid isPermaLink="false">gbif-literature:40751954-048f-37a1-b65a-49deb7c6a205</guid><category>Scientific Reports</category></item><item><title>Global and regional evaluation of Corythucha marmorata distribution under different spatial modeling conditions</title><link>https://doi.org/10.1038/s41598-026-42897-y</link><description>DOI: https://doi.org/10.1038/s41598-026-42897-y
+Journal: Scientific Reports
+Publisher: Springer Science and Business Media LLC
+Published: 2026-03-12
+Authors: Dae-hyeon Byeon, Wang-Hee Lee
+GBIF relevance: GBIF_USED
+
+The performance of species distribution models is influenced by model algorithms, and the form of occurrence/non-occurrence data. Therefore, selecting an appropriate approach based on the objective and type/size of the modeling data is essential for reducing model uncertainty. In this study, we used a range of algorithm-based single models to predict the habitat suitability of Corythucha marmorata (chrysanthemum lace bug) worldwide and developed ensemble models using different methods, including</description><pubDate>Thu, 13 Aug 2026 13:37:00 GMT</pubDate><guid isPermaLink="false">gbif-literature:0ab89d4e-2a56-3ed8-8fe2-deb60090be7d</guid><category>Scientific Reports</category></item><item><title>The Bonito diving beetle (Mystonectes neomexicanus): always rare and currently lost without observations since 1976</title><link>https://doi.org/10.66264/jls.v1i1.34</link><description>DOI: https://doi.org/10.66264/jls.v1i1.34
+Journal: Journal of Lost Species
+Publisher: Journal of Lost Species
+Published: 2026-03-16
+Authors: Simon Doneski, Kelly Miller
+GBIF relevance: GBIF_USED
+
+The Bonito diving beetle, Mystonectes neomexicanus, is a predacious diving beetle (Coleoptera: Dytiscidae) known from the Sacramento Mountains and the Rio Hondo in New Mexico, Brewster, and Presidio Counties in Texas, and Chihuahua, Mexico. The species has been recognized as rare and potentially threatened since 1991. Since then, it has been designated as a Federal Species of Concern in the United States, a Forest Service Sensitive Species, a Bureau of Land Management Sensitive Species, and a Sp</description><pubDate>Thu, 13 Aug 2026 13:30:34 GMT</pubDate><guid isPermaLink="false">gbif-literature:e6b71e3c-4767-31d1-8ff0-8589bd9a2bef</guid><category>Journal of Lost Species</category></item><item><title>An expert-curated dataset of glass sponges (Porifera, Hexactinellida) distribution across the Atlantic and Arctic Oceans</title><link>https://doi.org/10.1016/j.dib.2026.112766</link><description>DOI: https://doi.org/10.1016/j.dib.2026.112766
+Journal: Data in Brief
+Publisher: Elsevier BV
+Published: 2026-06-30
+Authors: Celso Domingos, Ana Sofia Soares, Andreu Santín, Joana R. Xavier
+GBIF relevance: GBIF_USED
+
+Glass sponges (Porifera, Hexactinellida) are key habitat-forming organisms in deep-sea ecosystems, yet their diversity and distribution remains poorly understood. This work presents the first comprehensive and expert-curated dataset of Hexactinellida distribution records compiled from published literature and key biodiversity data repositories, including the Ocean Biodiversity Information System (OBIS), the Global Biodiversity Information Facility (GBIF), NOAA's National Database for Deep-sea Co</description><pubDate>Thu, 13 Aug 2026 12:44:07 GMT</pubDate><guid isPermaLink="false">gbif-literature:dec4c5b1-824d-379d-a0e9-3069a7b9f02f</guid><category>Data in Brief</category></item><item><title>Joint Influence of Seed Dormancy and Dispersal Syndrome on Dispersal Distance and Range Size Across Two Climate Regions</title><link>https://doi.org/10.1111/geb.70234</link><description>DOI: https://doi.org/10.1111/geb.70234
+Journal: Global Ecology and Biogeography
+Publisher: Wiley
+Published: 2026-04-20
+Authors: Wang Cai, Yuan Liu, YunAo Li, Min Cao, Carol C. Baskin
+GBIF relevance: GBIF_USED
+
+Aim                     Long distance dispersal and the ability to delay germination under unfavourable conditions (dormancy) are critical for plant persistence and range expansion. However, how dispersal syndrome and dormancy interactively shape maximum dispersal distance and species range size across climate regions remains unclear. We tested the hypothesis that a trade‐off between dormancy and dispersal distance operates differently in animal‐mediated versus abiotic dispersal systems, and tha</description><pubDate>Thu, 13 Aug 2026 12:06:23 GMT</pubDate><guid isPermaLink="false">gbif-literature:e2e38781-145a-3cfc-a5f4-ce925af15cb0</guid><category>Global Ecology and Biogeography</category></item><item><title>Rhinolophus euryale Blasius, 1853 (Chiroptera, Rhinolophidae) in Abruzzo, Italy: true rarity or lack of surveys?</title><link>https://doi.org/10.15560/22.2.303</link><description>DOI: https://doi.org/10.15560/22.2.303
+Journal: Check List
+Publisher: Pensoft Publishers
+Published: 2026-04-17
+Authors: Andrea Valeri, Corrado Modica, Bernd Ohlendorf, Enrico Lunghi
+GBIF relevance: GBIF_CITED
+
+Rhinolophus euryale Blasius, 1853 is a cave-dwelling species, whose occurrence in Abruzzo, Italy, has long remained uncertain. During monitoring activities carried out in a karstic cave located in Stiffe village (L’Aquila), we captured 34 bats, including 14 R. euryale. This record confirms this species’ presence in Abruzzo and highlights the importance of the site as a hibernaculum. Given the populations’ decline reported across the species’ range, these findings are crucial for conservation and</description><pubDate>Thu, 13 Aug 2026 11:58:22 GMT</pubDate><guid isPermaLink="false">gbif-literature:50af7a9f-e36c-3244-9760-b41178887c3e</guid><category>Check List</category></item><item><title>Tropical insect biodiversity loss from forest-pasture conversion is substantially underestimated across spatial scales</title><link>https://doi.org/10.1016/j.cub.2026.03.056</link><description>DOI: https://doi.org/10.1016/j.cub.2026.03.056
+Journal: Current Biology
+Publisher: Elsevier BV
+Published: 2026-05-04
+Authors: Diego E. Martínez-Revelo, Jacob B. Socolar, Felicity A. Edwards, Claudia A. Medina-Uribe, Jose M. Ochoa Quintero
+GBIF relevance: GBIF_USED
+
+Understanding how biodiversity responds to forest conversion across spatial scales is essential for designing effective conservation and monitoring strategies. Using abundance-based models at a spatial resolution of 2 × 2 km, we analyzed 243 dung beetle species sampled across 865 sites within 13 Colombian ecoregions and found that biodiversity loss is substantially amplified at broader spatial scales under simulated scenarios. Biodiversity loss, measured as the proportion of species negatively a</description><pubDate>Thu, 13 Aug 2026 11:47:13 GMT</pubDate><guid isPermaLink="false">gbif-literature:8a8bd64f-6bca-3ea6-bddb-8c3589e5bbad</guid><category>Current Biology</category></item><item><title>Four new records of rare pileostipitate hydnoid fungi (Bankeraceae and Sarcodonaceae, Thelephorales) from Italy and Croatia</title><link>https://doi.org/10.11646/phytotaxa.751.3.1</link><description>DOI: https://doi.org/10.11646/phytotaxa.751.3.1
 Journal: Phytotaxa
 Publisher: Magnolia Press
 Published: 2026-04-15
@@ -608,94 +699,4 @@ Published: 2026-03-03
 Authors: Tobias Fremout, Carlos E. González-Orozco, Viviana Ceccarelli, Erika K. Ramirez-Siniva, Evert Thomas
 GBIF relevance: GBIF_USED
 
-Colombia is an emerging frontier in fine-flavour cacao production, but its potential is threatened by climate change. This study assesses climate-driven shifts in suitability for commercially cultivated and wild cacao using a combination of different ensemble habitat suitability models (i.e. ensemble-of-ensemble models). To guide the sourcing of planting material and zone-specific adaptation measures, suitable areas were categorized into ecogeographical zones with similar environmental condition</description><pubDate>Mon, 03 Aug 2026 21:02:48 GMT</pubDate><guid isPermaLink="false">gbif-literature:7b5bdff8-905a-3877-8c37-d1e1de8ea0b3</guid><category>Regional Environmental Change</category></item><item><title>Burning biodiversity: Wildfire probability and environmental exposure of endemic reptiles in the Trans-Mexican Volcanic Belt</title><link>https://doi.org/10.1016/j.actao.2026.104157</link><description>DOI: https://doi.org/10.1016/j.actao.2026.104157
-Journal: Acta Oecologica
-Publisher: Elsevier BV
-Published: 2026-03-31
-Authors: Armando Sunny, Jonás Álvarez-Lopeztello, Javier Manjarrez, Stéphane Couturier, Rosa Laura Heredia-Bobadilla
-GBIF relevance: GBIF_USED
-
-Wildfires are increasingly recognized as an important pressure on biodiversity in montane regions. The Trans-Mexican Volcanic Belt (TMVB) supports high reptile endemism, yet the degree to which species’ potential habitats intersect fire-prone environments remains poorly quantified. In this study, we analyzed the spatial and temporal relationships between fire occurrence and reptile habitat by integrating species distribution models, fire risk layers, land cover loss, and landscape metrics across</description><pubDate>Mon, 03 Aug 2026 20:36:43 GMT</pubDate><guid isPermaLink="false">gbif-literature:626af04c-ec4d-3452-865e-c6fb0817e6f2</guid><category>Acta Oecologica</category></item><item><title>Conservation gaps and the essential role of Indigenous Lands in protecting small non-volant mammals in Brazilian Amazonian</title><link>https://doi.org/10.1016/j.jnc.2026.127242</link><description>DOI: https://doi.org/10.1016/j.jnc.2026.127242
-Journal: Journal for Nature Conservation
-Publisher: Elsevier BV
-Published: 2026-06-30
-Authors: Simone Almeida Pena, Cláudia Regina da Silva, Rafaela Jemely Rodrigues Alexandre, Thiago Bernardi Vieira
-GBIF relevance: GBIF_USED
-
-Accelerated deforestation in the Brazilian Amazon threatens biodiversity, particularly small non-volant mammals such as marsupials and rodents. This study evaluates the role of Protected Areas (SPAs and SUAs) and Indigenous Lands (ILs) in conserving these species. Findings reveal that less than 20% of the species’ potential distribution lies within Protected Areas. Rodents have only 9.56% of their habitat protected, while marsupials have even less coverage. However, combining all protection cate</description><pubDate>Mon, 03 Aug 2026 20:22:36 GMT</pubDate><guid isPermaLink="false">gbif-literature:6e7775ba-60f2-3569-8f0c-554235e99c41</guid><category>Journal for Nature Conservation</category></item><item><title>Wood anatomy of South African Thymelaeaceae: systematic and ecological implications</title><link>https://doi.org/10.1016/j.sajb.2026.02.025</link><description>DOI: https://doi.org/10.1016/j.sajb.2026.02.025
-Journal: South African Journal of Botany
-Publisher: Elsevier BV
-Published: 2026-04-30
-Authors: Funmilade M. Akinlabi, Alexei A. Oskolski
-GBIF relevance: GBIF_USED
-
-The cosmopolitan family Thymelaeaceae is represented in South Africa by nine genera and approximately 200 species, occurring predominantly in the fynbos biome but also present in other vegetation types. We examined the wood structure of 21 South African species belonging to seven genera of this family (Dais, Gnidia, Lachnaea, Lasiosiphon, Peddiea, Passerina, and Struthiola) to assess the systematic value and ecological significance of selected anatomical traits. The studied species share a suite</description><pubDate>Mon, 03 Aug 2026 20:15:49 GMT</pubDate><guid isPermaLink="false">gbif-literature:06a05dbe-5986-3825-a600-41228c8a3737</guid><category>South African Journal of Botany</category></item><item><title>A biogeographical inventory and the first taxonomic key to species of Cumacea (Crustacea: Peracarida) for the deep Arctic Ocean</title><link>https://doi.org/10.1016/j.dsr2.2026.105612</link><description>DOI: https://doi.org/10.1016/j.dsr2.2026.105612
-Journal: Deep Sea Research Part II: Topical Studies in Oceanography
-Publisher: Elsevier BV
-Published: 2026-06-30
-Authors: Carolin Uhlir, Bodil A. Bluhm, Saskia Brix, Jennifer Dannheim, Barbara Górska
-GBIF relevance: GBIF_USED
-
-Located in the Fram Strait, the only deep-water connection between the Central Arctic Ocean (CAO) and the World Oceans, the long-term HAUSGARTEN (HG) observatory monitors potential range shifts of boreal and Arctic species. In order to understand potential future shifts, species inventories with consistent identifications are required. Based on 10 years of box corer and epibenthic sled sampling, a total of 2198 individuals were examined, yielding 19 species, 15 of which occurred below 500 m and </description><pubDate>Mon, 03 Aug 2026 20:05:20 GMT</pubDate><guid isPermaLink="false">gbif-literature:700c6d88-d713-3e79-b0ec-7ec349b75866</guid><category>Deep Sea Research Part II: Topical Studies in Oceanography</category></item><item><title>Evolutionary and phytogeographic insights into Zanthoxylum (Rutaceae) fossil seeds in South China from the Oligocene to Pleistocene</title><link>https://doi.org/10.1016/j.revpalbo.2026.105538</link><description>DOI: https://doi.org/10.1016/j.revpalbo.2026.105538
-Journal: Review of Palaeobotany and Palynology
-Publisher: Elsevier BV
-Published: 2026-06-30
-Authors: Shenglan Xu, Yuan Zheng, Hanzhang Song, Luliang Huang, Xiaoyan Liu
-GBIF relevance: GBIF_USED
-
-The genus Zanthoxylum (Rutaceae) has a rich fossil record ranging from the Eocene to the Pleistocene across various regions worldwide. However, its earliest occurrence in South China has not been confirmed through direct fossil evidence until now. Four fossil species of Zanthoxylum from South China are described, including a new species, Zanthoxylum guipingense Xu, Song et Jin, based on well-preserved seeds from the Miocene Erzitang Formation of Guiping Basin, Guangxi; a fossil species, Zanthoxy</description><pubDate>Mon, 03 Aug 2026 19:51:45 GMT</pubDate><guid isPermaLink="false">gbif-literature:c5c4fbfa-8801-3191-b2d7-161f4e20a276</guid><category>Review of Palaeobotany and Palynology</category></item><item><title>Habitat modelling of Xylopia aethiopica (Dunal) A. Rich. of the Guineo-Congolese region in Benin, West Africa</title><link>https://www.gbif.org/literature/414c1c3e-bd8d-3add-b41c-b0b4826e2fd0</link><description>Journal: Afrique SCIENCE
-Publisher: UNIVERSITÉ NANGUI
-Published: 2026-03-01
-Authors: Essè Florentin DISSOU, Hermeline Eliante Romualde Gbedande DOSSA, Soufiyanou KARIMOU, Agossou Brice Hugues TENTE, Essin Florent DISSOU
-GBIF relevance: GBIF_USED
-
-This study analyses current and future areas favourable to the conservation of Xylopia aethiopica in the Guineo-Congolese region of Benin, taking climate change into account up to 2055. The study used a total of 1201 Xylopia aethiopica occurrence points combined with current and future climate variables of the study area. The Maximum Entropy (MaxEnt), Random Forest (RF), Boosted Regression Trees (BRT), Generalized Additive Model (GAM) and Generalized Linear Model (GLM) algorithms were used, base</description><pubDate>Mon, 03 Aug 2026 14:57:57 GMT</pubDate><guid isPermaLink="false">gbif-literature:414c1c3e-bd8d-3add-b41c-b0b4826e2fd0</guid><category>Afrique SCIENCE</category></item><item><title>Beyond flowers: exploring Calendula officinalis aerial parts composition and biological potential</title><link>https://doi.org/10.1016/j.bcab.2026.104042</link><description>DOI: https://doi.org/10.1016/j.bcab.2026.104042
-Journal: Biocatalysis and Agricultural Biotechnology
-Publisher: Elsevier BV
-Published: 2026-06-30
-Authors: Giovanna Schiavone, Sabrina De Pascale, Paola Imbimbo, Ramila Mammadova, Seppo Vainio
-GBIF relevance: GBIF_CITED
-
-Calendula officinalis is a medicinal plant belonging to the Asteraceae family, widely recognized for its biological potential. Although C. officinalis flowers are traditionally the part of the plant used for medicinal and cosmetic applications, this study focuses on the aerial parts, including stems and leaves that are generally considered as a byproduct. An untargeted metabolomic approach on the hydroalcoholic extract of C. officinalis aerial parts correlated chemical composition with different</description><pubDate>Mon, 03 Aug 2026 14:43:24 GMT</pubDate><guid isPermaLink="false">gbif-literature:ddfddc3c-cb98-38b6-b3cd-a001fd8279cf</guid><category>Biocatalysis and Agricultural Biotechnology</category></item><item><title>Sexual coercion dominates mating behaviour in the South American livebearing fish genus Pseudopoecilia (Cyprinodontiformes: Poeciliidae)</title><link>https://doi.org/10.1016/j.anbehav.2026.123560</link><description>DOI: https://doi.org/10.1016/j.anbehav.2026.123560
-Journal: Animal Behaviour
-Publisher: Elsevier BV
-Published: 2026-05-31
-Authors: Callen Inman, Maxximus Ramsaroop, Jyotishko Koley, Leonardo Ávila, Dillan Burbano
-GBIF relevance: GBIF_CITED
-
-Studies aiming to advance our understanding of how sexual selection operates are often dominated by charismatic species with ornate visual signals. Research on the livebearing fish family Poeciliidae is no exception: heavily studied species often bear elaborate ornaments, such as sail-like dorsal fins and sword-like caudal fins. Yet the majority of poeciliid species have not evolved these traits. Because they lack morphology facilitating either display or direct male–male combat, unornamented po</description><pubDate>Mon, 03 Aug 2026 14:40:16 GMT</pubDate><guid isPermaLink="false">gbif-literature:97698f25-10ca-3346-9e24-ef450e701ceb</guid><category>Animal Behaviour</category></item><item><title>A new species of Lomechusoides (Coleoptera, Staphylinidae) from Formica polyctena anthills in Northeastern Europe</title><link>https://doi.org/10.3897/zookeys.1275.182781</link><description>DOI: https://doi.org/10.3897/zookeys.1275.182781
-Journal: ZooKeys
-Publisher: Pensoft Publishers
-Published: 2026-03-30
-Authors: Hjalte Sebastian Kjærby, Sean Birk Bek Craig, Philip Francis Thomsen, Aslak Kappel Hansen
-GBIF relevance: GBIF_USED
-
-Lomechusoidesumbrosussp. nov. (Coleoptera: Staphylinidae: Aleocharinae: Lomechusini) is described, a socially integrated myrmecophile associated with Formicapolyctena Foerster, 1850. The species is documented from Sweden, Finland, Estonia, Poland, Belarus, and Western Russia (incl. Ural Mountains) based on both newly collected and museum specimens. Field observations show beetles on the surface of host mounds and within nest material, indicating a close association with red wood ant hills. Morph</description><pubDate>Mon, 03 Aug 2026 14:38:23 GMT</pubDate><guid isPermaLink="false">gbif-literature:f59453ef-266d-3973-a501-12c7d4687b07</guid><category>ZooKeys</category></item><item><title>Robust allocation of fire management resources towards threatened species conservation under uncertainty</title><link>https://doi.org/10.1016/j.ecolmodel.2026.111582</link><description>DOI: https://doi.org/10.1016/j.ecolmodel.2026.111582
-Journal: Ecological Modelling
-Publisher: Elsevier BV
-Published: 2026-07-31
-Authors: Patrick J. Lawton, Gregory A. Backus, Miranda Brooke Rose, Janet Franklin, Santiago José Elías Velazco
-GBIF relevance: GBIF_USED
-
-Various strategies have been proposed to contend with the threat posed by increased fire frequencies to fire-adapted species such as those found in Mediterranean-type ecosystems. Biophysical models for fire-sensitive population dynamics coupled with decision-theoretic methods have presented a promising approach for guiding the allocation of available management resources. However, uncertainty is often disregarded in these models, as model parameters are fixed at baseline values assumed to repres</description><pubDate>Mon, 03 Aug 2026 14:34:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:8b594950-21b1-3014-9118-5dd3a2b32dd1</guid><category>Ecological Modelling</category></item><item><title>Functional traits are better than climate niche approach at predicting the vital growth and mortality rates of urban tree species</title><link>https://doi.org/10.1016/j.ufug.2026.129450</link><description>DOI: https://doi.org/10.1016/j.ufug.2026.129450
-Journal: Urban Forestry &amp; Urban Greening
-Publisher: Elsevier BV
-Published: 2026-06-30
-Authors: Mohammad Golam Kibria, Mark G. Tjoelker, Manuel Esperón-Rodríguez, Renée M. Marchin, Stefan K. Arndt
-GBIF relevance: GBIF_USED
-
-Climate niche approaches predict widespread vulnerability of urban tree species in cities, but the accuracy of these predictions has limitations given that many species can survive in cities outside their native distributions. Predictions based on functional traits offer an alternative approach, through quantifying species’ physiological tolerances, to select stress-tolerant urban tree species for future climates. We aimed to investigate if climate niche-based approaches or functional traits can</description><pubDate>Mon, 03 Aug 2026 14:22:17 GMT</pubDate><guid isPermaLink="false">gbif-literature:cc463bc7-7873-3905-80fc-9457b9c6b2b6</guid><category>Urban Forestry &amp; Urban Greening</category></item><item><title>An updated checklist of the vascular flora native to the State of Palestine – West Bank</title><link>https://doi.org/10.3897/bdj.14.e188380</link><description>DOI: https://doi.org/10.3897/bdj.14.e188380
-Journal: Biodiversity Data Journal
-Publisher: Pensoft Publishers
-Published: 2026-03-31
-Authors: Mohammed Saleem Ali-shtayeh, Salam Yousef Abuzaitoun, Rana Majed Jamous
-GBIF relevance: GBIF_USED
-
-The Palestinian West Bank is located within the eastern Mediterranean biodiversity hotspot and hosts a highly diverse native vascular flora despite its limited geographic extent and pronounced environmental gradients. In this study, we present a substantially updated checklist of the native vascular plants of the Palestinian West Bank, based on critical taxonomic revision, harmonised nomenclature and comprehensive synthesis of recent floristic evidence. The update integrates newly-published dist</description><pubDate>Mon, 03 Aug 2026 14:18:39 GMT</pubDate><guid isPermaLink="false">gbif-literature:5a54fc61-3f9a-3961-a912-0959bc3b07bd</guid><category>Biodiversity Data Journal</category></item><item><title>Projecting the potential distribution of Setaria palmifolia in China in response to climate change</title><link>https://doi.org/10.1016/j.indic.2026.101263</link><description>DOI: https://doi.org/10.1016/j.indic.2026.101263
-Journal: Environmental and Sustainability Indicators
-Publisher: Elsevier BV
-Published: 2026-06-30
-Authors: Yangzhou Xiang, Suhang Li, Ying Liu, Qiong Yang, Jinxin Zhang
-GBIF relevance: GBIF_USED
-
-Accurately predicting the potential distribution of Setaria palmifolia in China is crucial for assessing its climatic adaptability as a forage resource and for developing sustainable utilization strategies. This study systematically integrated 927 species distribution records while employing a comprehensive set of multidimensional environmental variables, including climate, topography, vegetation, and human activity. Using an optimized Maximum Entropy (MaxEnt) model, we simulated the potential g</description><pubDate>Mon, 03 Aug 2026 14:14:21 GMT</pubDate><guid isPermaLink="false">gbif-literature:8e385af8-0b9f-3d2d-9cd0-049259a3ebdf</guid><category>Environmental and Sustainability Indicators</category></item></channel></rss>
+Colombia is an emerging frontier in fine-flavour cacao production, but its potential is threatened by climate change. This study assesses climate-driven shifts in suitability for commercially cultivated and wild cacao using a combination of different ensemble habitat suitability models (i.e. ensemble-of-ensemble models). To guide the sourcing of planting material and zone-specific adaptation measures, suitable areas were categorized into ecogeographical zones with similar environmental condition</description><pubDate>Mon, 03 Aug 2026 21:02:48 GMT</pubDate><guid isPermaLink="false">gbif-literature:7b5bdff8-905a-3877-8c37-d1e1de8ea0b3</guid><category>Regional Environmental Change</category></item></channel></rss>

@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Thu, 10 Sep 2026 22:05:22 GMT</lastBuildDate><item><title>The Potential Habitat of Liparis campylostalix (Orchidaceae) in China Under Climate Change Scenario Predicted by MaxEnt Model</title><link>https://doi.org/10.1002/ece3.73536</link><description>DOI: https://doi.org/10.1002/ece3.73536
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Fri, 11 Sep 2026 22:06:06 GMT</lastBuildDate><item><title>Hemipilia huanglongensis (Orchidaceae), a new species from north Sichuan, China</title><link>https://doi.org/10.3897/phytokeys.273.181545</link><description>DOI: https://doi.org/10.3897/phytokeys.273.181545
+Journal: PhytoKeys
+Publisher: Pensoft Publishers
+Published: 2026-04-22
+Authors: Da-Jun Xie, Jin-Xiao Li, Tan Deng, Ruo-Xun Wei, Quan-Li Dou
+GBIF relevance: GBIF_CITED
+
+A new species of Orchidaceae, Hemipiliahuanglongensis D.J.Xie &amp; R.B.Zhang, was discovered on steep karst slopes in northern Sichuan, China and is described and illustrated, based on morphological and molecular phylogenetic evidence. While morphologically similar to H.amplexifolia (Tang &amp; F.T.Wang) Y.Tang and H.Peng, H.faberi (Rolfe) Y.Tang and H.Peng and H.tetraloba (Finet) Y.Tang and H.Peng, it can be distinguished by a squamose lip base with an upwardly protruding lamella, along with larger fl</description><pubDate>Fri, 11 Sep 2026 14:00:37 GMT</pubDate><guid isPermaLink="false">gbif-literature:8c8853bf-e5b4-3a61-a9d1-586c4db3dfeb</guid><category>PhytoKeys</category></item><item><title>The genome sequence of the comb-clawed beetle, Gonodera luperus (Herbst, 1783) (Coleoptera: Tenebrionidae)</title><link>https://doi.org/10.12688/wellcomeopenres.26357.1</link><description>DOI: https://doi.org/10.12688/wellcomeopenres.26357.1
+Journal: Wellcome Open Research
+Publisher: F1000 Research Ltd
+Published: 2026-04-22
+Authors: Michael F. Geiser, Dmitry Telnov
+GBIF relevance: GBIF_CITED
+
+We present a genome assembly from an individual female                     Gonodera luperus                     (comb-clawed beetle; Arthropoda; Insecta; Coleoptera; Tenebrionidae). The assembly contains two haplotypes with total lengths of 327.52 megabases and 344.83 megabases. Haplotype 1 is scaffolded into 8 chromosomal pseudomolecules, including the X sex chromosome. Haplotype 2 was assembled to scaffold level. The mitochondrial genome has also been assembled, with a length of 15.79 kilobase</description><pubDate>Fri, 11 Sep 2026 13:25:32 GMT</pubDate><guid isPermaLink="false">gbif-literature:0fb036a4-0609-30ee-b7e6-c1ea78bc7e8f</guid><category>Wellcome Open Research</category></item><item><title>Modeling Climate Suitability for Triticum aestivum L. (Common Wheat) in Pakistan Using the MaxEnt Approach</title><link>https://doi.org/10.48084/etasr.16545</link><description>DOI: https://doi.org/10.48084/etasr.16545
+Journal: Engineering, Technology &amp; Applied Science Research
+Publisher: Engineering, Technology &amp; Applied Science Research
+Published: 2026-04-05
+Authors: Amna Rashid, Muhammad Nawaz Chaudhry, Ahmed Mohamed Emara, Arfat Ahmad Khan, Zaffar Ahmed Shaikh
+GBIF relevance: GBIF_USED
+
+Pakistan ranks among the top ten nations globally that are likely to experience severe impacts from climate change and are facing critical food security challenges. Variability in temperature and rainfall alters the geographical suitability of land for crop cultivation. This study employed the Maximum Entropy (MaxEnt) model to forecast the effects of climate change and evaluate land suitability for Triticum aestivum L. (common wheat) production in Pakistan, where it is a major staple crop. Biocl</description><pubDate>Thu, 10 Sep 2026 20:30:40 GMT</pubDate><guid isPermaLink="false">gbif-literature:d7041f6b-d663-35d1-a1c7-b05bf419c34e</guid><category>Engineering, Technology &amp; Applied Science Research</category></item><item><title>The Potential Habitat of Liparis campylostalix (Orchidaceae) in China Under Climate Change Scenario Predicted by MaxEnt Model</title><link>https://doi.org/10.1002/ece3.73536</link><description>DOI: https://doi.org/10.1002/ece3.73536
 Journal: Ecology and Evolution
 Publisher: Wiley
 Published: 2026-04-21
@@ -675,25 +696,4 @@ Published: 2026-06-01
 Authors: Junwen Guo, Jan C. Semenza, Frauke Ecke, Annapaola Rizzoli, Francesca Dagostin
 GBIF relevance: GBIF_USED
 
-The landscape of emerging zoonoses is being rapidly reshaped by concurrent climate change, environmental transformation, and biodiversity loss. These pressures can alter host populations, pathogen dynamics, and human exposure. Yet, continental-scale evidence linking multi-sector drivers to human infection risk for specific rodent-borne diseases remains limited, particularly for hantavirus. To untangle these influences, we assembled the most high-resolution European hantavirus infection dataset t</description><pubDate>Mon, 17 Aug 2026 20:53:16 GMT</pubDate><guid isPermaLink="false">gbif-literature:333e4d95-cdee-3b8c-8465-6d51bdc610e3</guid><category>Environmental Research</category></item><item><title>Common Buckwheat (Fagopyrum esculentum Mill.) as a Support for Sustainable Agriculture</title><link>https://doi.org/10.3390/su18062823</link><description>DOI: https://doi.org/10.3390/su18062823
-Journal: Sustainability
-Publisher: MDPI AG
-Published: 2026-03-13
-Authors: Piotr Jarosław Żarczyński, Ewa Mackiewicz-Walec, Sławomir Józef Krzebietke, Stanisław Sienkiewicz, Soňa Hlinková
-GBIF relevance: GBIF_USED
-
-Common buckwheat (Fagopyrum esculentum Mill.) is a pseudocereal that has recently gained increasing interest among both farmers and scientists. Its low soil requirements, high adaptability, and high resistance to diseases and pests allow it to be cultivated in many regions of the world. It is recommended for various cultivation systems, especially for low-input and organic farming. Currently, buckwheat is grown mainly for seeds and less often for green fodder. Thanks to its above-average nutriti</description><pubDate>Mon, 17 Aug 2026 20:43:30 GMT</pubDate><guid isPermaLink="false">gbif-literature:f6c39ecd-0af5-3db4-9d63-bdf4569d9ca8</guid><category>Sustainability</category></item><item><title>National-Scale Conservation Gaps and Priority Areas for Invasive Plant Control in China: An Integrated MaxEnt-InVEST Framework</title><link>https://doi.org/10.3390/plants15060898</link><description>DOI: https://doi.org/10.3390/plants15060898
-Journal: Plants
-Publisher: MDPI AG
-Published: 2026-03-13
-Authors: Bao Liu, Mao Lin, Siyu Liu, Xingzhuang Ye, Shipin Chen
-GBIF relevance: GBIF_USED
-
-Invasive alien plants (IAPs) pose a severe and escalating threat to biodiversity and ecosystem services in China. However, a systematic nationwide assessment that identifies invasion hotspots, quantifies their overlap with protected area networks, and pinpoints critical conservation gaps is still lacking. This hinders the development of spatially targeted management strategies. To address this, we developed an integrated analytical framework coupling the Maximum Entropy (MaxEnt) model with the I</description><pubDate>Mon, 17 Aug 2026 20:31:04 GMT</pubDate><guid isPermaLink="false">gbif-literature:62556dee-d6d4-341c-9c99-1245d3b8397e</guid><category>Plants</category></item><item><title>Pinus roxburghii Sarg. expansion drives genetic erosion and ecological collapse of keystone Quercus oblongata D. Don forests in the Western Himalaya</title><link>https://doi.org/10.1007/s10531-026-03288-x</link><description>DOI: https://doi.org/10.1007/s10531-026-03288-x
-Journal: Biodiversity and Conservation
-Publisher: Springer Science and Business Media LLC
-Published: 2026-02-25
-Authors: Mohammed Asif Chowdhary, Sushree Pralipta Chhotaray, Hari Shankar Gadri, Vikas Sharma, Sarbani Roy
-GBIF relevance: GBIF_USED
-
-Quercus oblongata , a keystone species of the Western Himalaya, is undergoing rapid ecological degradation under the combined pressures of climate change and the expansion of Pinus roxburghii . Using an integrated framework combining species distribution modeling, SSR-based population genetics, soil physiochemical profiling, allelopathy bioassays, GC-MS-based allelochemical identification, molecular docking, metagenomics, and vegetation surveys across oak, mixed oak-pine, and pine-dominated fore</description><pubDate>Sun, 16 Aug 2026 21:54:12 GMT</pubDate><guid isPermaLink="false">gbif-literature:35421e34-577b-3753-884a-1e950877c665</guid><category>Biodiversity and Conservation</category></item></channel></rss>
+The landscape of emerging zoonoses is being rapidly reshaped by concurrent climate change, environmental transformation, and biodiversity loss. These pressures can alter host populations, pathogen dynamics, and human exposure. Yet, continental-scale evidence linking multi-sector drivers to human infection risk for specific rodent-borne diseases remains limited, particularly for hantavirus. To untangle these influences, we assembled the most high-resolution European hantavirus infection dataset t</description><pubDate>Mon, 17 Aug 2026 20:53:16 GMT</pubDate><guid isPermaLink="false">gbif-literature:333e4d95-cdee-3b8c-8465-6d51bdc610e3</guid><category>Environmental Research</category></item></channel></rss>

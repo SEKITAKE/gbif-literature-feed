@@ -1,5 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Thu, 17 Sep 2026 22:32:06 GMT</lastBuildDate><item><title>Implicit neural representations as a coordinate-based framework for continuous environmental field reconstruction from sparse ecological observations</title><link>https://doi.org/10.48550/arxiv.2604.18083</link><description>DOI: https://doi.org/10.48550/arxiv.2604.18083
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Fri, 18 Sep 2026 22:04:04 GMT</lastBuildDate><item><title>Replacing the locals? Distribution and expansion dynamics of native versus non-native Rockpool shrimp (Palaemon elegans Rathke, 1837) lineages in the North and Baltic Sea</title><link>https://doi.org/10.1007/s10530-026-03837-z</link><description>DOI: https://doi.org/10.1007/s10530-026-03837-z
+Journal: Biological Invasions
+Publisher: Springer Science and Business Media LLC
+Published: 2026-04-22
+Authors: Andrea Dove, Dirk Brandis, Andreas Dürr, Kira Ovenbeck, Christine Ewers
+GBIF relevance: GBIF_USED
+
+Cryptic introductions often remain unnoticed, but can have unforeseen consequences for the invaded ecosystems. A sudden eastward range expansion of the Rockpool shrimp Palaemon elegans into the low-salinity part of the Baltic Sea in the 2000s could genetically be identified as a cryptic introduction of a distinct Black Sea lineage. To understand the risk of its expansion westwards into the North Sea and Atlantic and competitive displacement of the native Atlantic lineage, we surveyed the distrib</description><pubDate>Fri, 18 Sep 2026 12:26:59 GMT</pubDate><guid isPermaLink="false">gbif-literature:bb015c0f-fbb6-3221-a8c9-688681e037fa</guid><category>Biological Invasions</category></item><item><title>Enhancing the knowledge of Herpailurus yagouaroundi for its conservation in Morelos, México,Mejorando el conocimiento de Herpailurus yagouaroundi para su conservación en Morelos, México</title><link>https://doi.org/10.12933/therya_notes-25-234</link><description>DOI: https://doi.org/10.12933/therya_notes-25-234
+Journal: Therya Notes
+Publisher: Asociacion Mexicana de Mastozoologia
+Published: 2026-04-21
+Authors: David Valenzuela-Galván, Floriely Castro-Campos, Cuauhtemoc Chávez, Adrián Rueda-Rosas, Juan Carlos Martínez-Montes
+GBIF relevance: GBIF_CITED
+
+The jaguarundi is one of the six wild feline species found in Mexico and is considered threatened, with population trends indicating a decline. It is a species difficult to capture, with very few recorded sightings. More studies on its ecology are needed. The data were obtained through photo-trapping samplings conducted at six ejidos (communal landholdings) within the Sierra de Huautla Biosphere Reserve (REBIOSH), in southern Morelos, from 2015 to 2022, using between 35 and 61 camera traps on ea</description><pubDate>Fri, 18 Sep 2026 12:24:11 GMT</pubDate><guid isPermaLink="false">gbif-literature:8572dff3-466f-30ed-9e3c-31b5f6de7c49</guid><category>Therya Notes</category></item><item><title>Tracking biodiversity in changing Arctic waters: insights from eDNA metabarcoding in Svalbard</title><link>https://doi.org/10.1007/s00300-026-03488-9</link><description>DOI: https://doi.org/10.1007/s00300-026-03488-9
+Journal: Polar Biology
+Publisher: Springer Science and Business Media LLC
+Published: 2026-04-22
+Authors: Martine J. van den Heuvel-Greve, Marcel Polling, G. Arjen de Groot, Linda Kodde, Ingeborg M. Mulder
+GBIF relevance: GBIF_USED
+
+Monitoring biodiversity patterns and their changes in Arctic coastal ecosystems is critical under ongoing climate change. However, common current approaches require high effort and expertise and this in turn limits the spatial and temporal scale of these monitoring efforts. Here, we investigated both the fish and the marine invertebrate communities across Svalbard using a multi-marker environmental DNA metabarcoding approach. We collected and analysed marine water, sediment and zooplankton filte</description><pubDate>Fri, 18 Sep 2026 11:56:16 GMT</pubDate><guid isPermaLink="false">gbif-literature:2b6d3baa-4936-324d-909a-ba6fd1cfa24f</guid><category>Polar Biology</category></item><item><title>Leveraging remote sensing and crowd-sourced biodiversity data for enhanced plant functional trait mapping</title><link>https://doi.org/10.1038/s41467-026-72111-6</link><description>DOI: https://doi.org/10.1038/s41467-026-72111-6
+Journal: Nature Communications
+Publisher: Springer Science and Business Media LLC
+Published: 2026-04-21
+Authors: Álvaro Moreno-Martínez, Jordi Muñoz-Marí, Jose E. Adsuara, Benjamin Dechant, Jens Kattge
+GBIF relevance: GBIF_USED
+
+High-resolution maps of plant functional traits are crucial for understanding terrestrial ecosystem processes; however, their integration into ecosystem models has been hindered by uncertainties and a lack of spatially detailed data. Here we combine optical remote sensing, global crowd-sourced biodiversity records and plant trait databases to map community trait distributions worldwide at 1-km resolution, estimating community-weighted means (CWMs) and higher-order moments (standard deviation, sk</description><pubDate>Fri, 18 Sep 2026 11:53:14 GMT</pubDate><guid isPermaLink="false">gbif-literature:f84fb811-34fa-32ec-9496-32edf3030736</guid><category>Nature Communications</category></item><item><title>Multimodal fusion for fine-grained plant classification: A visual–textual framework for accurate identification of solidago species</title><link>https://doi.org/10.1016/j.atech.2026.102045</link><description>DOI: https://doi.org/10.1016/j.atech.2026.102045
+Journal: Smart Agricultural Technology
+Publisher: Elsevier BV
+Published: 2026-08-31
+Authors: Garik Kazanjian, Abigail Loyson, Naren Kosaraju, Ally Atkins, Jahid Choton
+GBIF relevance: GBIF_USED
+
+Goldenrod (Solidago spp.) is a genus of ecologically critical North American wildflowers that supports a diversity of pollinators, including bees, wasps, and migratory insects such as Monarch butterflies. Yet species-level identification remains challenging due to extensive morphological similarity and overlapping distributions. Reliable automated classification would benefit ecological monitoring and biodiversity assessment, but visual models alone often struggle with fine-grained distinctions </description><pubDate>Thu, 17 Sep 2026 22:29:11 GMT</pubDate><guid isPermaLink="false">gbif-literature:de46161f-0763-3a53-8e38-5a54db98c7c1</guid><category>Smart Agricultural Technology</category></item><item><title>A new species of the rare cleptoparasitic bee genus Ptilocleptis (Hymenoptera: Halictidae) from Mexico</title><link>https://doi.org/10.11646/zootaxa.5785.1.8</link><description>DOI: https://doi.org/10.11646/zootaxa.5785.1.8
+Journal: Zootaxa
+Publisher: Magnolia Press
+Published: 2026-03-26
+Authors: GERARDO QUINTOS-ANDRADE, JORGE E. VALENZUELA-GONZÁLEZ
+GBIF relevance: GBIF_CITED
+
+Sphecodini is a tribe with worldwide distribution, exhibiting a distinctive western hemispherical fauna composed of six genera and approximately 138 species. Among these genera, Ptilocleptis is unique due to its distinctive synapomorphies and its rarity in entomological collections. In this study, Ptilocleptis mictlan Quintos-Andrade sp. nov. is described from Mexico, new distributional records of P. tomentosa Michener within Mexico are presented, and an identification key to the species of Ptil</description><pubDate>Thu, 17 Sep 2026 22:24:25 GMT</pubDate><guid isPermaLink="false">gbif-literature:1b98a97e-0308-345a-8ef0-b22b785c728d</guid><category>Zootaxa</category></item><item><title>Interpreting black-box machine learning based species distribution models</title><link>https://doi.org/10.1016/j.ecocom.2026.101158</link><description>DOI: https://doi.org/10.1016/j.ecocom.2026.101158
+Journal: Ecological Complexity
+Publisher: Elsevier BV
+Published: 2026-06-30
+Authors: Yousra Cherif, Ali Idri
+GBIF relevance: GBIF_USED
+
+Species Distribution Models (SDMs) are widely used to analyze the relationship between species occurrence and environmental factors, offering critical ecological and evolutionary insights. However, the complexity of SDMs, coupled with high-dimensional environmental data, can hinder model interpretability, especially machine learning (ML) based SDMs. To address this, we propose and evaluate an interpretable modeling approach that integrates Feature Selection (FS) techniques to enhance both transp</description><pubDate>Thu, 17 Sep 2026 21:48:44 GMT</pubDate><guid isPermaLink="false">gbif-literature:17285c59-f4cb-3584-93e8-0466086d6481</guid><category>Ecological Complexity</category></item><item><title>Evaluating the impact of anthropogenic activities and climate change on distribution dynamics and habitat suitability of Lophira alata in Nigeria</title><link>https://doi.org/10.1038/s41598-026-35865-z</link><description>DOI: https://doi.org/10.1038/s41598-026-35865-z
+Journal: Scientific Reports
+Publisher: Springer Science and Business Media LLC
+Published: 2026-03-27
+Authors: Oyetola Oyebanji, Emmanuel Chukwuma, Winnie Wanjiku Mambo, Peter Adegbenga Adeonipekun, Tiamiyu Bolaji
+GBIF relevance: GBIF_USED
+
+The red ironwood ( Lophira alata ) is a relic tropical African tree species that is increasingly threatened by human activities driven by its high economic value and its vulnerability is further heightened by climate change. However, the impact of these factors on the population distribution dynamics remains unassessed, creating an urgent conservation need. We leveraged geographic occurrence records from in situ assessments and global repositories, together with environmental predictors and huma</description><pubDate>Thu, 17 Sep 2026 21:38:37 GMT</pubDate><guid isPermaLink="false">gbif-literature:5bcc0348-7255-3c98-a3fc-f07f164727c2</guid><category>Scientific Reports</category></item><item><title>New distribution records of Aedes aegypti (Linnaeus), Aedes mediovittatus (Coquillett), and Toxorhynchites portoricensis (Röder) (Diptera: Culicidae) in Puerto Rico and their relevance to integrated vector management</title><link>https://doi.org/10.1093/jme/tjag048</link><description>DOI: https://doi.org/10.1093/jme/tjag048
+Journal: Journal of Medical Entomology
+Publisher: Oxford University Press (OUP)
+Published: 2026-03-27
+Authors: Jun Soo Bae, Telmah Telmadarrehei, Sangwoo Seok, Lianmarie Soto Jiménez, Amaury Morales González
+GBIF relevance: GBIF_USED
+
+As of October 2025, Puerto Rico has been experiencing an ongoing dengue outbreak that started in March 2024. The latest island-wide mosquito survey conducted in Puerto Rico during 2018 to 2019 covered 41 of the 78 municipalities and detected the presence of Aedes aegypti (Linnaeus, 1762) in 27 of the municipalities. Given the prolonged elevated circulation of the dengue virus on the island, we carried out an Ae. aegypti survey in June 2025 across 48 out of 78 municipalities. Here, we report the </description><pubDate>Thu, 17 Sep 2026 21:29:59 GMT</pubDate><guid isPermaLink="false">gbif-literature:902d5dd8-166a-3848-a303-44fccb6b04b7</guid><category>Journal of Medical Entomology</category></item><item><title>Implicit neural representations as a coordinate-based framework for continuous environmental field reconstruction from sparse ecological observations</title><link>https://doi.org/10.48550/arxiv.2604.18083</link><description>DOI: https://doi.org/10.48550/arxiv.2604.18083
 Journal: arXiv
 Publisher: arXiv
 Published: 2026-04-20
@@ -634,67 +697,4 @@ Published: 2026-03-13
 Authors: NICOLE A. WHITELOCK
 GBIF relevance: GBIF_USED
 
-The historical distribution of Aotearoa New Zealand’s rarest endemic bird, tara iti / New Zealand fairy tern (Sternula nereis davisae) remains poorly understood. Developing a clearer picture of this distribution is essential for informing management efforts. I compiled a database of historical tara iti occurrences, drawing on a diverse range of archival sources including historical magazines, newspapers, journal articles, and museum collections. Although the historical record is limited by sampl</description><pubDate>Fri, 04 Sep 2026 16:51:13 GMT</pubDate><guid isPermaLink="false">gbif-literature:87dbcaa2-2e9e-33bc-aa52-ae9124869aa5</guid><category>Notornis</category></item><item><title>Changes in South American migratory sheldgeese distribution associated with climate change</title><link>https://doi.org/10.1016/j.biocon.2026.111789</link><description>DOI: https://doi.org/10.1016/j.biocon.2026.111789
-Journal: Biological Conservation
-Publisher: Elsevier BV
-Published: 2026-05-31
-Authors: Natalia A. Cossa, Nicolás A. Lois, Sergio A. Lambertucci
-GBIF relevance: GBIF_USED
-
-Climate change is affecting many species' geographical distributions, by reducing ranges due to the loss of climatically suitable areas or enabling expansion into areas that become suitable. In southern South America, Patagonia has experienced notable changes in temperature and precipitation over the past 60 years, with significant impacts on its ecosystems. We assessed the potential impact of climate change on migratory sheldgeese distribution, a group of threatened birds that rely on Patagonia</description><pubDate>Fri, 04 Sep 2026 16:33:40 GMT</pubDate><guid isPermaLink="false">gbif-literature:36679e97-f0b2-3702-bc8d-50ee36040699</guid><category>Biological Conservation</category></item><item><title>Prediction to Prevention: Comparative Machine Learning Models for Early Intervention of Dactyloctenium radulans in Australia</title><link>https://doi.org/10.1016/j.rama.2026.02.004</link><description>DOI: https://doi.org/10.1016/j.rama.2026.02.004
-Journal: Rangeland Ecology &amp; Management
-Publisher: Elsevier BV
-Published: 2026-05-31
-Authors: Md Asaduzzaman, Mohammad Shamim Hasan Mandal, Eric Koetz, Azizur Rahman, Sheikh Muhammad Masum
-GBIF relevance: GBIF_USED
-
-Weeds pose a significant threat to agricultural productivity, causing economic damage. A comprehensive understanding of the distribution of weed species is essential for formulating efficient management strategies. Despite its ecological significance, limited research has been conducted on the native Australian weed species Button grass (Dactyloctenium radulans). In this study, four species distribution models (SDMs) were employed to estimate its potential habitat suitability across the entirety</description><pubDate>Thu, 03 Sep 2026 17:25:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:0ba61eb3-a554-3933-ba35-5afee797b764</guid><category>Rangeland Ecology &amp; Management</category></item><item><title>New Records of Deer Keds (Diptera: Hippoboscidae: Lipoptena cervi L. and L. mazamae Rondani) in Eastern North America</title><link>https://doi.org/10.4289/0013-8797.128.1.51</link><description>DOI: https://doi.org/10.4289/0013-8797.128.1.51
-Journal: Proceedings of the Entomological Society of Washington
-Publisher: Entomological Society of Washington
-Published: 2026-03-19
-Authors: Michael J. Skvarla, Jody Green, Phillip N. Hogan, Lance E. Jones, Erika T. Machtinger
-GBIF relevance: GBIF_CITED
-
-Deer keds (Diptera: Hippoboscidae: Lipopteninae) are blood-feeding ectoparasitic flies that usually feed on deer and other Cervidae but sometimes bite humans. Two species are found in eastern North America: introduced European deer keds (Lipoptena cervi L.) and native Neotropical deer keds (L. mazamae Rondani). While historically dismissed as potential vectors of diseases, half a dozen tick-borne pathogens, including species pathogenic to humans, have been sequenced from deer keds over the last </description><pubDate>Thu, 03 Sep 2026 17:22:26 GMT</pubDate><guid isPermaLink="false">gbif-literature:484cb662-9d08-3462-998c-fbd319975f55</guid><category>Proceedings of the Entomological Society of Washington</category></item><item><title>Taxonomic study of morphology and distribution of Nannophya pygmaea Rambur, 1842 (Odonata: Libellulidae) with a discussion on the possibility of cryptic diversity and larval comparison of genera in subfamily Brachydiplacinae</title><link>https://doi.org/10.11646/zootaxa.5777.3.9</link><description>DOI: https://doi.org/10.11646/zootaxa.5777.3.9
-Journal: Zootaxa
-Publisher: Magnolia Press
-Published: 2026-03-18
-Authors: MINH TY NGUYEN, RODOLFO NOVELO-GUTIÉRREZ, ROBIN W. J. NGIAM, JUNGGON KIM, QUOC TOAN PHAN
-GBIF relevance: GBIF_USED
-
-A description of the adult and last instar larva of Nannophya pygmaea Rambur, 1842 is presented, based on reared material from Vietnam and additional specimens obtained from Peninsular Malaysia and Singapore. Adult morphology of both sexes is documented to ensure accurate species confirmation and to demonstrate consistency with previously established diagnostic characters. Updated distributional data for Nannophya Rambur, 1842 in Asia are synthesized from verified field records, curated online b</description><pubDate>Thu, 03 Sep 2026 17:09:50 GMT</pubDate><guid isPermaLink="false">gbif-literature:1b9104b1-a1f0-34bb-ab32-eed63dba55c9</guid><category>Zootaxa</category></item><item><title>Reexamination of Heteronaias heterodoxa (Selys, 1878) (Odonata: Corduliidae), with larval redescription, comparative notes on Asian Corduliidae larvae, and biogeographic significance</title><link>https://doi.org/10.11646/zootaxa.5777.3.4</link><description>DOI: https://doi.org/10.11646/zootaxa.5777.3.4
-Journal: Zootaxa
-Publisher: Magnolia Press
-Published: 2026-03-18
-Authors: TOSAPHOL SAETUNG KEETAPITHCHAYAKUL, JUNGGONN KIM, QUOC TOAN PHAN, JONATHAN RODRIN DIGMA
-GBIF relevance: GBIF_USED
-
-Heteronaias Needham &amp; Gyger, 1937 is a monotypic genus represented solely by Heteronaias heterodoxa (Selys, 1878), a poorly documented corduliid. Based on reared specimens from Luzon, Philippines, we provide a detailed larval description, notes on adult morphology, and distributional data. Adult characters, particularly the vesica spermalis of male and female terminalia, are redescribed and illustrated. The larva is distinguished by a flattened body, 9–13 premental setae, 8–11 palpal setae, a po</description><pubDate>Thu, 03 Sep 2026 17:00:25 GMT</pubDate><guid isPermaLink="false">gbif-literature:11cafcb2-ebc6-3c38-82f5-10fbb0edf9b5</guid><category>Zootaxa</category></item><item><title>Contrasting Range Shifts of an Endangered Orchid Changnienia amoena and Its Obligate Pollinator Under Climate Change in China</title><link>https://doi.org/10.3390/biology15060485</link><description>DOI: https://doi.org/10.3390/biology15060485
-Journal: Biology
-Publisher: MDPI AG
-Published: 2026-03-19
-Authors: Yue Wang, Songwen Guo, Jingxin Zhou, Guangfu Zhang
-GBIF relevance: GBIF_USED
-
-Specialized plant–pollinator interactions are highly vulnerable to climate change, yet predicting their coupled responses remains challenging. The endangered orchid Changnienia amoena and its sole effective pollinator, Bombus trifasciatus, represent a great system to study such dynamics in China. However, existing research on their potential distributions shows substantial discrepancies due to methodological variations. We applied ensemble modeling in Biomod2, integrating multiple algorithms, to</description><pubDate>Thu, 03 Sep 2026 16:43:48 GMT</pubDate><guid isPermaLink="false">gbif-literature:7b9cab94-3227-3667-9a6a-55d12f9303b6</guid><category>Biology</category></item><item><title>Contrasting thermophilization among forests, grasslands and alpine summits</title><link>https://doi.org/10.1038/s41586-025-09622-7</link><description>DOI: https://doi.org/10.1038/s41586-025-09622-7
-Journal: Nature
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-21
-Authors: Kai Yue, Pieter Vangansbeke, Isla H. Myers-Smith, Donald M. Waller, Kris Verheyen
-GBIF relevance: GBIF_USED
-
-Climate warming is shifting biological communities, with warmth-demanding species being favoured at the expense of cold-adapted species in a process referred to as thermophilization 1 – 4 . Because biodiversity responses often lag behind climate warming, climatic debts are accumulating in many ecosystems across the world 5 – 7 . Although we might expect that thermophilization and climatic debts will vary among habitats, standardized quantification across ecosystems is lacking. Here we analysed m</description><pubDate>Tue, 01 Sep 2026 15:45:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:9a32a9de-5dde-3a6e-b95e-1aa894cca139</guid><category>Nature</category></item><item><title>Specific leaf area modulates but does not explain the association between abiotic stress tolerance and insect feeding guild prevalence in Northern Hemisphere woody plants</title><link>https://doi.org/10.1093/aob/mcag065</link><description>DOI: https://doi.org/10.1093/aob/mcag065
-Journal: Annals of Botany
-Publisher: Oxford University Press (OUP)
-Published: 2026-03-18
-Authors: Andrea Cerdeira-Pérez, Lauri Laanisto, Nicola Pavanetto, Giacomo Puglielli
-GBIF relevance: GBIF_USED
-
-Background and Aims                     Plant adaptations to abiotic stress and insect herbivory may share functional bases, yet large-scale evidence linking stress tolerance strategies to herbivory patterns remains limited. We tested whether abiotic stress tolerance is associated with insect herbivory patterns in Northern Hemisphere woody plants, and whether specific leaf area (SLA) and plant functional type (PFT) modulate this relationship.                                                      </description><pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate><guid isPermaLink="false">gbif-literature:aed3e2d4-b7f5-3322-8548-6f137688afed</guid><category>Annals of Botany</category></item><item><title>Intersecting Pathways: Exploring the Link Between Balkan Endemic Nephropathy and Distribution of Aristolochia clematitis , Air Pollution and Pliocene Lignite Coal</title><link>https://doi.org/10.1002/tox.70084</link><description>DOI: https://doi.org/10.1002/tox.70084
-Journal: Environmental Toxicology
-Publisher: Wiley
-Published: 2026-03-21
-Authors: Miloš Popović, Dragan Milovanović, Alexandra Teodora Lukinich‐Gruia, Călin Adrian Tatu, Chun‐Kit Au
-GBIF relevance: GBIF_USED
-
-Balkan Endemic Nephropathy (BEN) is a chronic kidney disease with high morbidity and mortality in certain rural areas of Southeast Europe. While the exposure to Aristolochic Acids (AAs), phytotoxins from Aristolochia clematitis plant, has been confirmed as the direct cause, the potential roles of carcinogenic compounds and Polycyclic Aromatic Hydrocarbons (PAHs) originating from air pollution and Pliocene lignite coal deposits remain insufficiently explored. We applied Monte Carlo simulations to</description><pubDate>Fri, 28 Aug 2026 11:07:27 GMT</pubDate><guid isPermaLink="false">gbif-literature:9135b8b6-030c-3b0d-a512-2a0f2fdcb0df</guid><category>Environmental Toxicology</category></item></channel></rss>
+The historical distribution of Aotearoa New Zealand’s rarest endemic bird, tara iti / New Zealand fairy tern (Sternula nereis davisae) remains poorly understood. Developing a clearer picture of this distribution is essential for informing management efforts. I compiled a database of historical tara iti occurrences, drawing on a diverse range of archival sources including historical magazines, newspapers, journal articles, and museum collections. Although the historical record is limited by sampl</description><pubDate>Fri, 04 Sep 2026 16:51:13 GMT</pubDate><guid isPermaLink="false">gbif-literature:87dbcaa2-2e9e-33bc-aa52-ae9124869aa5</guid><category>Notornis</category></item></channel></rss>

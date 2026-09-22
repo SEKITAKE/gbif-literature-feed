@@ -1,5 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Mon, 21 Sep 2026 22:55:35 GMT</lastBuildDate><item><title>From Historical Collection to Digital Data: A 150-Year-Old Mycological Collection Reveals the Earliest Documented Fungal Records from Sarawak and Provides Historical Fungal Data from Borneo and Sumatra</title><link>https://doi.org/10.3390/d18050251</link><description>DOI: https://doi.org/10.3390/d18050251
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Tue, 22 Sep 2026 22:31:52 GMT</lastBuildDate><item><title>The functional significance of striping in rodents</title><link>https://doi.org/10.1093/evolut/qpag070</link><description>DOI: https://doi.org/10.1093/evolut/qpag070
+Journal: Evolution
+Publisher: Oxford University Press (OUP)
+Published: 2026-04-24
+Authors: Tim Caro, Lauren Gellately, Natasha Howell, Joseph N Keating, Catherine Sheard
+GBIF relevance: GBIF_USED
+
+Rodents constitute a large proportion of extant mammal species and are mostly a uniform brown–gray coloration to avoid detection by predators. A minority, however, have longitudinal dorsal stripes, the function of which is unknown. Using a comparative approach, we explored whether striping in rodents is a form of background matching, an example of dazzle coloration, a social signal, or a signal to avoid hybridization with sympatric congeners. We found some evidence that striping is associated wi</description><pubDate>Tue, 22 Sep 2026 14:01:49 GMT</pubDate><guid isPermaLink="false">gbif-literature:c9c3240a-72d2-3e6f-9bdb-abf3f1e2a80e</guid><category>Evolution</category></item><item><title>Cryptamorpha desjardinsii (Guérin-Méneville, 1844) is the available name (Coleoptera: Silvanidae)</title><link>https://doi.org/10.11646/zootaxa.5792.2.12</link><description>DOI: https://doi.org/10.11646/zootaxa.5792.2.12
+Journal: Zootaxa
+Publisher: Magnolia Press
+Published: 2026-04-13
+Authors: RICHARD LITTAUER
+GBIF relevance: GBIF_CITED
+
+(no abstract available)</description><pubDate>Tue, 22 Sep 2026 13:57:39 GMT</pubDate><guid isPermaLink="false">gbif-literature:28ff1ade-d80f-325d-87cd-f0de9772c8b8</guid><category>Zootaxa</category></item><item><title>Novel species and new host records of Apiospora and Nigrospora (Amphisphaeriales, Apiosporaceae) from Yunnan-Guizhou Plateau, China</title><link>https://doi.org/10.3897/imafungus.17.177246</link><description>DOI: https://doi.org/10.3897/imafungus.17.177246
+Journal: IMA Fungus
+Publisher: Pensoft Publishers
+Published: 2026-04-24
+Authors: Xing-Chang Wang, Rui-Nan Zhang, Chada Norphanphoun, Si-Bo Wang, Meng-Ting Zou
+GBIF relevance: GBIF_USED
+
+The family Apiosporaceae is a cosmopolitan family of fungi that occurs as endophytes, pathogens, and saprobes. Due to the morphological similarity of species within this family, both morphological and phylogenetic analyses are required to determine their taxonomic status. In this study, eleven specimens were collected from Yunnan and Guizhou provinces in China. Morphological and phylogenetic analyses based on ITS, LSU, tef1-α, and tub2 sequence data were performed to identify Apiospora (A.) and </description><pubDate>Tue, 22 Sep 2026 13:51:24 GMT</pubDate><guid isPermaLink="false">gbif-literature:e4df4c43-1b79-312e-8ff7-7aa0c4b60601</guid><category>IMA Fungus</category></item><item><title>Predicting the potential suitable habitats of Rosa roxburghii and its key pest Grapholita molesta in China using the MaxEnt Model</title><link>https://doi.org/10.1371/journal.pone.0347592</link><description>DOI: https://doi.org/10.1371/journal.pone.0347592
+Journal: PLOS One
+Publisher: Public Library of Science (PLoS)
+Published: 2026-04-24
+Authors: Hongling Qin, Shuangshuang Wu, Guoqing Luo, Meifang Lu, Heng Xiang
+GBIF relevance: GBIF_USED
+
+Climate change can reshape the potential distributions of crops and their pests, as well as their spatial overlap, with important implications for agricultural security and pest management.                     Rosa. roxburghii                     , a key specialty crop in southwestern China, is threatened by its primary pest,                     Grapholita molesta                     . Here, we used occurrence records and WorldClim bioclimatic variables to model the potential distributions of bo</description><pubDate>Tue, 22 Sep 2026 13:37:05 GMT</pubDate><guid isPermaLink="false">gbif-literature:400c00b7-6983-3a01-b743-0110b2ed0f8f</guid><category>PLOS One</category></item><item><title>A global tour of iNaturalist mammal data: status, trends, and outlook for macroecology and conservation</title><link>https://doi.org/10.1093/jmammal/gyag025</link><description>DOI: https://doi.org/10.1093/jmammal/gyag025
+Journal: Journal of Mammalogy
+Publisher: Oxford University Press (OUP)
+Published: 2026-04-04
+Authors: Alex J Jensen, Taylor Ackley, Mohammad Alyetama, Michael V Cove, Lauren Fritzsche
+GBIF relevance: GBIF_USED
+
+iNaturalist data are growing rapidly, and researchers are increasingly interested in their utility for ecology and conservation. Yet because iNaturalist data are collected opportunistically, they have taxonomic and geographic unevenness that researchers should be aware of. Here, we describe the taxonomic, geographic, and temporal patterns in the global iNaturalist mammal data; evaluate whether residents or visitors contribute more observations; and illustrate the potential utility and pitfalls f</description><pubDate>Tue, 22 Sep 2026 13:29:31 GMT</pubDate><guid isPermaLink="false">gbif-literature:3a9560dc-7d15-342b-ab76-d99e66021009</guid><category>Journal of Mammalogy</category></item><item><title>Climate change–driven range contraction in the aquatic Fern Marsilea minuta L. (Marsileaceae): implications for wetland plant conservation</title><link>https://doi.org/10.1038/s41598-026-48678-x</link><description>DOI: https://doi.org/10.1038/s41598-026-48678-x
+Journal: Scientific Reports
+Publisher: Springer Science and Business Media LLC
+Published: 2026-04-24
+Authors: Sameh M.H. Khalaf, Abdel-Rhman Z Gaafar, Milton Wainwright, Mai Ahmed Taha
+GBIF relevance: GBIF_USED
+
+Due to changes in temperature and precipitation patterns, aquatic and semi-aquatic plant species are seriously threatened by climate change. This study evaluated how Marsilea minuta L., a small aquatic fern found in tropical and subtropical wetlands, would be affected by climate change across geographic regions. Maximum Entropy (MaxEnt) was used to simulate species distributions using 963 spatially filtered occurrence records and five bioclimatic variables (BIO1, BIO2, BIO6, BIO12, and BIO13), s</description><pubDate>Tue, 22 Sep 2026 13:26:01 GMT</pubDate><guid isPermaLink="false">gbif-literature:66c572af-5415-3d2a-9ac5-ce002e0b7259</guid><category>Scientific Reports</category></item><item><title>Temporal analysis of reproduction distributed in space illuminates the climate‐change resiliency of toyon ( Heteromeles arbutifolia )</title><link>https://doi.org/10.1002/ajb2.70182</link><description>DOI: https://doi.org/10.1002/ajb2.70182
+Journal: American Journal of Botany
+Publisher: Wiley
+Published: 2026-03-30
+Authors: Daniel Dakduk, Jeremy B. Yoder
+GBIF relevance: GBIF_USED
+
+Premise                                            Toyon,                       Heteromeles arbutifolia                       (Rosaceae), is an iconic and ecologically important member of California chaparral and oak woodland communities. Its habitat faces changing wildfire regimes, widening variation in annual rainfall, and competition by introduced species. We used a new modeling method, temporal analysis of reproduction distributed in space (TARDIS), to examine how recent climate change alter</description><pubDate>Mon, 21 Sep 2026 21:49:17 GMT</pubDate><guid isPermaLink="false">gbif-literature:4049d359-bd61-3e35-bc33-941c47663214</guid><category>American Journal of Botany</category></item><item><title>A national crop wild relative checklist for Zimbabwe reveals edible crop wild relative diversity of regional and global importance</title><link>https://doi.org/10.1002/ppp3.70205</link><description>DOI: https://doi.org/10.1002/ppp3.70205
+Journal: Plants, People, Planet
+Publisher: Wiley
+Published: 2026-03-31
+Authors: Kudakwashe Mutasa, Onismus Chipfunde, Christopher Chapano, Patience Chatukuta
+GBIF relevance: GBIF_USED
+
+Societal Impact Statement                     Crop wild relatives (CWR) in Zimbabwe are reservoirs of beneficial agronomic traits, yet they remain under‐documented and poorly conserved. This study developed Zimbabwe's first national CWR checklist based on a conceptual framework combining floristic, ecological, and ethnobotanical data, revealing over 2700 taxa, with nearly 1000 edible species integral to local livelihoods and global crop improvement. In the face of climate change and biodiversity</description><pubDate>Mon, 21 Sep 2026 21:38:42 GMT</pubDate><guid isPermaLink="false">gbif-literature:c069e295-0d45-317f-8c39-b3ba7269089d</guid><category>Plants, People, Planet</category></item><item><title>The Urban Trees of India (UTI): A Database of Trees in Built‐Up Areas of India</title><link>https://doi.org/10.1111/1440-1703.70063</link><description>DOI: https://doi.org/10.1111/1440-1703.70063
+Journal: Ecological Research
+Publisher: Wiley
+Published: 2026-03-31
+Authors: Harsh Yadav, Arkajyoti Shome, Bhavna Sharma, Shyam S. Phartyal, Takehiro Sasaki
+GBIF relevance: GBIF_USED
+
+Urbanization is causing irreversible changes in land cover and driving environmental alterations. Tree species have been an integral part of urban India, and their demand is expected to grow rapidly with the fast pace of urbanization in recent decades. However, the absence of a comprehensive database on Indian urban tree species limits the assessment of the positive feedback loop in terms of urban growth. The Urban Trees of India (UTI) database documents tree species that grow in urban areas acr</description><pubDate>Mon, 21 Sep 2026 21:32:13 GMT</pubDate><guid isPermaLink="false">gbif-literature:d3c34e58-3bd1-3465-92ff-76c71e816fab</guid><category>Ecological Research</category></item><item><title>A new treefrog of the genus Charadrahyla (Anura, Hylidae) from Oaxaca, Mexico, with comments on the conservation status and distribution of related species</title><link>https://doi.org/10.3897/herpetozoa.39.e184954</link><description>DOI: https://doi.org/10.3897/herpetozoa.39.e184954
+Journal: Herpetozoa
+Publisher: Pensoft Publishers
+Published: 2026-03-27
+Authors: Luis Canseco-Márquez, Christoph I. Grünwald, Jacobo Reyes-Velasco, Carlos Montaño-Ruvalcaba, Jonathan A. Campbell
+GBIF relevance: GBIF_USED
+
+We describe a new species of Charadrahyla from the Sierra Juárez portion of the Sierra Madre Oriental in the state of Oaxaca, Mexico, and provide morphological and molecular data to support the novelty of this species. The new species is most similar to Charadrahylanephila, with which it has been confused in the past. We report on adult, larval, and juvenile specimens of this new species and parapatric C.nephila. We also report a novel population of the endangered Charadrahylasakbah from the Sie</description><pubDate>Mon, 21 Sep 2026 21:13:26 GMT</pubDate><guid isPermaLink="false">gbif-literature:110cd276-917c-36da-ad3b-e32f629020ce</guid><category>Herpetozoa</category></item><item><title>Accounting for food webs to conserve biodiversity and nature's contributions to people in the context of global changes</title><link>https://doi.org/10.13140/rg.2.2.12752.67844</link><description>DOI: https://doi.org/10.13140/rg.2.2.12752.67844
+Journal: Unpublished
+Publisher: Unpublished
+Published: 2022-12-31
+Authors: Louise O'Connor
+GBIF relevance: GBIF_USED
+
+The erosion of biodiversity is one of the major challenges facing humanity. Due to human-induced environmental changes, such as climate change or agricultural intensification, the geographical ranges of some species are shifting, while other species are adapting to the new conditions or disappearing. The erosion of biodiversity risks causing a profound reorganisation of the living world, as species are connected through their interactions (e.g. between predators and prey species), and they under</description><pubDate>Mon, 21 Sep 2026 21:08:14 GMT</pubDate><guid isPermaLink="false">gbif-literature:08b31996-43cc-31df-95cb-8dbf64645e60</guid><category>Unpublished</category></item><item><title>Detecting Crested Wheatgrass Using Remote Sensing</title><link>https://www.gbif.org/literature/a6ab1258-612a-3285-8f27-1cf1c068c0d1</link><description>Journal: University of Saskatchewan
+Publisher: University of Saskatchewan
+Published: 2026-03-01
+Authors: Mohammed
+GBIF relevance: GBIF_USED
+
+Crested wheatgrass (Agropyron cristatum) is a perennial grass widely introduced across the North American prairies, where it has become a persistent invasive species. Initially planted to revegetate degraded rangelands after the 1930s drought, its establishment success stems from early spring growth, extensive roots, prolific seed production, and tolerance to grazing and drought. These traits enable rapid establishment, seedbank dominance, and displacement of native grasslands, reducing biodiver</description><pubDate>Mon, 21 Sep 2026 20:49:23 GMT</pubDate><guid isPermaLink="false">gbif-literature:a6ab1258-612a-3285-8f27-1cf1c068c0d1</guid><category>University of Saskatchewan</category></item><item><title>From Historical Collection to Digital Data: A 150-Year-Old Mycological Collection Reveals the Earliest Documented Fungal Records from Sarawak and Provides Historical Fungal Data from Borneo and Sumatra</title><link>https://doi.org/10.3390/d18050251</link><description>DOI: https://doi.org/10.3390/d18050251
 Journal: Diversity
 Publisher: MDPI AG
 Published: 2026-04-24
@@ -612,88 +695,4 @@ Published: 2026-03-25
 Authors: Kevin Yacelga, Gabriel Taimal-Quelal, Mónica León, Oscar Rosales-Enríquez, Gabriel Jácome-Aguirre
 GBIF relevance: GBIF_USED
 
-Climate change is inducing modifications in species distribution patterns within biodiverse regions such as the Ecuadorian Chocó Biogeographical region. This study identifies priority conservation areas for three key bird species (Cephalopterus penduliger, Morphnarchus princeps, and Bangsia edwardsi) using ecological niche modeling and fuzzy overlay approaches. MaxEnt software was used to project current and future suitability under the SSP585 scenario (2021 - 2040), integrating bioclimatic and </description><pubDate>Sat, 12 Sep 2026 22:29:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:e7d3e9f1-e21d-350e-8198-b4ca260e4720</guid><category>Cuadernos de Investigación Geográfica</category></item><item><title>Novelty for the flora of Espírito Santo, Brazil: a new species of Ouratea Aubl. (Ochnaceae)</title><link>https://doi.org/10.1002/njb.05183</link><description>DOI: https://doi.org/10.1002/njb.05183
-Journal: Nordic Journal of Botany
-Publisher: Wiley
-Published: 2026-03-23
-Authors: Lara Serpa Jaegge Deccache, Sabrina Vasconcelos Caram, Karen Lúcia Gama De Toni, Leandro Lacerda Giacomin, Claudio Nicoletti de Fraga
-GBIF relevance: GBIF_USED
-
-Here, we describe and illustrate the new species Ouratea oberdanii Fraga &amp; Deccache, which is named after Dr Oberdan José Pereira. This new species is found in the mountainous regions of the evergreen Atlantic Forest in the Brazilian state of Espírito Santo. Ouratea oberdanii is similar to O. linearis (A.Gray) Sastre &amp; Offroy and O. parviflora (DC.) Baill. It can be distinguished by its habit, with branches that are reclining and pendulous, the leaf vein pattern, with the presence of intramargin</description><pubDate>Sat, 12 Sep 2026 22:18:44 GMT</pubDate><guid isPermaLink="false">gbif-literature:b48aee64-4855-3405-b532-452a861168c9</guid><category>Nordic Journal of Botany</category></item><item><title>The Role of Awns Evolution in Shaping the Biogeographical History of Pappophorinae (Poaceae: Chloridoideae)</title><link>https://doi.org/10.1111/jbi.70201</link><description>DOI: https://doi.org/10.1111/jbi.70201
-Journal: Journal of Biogeography
-Publisher: Wiley
-Published: 2026-03-24
-Authors: Yuri de S. Vieira Couceiro, Jefferson R. Maciel, Lucas Costa, Elizabeth A. Kellogg, Cassiano A. Dorneles Welker
-GBIF relevance: GBIF_USED
-
-Aim                     We reconstructed the biogeographic history of Pappophorinae and tested whether the evolution of awns is associated with differences in species' geographic ranges.                                                           Location                     Americas.                                                           Time Period                     Miocene.                                                           Major Taxa Studies                     Pappophorinae (Poace</description><pubDate>Sat, 12 Sep 2026 22:10:48 GMT</pubDate><guid isPermaLink="false">gbif-literature:90ff6800-6df7-317f-b465-6bdcb3c89859</guid><category>Journal of Biogeography</category></item><item><title>Leveraging local species data, a global database, and an occupancy model to explore bee–plant interactions</title><link>https://doi.org/10.1002/eap.70221</link><description>DOI: https://doi.org/10.1002/eap.70221
-Journal: Ecological Applications
-Publisher: Wiley
-Published: 2026-03-25
-Authors: Michelle J. Lee, Graziella V. DiRenzo, Chengyi Diao, Katja C. Seltmann
-GBIF relevance: GBIF_USED
-
-Global declines in bee populations are threatening the ecosystem services they provide, including pollination. Many bee–plant interactions are understudied, producing an incomplete understanding of resulting ecosystem‐level vulnerabilities. The last decade has generated a wealth of opportunistic data originating from natural history collection records, published ecological datasets, and citizen/community science initiatives in online databases such as Global Biotic Interactions (GloBI). Here, we</description><pubDate>Sat, 12 Sep 2026 22:00:11 GMT</pubDate><guid isPermaLink="false">gbif-literature:5f23c559-af79-3297-8007-3d11b43f0e35</guid><category>Ecological Applications</category></item><item><title>BIEN : A biodiversity informatics ecosystem advancing open and reproducible workflows for plant observation, plot and trait data</title><link>https://doi.org/10.1111/2041-210x.70274</link><description>DOI: https://doi.org/10.1111/2041-210x.70274
-Journal: Methods in Ecology and Evolution
-Publisher: Wiley
-Published: 2026-03-24
-Authors: Brian J. Enquist, Brad Boyle, Brian S. Maitner, Cory Merow, Ben S. Carlson
-GBIF relevance: GBIF_USED
-
-The rapid expansion of biodiversity data presents new opportunities to understand and forecast biosphere dynamics. However, disparate and dispersed data, taxonomic and geographic inconsistencies, pervasive quality issues, and a lack of reproducable workflows hinder synthesis, introduce biases and limit accurate assessment of biodiversity trends.The Botanical Information and Ecology Network (BIEN) addresses these challenges through two core contributions: (1) an ecosystem of modular, open‐source </description><pubDate>Sat, 12 Sep 2026 21:47:10 GMT</pubDate><guid isPermaLink="false">gbif-literature:a7bf9569-3e70-3125-a314-0ca6ce67baae</guid><category>Methods in Ecology and Evolution</category></item><item><title>Model‐Based Data Integration Improves Species Distribution Models for Data‐Deficient and Narrow‐Ranged Hummingbird Species</title><link>https://doi.org/10.1111/ddi.70157</link><description>DOI: https://doi.org/10.1111/ddi.70157
-Journal: Diversity and Distributions
-Publisher: Wiley
-Published: 2026-03-24
-Authors: Jussi Mäkinen, Jeremy Cohen, Walter Jetz
-GBIF relevance: GBIF_USED
-
-Aim                     For species with narrow ranges or low population sizes, a deficiency of species occurrence records can limit the capacity to build accurate species distribution models (SDMs). Model‐based integration of data from multiple sources has been offered as a solution to improve predictions of species' distributions at large scales, especially for data‐deficient species, but clear empirical demonstrations for this are lacking.                                                      </description><pubDate>Sat, 12 Sep 2026 21:41:01 GMT</pubDate><guid isPermaLink="false">gbif-literature:eb55344c-0ee5-339e-bf7f-b2c6df434771</guid><category>Diversity and Distributions</category></item><item><title>Urbanisation of Floodplains Reduces Species Richness of Several Taxonomic Groups Worldwide</title><link>https://doi.org/10.1111/geb.70227</link><description>DOI: https://doi.org/10.1111/geb.70227
-Journal: Global Ecology and Biogeography
-Publisher: Wiley
-Published: 2026-03-24
-Authors: Josselin Burriat, Barbara Belletti, Sylvain Dolédec, Bernard Kaufmann
-GBIF relevance: GBIF_USED
-
-Aim                     Global urbanisation is one of the main threats to biodiversity worldwide, with consequences on human health. Many large urban areas are situated close to river floodplains to satisfy human needs. While studies have quantified the consequences of urbanisation on floodplain biodiversity at a local scale, no quantification exists at a global scale.                                                           Location                     Worldwide.                               </description><pubDate>Sat, 12 Sep 2026 21:28:45 GMT</pubDate><guid isPermaLink="false">gbif-literature:198c95b4-9631-39d3-81c9-eb78bd8e012f</guid><category>Global Ecology and Biogeography</category></item><item><title>Citizen science contribution to plant diversity knowledge: Insights from iNaturalist in central Argentina</title><link>https://doi.org/10.1016/j.flora.2026.152972</link><description>DOI: https://doi.org/10.1016/j.flora.2026.152972
-Journal: Flora
-Publisher: Elsevier BV
-Published: 2026-05-31
-Authors: Lucas M. Carbone, Cesar Massi, Federico Actis Alesina, Julia Tavella
-GBIF relevance: GBIF_USED
-
-The recent expansion of biodiversity recording through citizen science projects represents a valuable tool for enriching our knowledge of biota. Given the rapid ecosystem changes driven by human activities, plant communities may experience species loss and an increase in the proportion of widely distributed and exotic species. To assess these patterns using citizen science data, it is necessary to account for sampling accuracy and potential biases in species recording. In this study, we analyse </description><pubDate>Fri, 11 Sep 2026 21:53:43 GMT</pubDate><guid isPermaLink="false">gbif-literature:601f6f5e-6252-350d-99b1-0d57e9debd03</guid><category>Flora</category></item><item><title>Linking Fabaceae diversity to rhizobial symbiosis across Mozambique’s environmental gradients</title><link>https://doi.org/10.1007/s13199-026-01123-z</link><description>DOI: https://doi.org/10.1007/s13199-026-01123-z
-Journal: Symbiosis
-Publisher: Springer Science and Business Media LLC
-Published: 2026-03-24
-Authors: Miguel Brilhante, Ana Ribeiro-Barros, Maria M. Romeiras
-GBIF relevance: GBIF_USED
-
-Legumes are key components of tropical ecosystems, enhancing soil fertility, supporting primary productivity, and strengthening ecological resilience through their mutualist associations with nitrogen-fixing bacteria. Yet, the diversity, nodulation status, and biogeographic patterns of Fabaceae in Mozambique remain poorly known. We present the first comprehensive taxonomic and functional assessment of Mozambique’s native Fabaceae, integrating trait data, georeferenced occurrence records, and spa</description><pubDate>Fri, 11 Sep 2026 21:41:00 GMT</pubDate><guid isPermaLink="false">gbif-literature:5364d472-c72a-3e21-a953-95f42d4a53e8</guid><category>Symbiosis</category></item><item><title>Spatial Patterns of Intraspecific Genetic Diversity Follow no General Rule Across Climatic and Geographic Gradients</title><link>https://doi.org/10.1111/mec.70321</link><description>DOI: https://doi.org/10.1111/mec.70321
-Journal: Molecular Ecology
-Publisher: Wiley
-Published: 2026-03-24
-Authors: Matthew O. Moreira, Maria J. Paúl, André V. Liz, Ana C. Carnaval, Bryan C. Carstens
-GBIF relevance: GBIF_USED
-
-Intraspecific genetic diversity (ISD) underpins key eco‐evolutionary processes, yet its spatial distribution across species' ranges remains poorly understood at broad scales. Combining mitochondrial sequence alignments, species distribution models and comparative analyses, we tested whether populations closer to current niche optima exhibit higher ISD—a prediction derived from the central‐marginal paradigm. With this aim, we investigated how ISD varies in relation to both climatic and geographic</description><pubDate>Fri, 11 Sep 2026 21:18:54 GMT</pubDate><guid isPermaLink="false">gbif-literature:1ff015bc-df92-3066-b823-810ffe27ad15</guid><category>Molecular Ecology</category></item><item><title>Hemipilia huanglongensis (Orchidaceae), a new species from north Sichuan, China</title><link>https://doi.org/10.3897/phytokeys.273.181545</link><description>DOI: https://doi.org/10.3897/phytokeys.273.181545
-Journal: PhytoKeys
-Publisher: Pensoft Publishers
-Published: 2026-04-22
-Authors: Da-Jun Xie, Jin-Xiao Li, Tan Deng, Ruo-Xun Wei, Quan-Li Dou
-GBIF relevance: GBIF_CITED
-
-A new species of Orchidaceae, Hemipiliahuanglongensis D.J.Xie &amp; R.B.Zhang, was discovered on steep karst slopes in northern Sichuan, China and is described and illustrated, based on morphological and molecular phylogenetic evidence. While morphologically similar to H.amplexifolia (Tang &amp; F.T.Wang) Y.Tang and H.Peng, H.faberi (Rolfe) Y.Tang and H.Peng and H.tetraloba (Finet) Y.Tang and H.Peng, it can be distinguished by a squamose lip base with an upwardly protruding lamella, along with larger fl</description><pubDate>Fri, 11 Sep 2026 14:00:37 GMT</pubDate><guid isPermaLink="false">gbif-literature:8c8853bf-e5b4-3a61-a9d1-586c4db3dfeb</guid><category>PhytoKeys</category></item><item><title>The genome sequence of the comb-clawed beetle, Gonodera luperus (Herbst, 1783) (Coleoptera: Tenebrionidae)</title><link>https://doi.org/10.12688/wellcomeopenres.26357.1</link><description>DOI: https://doi.org/10.12688/wellcomeopenres.26357.1
-Journal: Wellcome Open Research
-Publisher: F1000 Research Ltd
-Published: 2026-04-22
-Authors: Michael F. Geiser, Dmitry Telnov
-GBIF relevance: GBIF_CITED
-
-We present a genome assembly from an individual female                     Gonodera luperus                     (comb-clawed beetle; Arthropoda; Insecta; Coleoptera; Tenebrionidae). The assembly contains two haplotypes with total lengths of 327.52 megabases and 344.83 megabases. Haplotype 1 is scaffolded into 8 chromosomal pseudomolecules, including the X sex chromosome. Haplotype 2 was assembled to scaffold level. The mitochondrial genome has also been assembled, with a length of 15.79 kilobase</description><pubDate>Fri, 11 Sep 2026 13:25:32 GMT</pubDate><guid isPermaLink="false">gbif-literature:0fb036a4-0609-30ee-b7e6-c1ea78bc7e8f</guid><category>Wellcome Open Research</category></item><item><title>Modeling Climate Suitability for Triticum aestivum L. (Common Wheat) in Pakistan Using the MaxEnt Approach</title><link>https://doi.org/10.48084/etasr.16545</link><description>DOI: https://doi.org/10.48084/etasr.16545
-Journal: Engineering, Technology &amp; Applied Science Research
-Publisher: Engineering, Technology &amp; Applied Science Research
-Published: 2026-04-05
-Authors: Amna Rashid, Muhammad Nawaz Chaudhry, Ahmed Mohamed Emara, Arfat Ahmad Khan, Zaffar Ahmed Shaikh
-GBIF relevance: GBIF_USED
-
-Pakistan ranks among the top ten nations globally that are likely to experience severe impacts from climate change and are facing critical food security challenges. Variability in temperature and rainfall alters the geographical suitability of land for crop cultivation. This study employed the Maximum Entropy (MaxEnt) model to forecast the effects of climate change and evaluate land suitability for Triticum aestivum L. (common wheat) production in Pakistan, where it is a major staple crop. Biocl</description><pubDate>Thu, 10 Sep 2026 20:30:40 GMT</pubDate><guid isPermaLink="false">gbif-literature:d7041f6b-d663-35d1-a1c7-b05bf419c34e</guid><category>Engineering, Technology &amp; Applied Science Research</category></item></channel></rss>
+Climate change is inducing modifications in species distribution patterns within biodiverse regions such as the Ecuadorian Chocó Biogeographical region. This study identifies priority conservation areas for three key bird species (Cephalopterus penduliger, Morphnarchus princeps, and Bangsia edwardsi) using ecological niche modeling and fuzzy overlay approaches. MaxEnt software was used to project current and future suitability under the SSP585 scenario (2021 - 2040), integrating bioclimatic and </description><pubDate>Sat, 12 Sep 2026 22:29:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:e7d3e9f1-e21d-350e-8198-b4ca260e4720</guid><category>Cuadernos de Investigación Geográfica</category></item></channel></rss>

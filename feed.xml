@@ -1,5 +1,290 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Sun, 25 Oct 2026 22:09:59 GMT</lastBuildDate><item><title>Tree ferns on the move: patterns of movement and current introduction status of Cyatheales species around the world</title><link>https://doi.org/10.1007/s10530-026-03849-9</link><description>DOI: https://doi.org/10.1007/s10530-026-03849-9
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Mon, 26 Oct 2026 23:27:47 GMT</lastBuildDate><item><title>Lectotypification, emended description and new data on the distribution of the Vietnam endemic Phlogacanthus publiflorus (Acanthaceae)</title><link>https://doi.org/10.11646/phytotaxa.758.1.7</link><description>DOI: https://doi.org/10.11646/phytotaxa.758.1.7
+Journal: Phytotaxa
+Publisher: Magnolia Press
+Published: 2026-05-19
+Authors: DO VAN HAI, NGUYEN THE CUONG, TRAN ANH TUAN, NGUYEN THANH HOAN, HA QUY QUYNH
+GBIF relevance: GBIF_CITED
+
+Phlogacanthus publiflorus (Acanthaceae), endemic to northern Vietnam, is lectotypified here to resolve taxonomic ambiguities identified during a review of its protologue and original materials. This study provides a comprehensive taxonomic treatment for the species, including an expanded geographical distribution based on new records. A detailed morphological description, supplemented by colour photographs, and scanning electron micrographs of pollen and seeds. A line drawing along with informat</description><pubDate>Mon, 26 Oct 2026 15:23:31 GMT</pubDate><guid isPermaLink="false">gbif-literature:3ad1bb08-7838-3fc8-9526-114c6158e440</guid><category>Phytotaxa</category></item><item><title>Niche Expansion in an Invasive Plant Has Significant Influence on the Modelling of Its Current and Future Geographic Distributions</title><link>https://doi.org/10.1111/jbi.70248</link><description>DOI: https://doi.org/10.1111/jbi.70248
+Journal: Journal of Biogeography
+Publisher: Wiley
+Published: 2026-05-16
+Authors: Nicole J. Kester, Heather M. Kharouba, Tyler W. Smith
+GBIF relevance: GBIF_USED
+
+Aim                     Species distribution models (SDMs) are commonly used to predict distributions of invasive species; however, they rely on assumptions that often go untested for invasive species. To determine what climatic conditions may be suitable for invasion using SDMs, it is critical to assess whether the species occupies the same climatic niche in its native and invaded ranges. If this assumption is not met, current distribution‐climate relationships will not be predictive of future </description><pubDate>Mon, 26 Oct 2026 14:41:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:8b6ac969-e3a4-3f91-80c3-77fd020749c4</guid><category>Journal of Biogeography</category></item><item><title>Oceanic islands as cradles for plant diversification: a global phylogeny and biogeography of the Neottopteris clade ( Asplenium ; Aspleniaceae)</title><link>https://doi.org/10.1093/aob/mcag140</link><description>DOI: https://doi.org/10.1093/aob/mcag140
+Journal: Annals of Botany
+Publisher: Oxford University Press (OUP)
+Published: 2026-05-21
+Authors: Yu-Tong Han, Jing-Shuai Zhang, Liang Zhang, Xin-Mao Zhou, Rossarin Pollawat
+GBIF relevance: GBIF_USED
+
+Background and Aims                     The Neottopteris clade, comprising over 150 species distributed across pantropical and subtropical regions, represents a morphologically distinct and ecologically significant group within the largest fern genus Asplenium. Although earlier studies have established the monophyly of this clade, they were based on limited regional sampling, leaving its major phylogenetic relationships and biogeographical history unresolved. This study aims to reconstruct a com</description><pubDate>Mon, 26 Oct 2026 14:40:21 GMT</pubDate><guid isPermaLink="false">gbif-literature:cdcbd204-1ab7-36e5-8210-dc67202c83a5</guid><category>Annals of Botany</category></item><item><title>First record of Rüppell’s Vulture Gyps rueppelli in the King Abdulaziz Royal Reserve, Eastern Saudi Arabia</title><link>https://doi.org/10.4314/vulnew.v89i1.7</link><description>DOI: https://doi.org/10.4314/vulnew.v89i1.7
+Journal: Vulture News
+Publisher: African Journals Online (AJOL)
+Published: 2026-05-11
+Authors: Hazem Abdullah Al-Asmari, Abdelwahab Chedad, Saber Riad, Abdulaziz Mubarak Al-Qahtani, Uwayyir Mohammad Alshammari
+GBIF relevance: GBIF_CITED
+
+We report the first confirmed record of the Critically Endangered Rüppell’s Vulture Gyps rueppelli in eastern Saudi Arabia and the fourth for the country. An individual was observed and photographed on 4 December 2025 during an avifaunal survey in the King Abdulaziz Royal Reserve, soaring with a Griffon Vulture Gyps fulvus above a carcass disposal site. This record extends the known distribution of the species within the country and highlights the importance of the reserve for wide-ranging scave</description><pubDate>Mon, 26 Oct 2026 14:29:41 GMT</pubDate><guid isPermaLink="false">gbif-literature:d649c754-f2f9-3609-8ec0-ffbc06153dba</guid><category>Vulture News</category></item><item><title>Predicting the Potential Geographic Distributions of Two Large Predatory Insects, Microstylum dux and M. oberthurii (Diptera: Asilidae), Under Climate Change: A Comprehensive Analysis Based on Optimised Biomod2 Ensemble Model</title><link>https://doi.org/10.3390/insects17050533</link><description>DOI: https://doi.org/10.3390/insects17050533
+Journal: Insects
+Publisher: MDPI AG
+Published: 2026-05-21
+Authors: Zhuoman Zhang, Zhendong Gao, Hu Li
+GBIF relevance: GBIF_USED
+
+Climate change profoundly impacts insect distribution and ecological functions. For the predatory robber flies Microstylum dux and M. oberthurii (Diptera: Asilidae), clarifying their distribution and climatic responses is vital for natural enemy conservation and biological control. Using a parameter-optimized biomod2 ensemble model, we predicted their potential distributions under current and future climates, and analyzed key variables, centroid shifts, and niche dynamics. Current suitable habit</description><pubDate>Mon, 26 Oct 2026 13:12:31 GMT</pubDate><guid isPermaLink="false">gbif-literature:b7233d34-e44b-387c-b857-5d2dad8d9ec8</guid><category>Insects</category></item><item><title>Distribution and first insight into the reproductive biology of two species of the genus Rhamdia (Siluriformes, Heptapteridae) in a Biosphere Reserve</title><link>https://doi.org/10.3897/neotropical.21.e187352</link><description>DOI: https://doi.org/10.3897/neotropical.21.e187352
+Journal: Neotropical Biology and Conservation
+Publisher: Pensoft Publishers
+Published: 2026-05-21
+Authors: César C. Julián-Caballero, Eufemia Cruz-Arenas, Emilio Martínez-Ramírez, Gabriel I. Cruz-Ruiz, Rosa María Gómez-Ugalde
+GBIF relevance: GBIF_CITED
+
+Distribution data and reproductive biology of freshwater catfishes of the genus Rhamdia remain insufficiently explored, limiting our knowledge of these ecologically, nutritionally, and economically important species. We provide updated distribution data and a preliminary study of the reproductive biology of the Pale catfish, Rhamdiaguatemalensis, and the Filespin chulín, Rhamdialaticauda in the Tehuacán-Cuicatlán Biosphere Reserve (TCBR), Oaxaca, Mexico, based on vouchered records and analyses o</description><pubDate>Mon, 26 Oct 2026 13:10:16 GMT</pubDate><guid isPermaLink="false">gbif-literature:7c42ab0b-5652-3b8e-8dfd-55b1debc8ee2</guid><category>Neotropical Biology and Conservation</category></item><item><title>What do scientific collections reveal about the past of the Amazon? Identifying bryophytes collected during an expedition to the Alto Rio Negro more than 50 years ago</title><link>https://doi.org/10.1590/1676-0611-bn-2025-1870</link><description>DOI: https://doi.org/10.1590/1676-0611-bn-2025-1870
+Journal: Biota Neotropica
+Publisher: FapUNIFESP (SciELO)
+Published: 2026-05-22
+Authors: Jéssica S. de Lima, Dimas M. do Carmo, Danilo S. Gissi, Felipe Gonzatti, Olga Yano
+GBIF relevance: GBIF_USED
+
+This study reports bryophyte species recorded during the 1979 expedition to the Alto Rio Negro region, as part of the CNPq/INPA Flora Program. Brazilian and North American researchers, guided by local residents, collected 760 bryophyte samples from Serra Curicuriari, Serra Jacamim, Morro Ximaio, and Morro dos Seis Lagos, in the municipality of São Gabriel da Cachoeira, Amazonas state. The samples collected by Olga Yano are deposited at the SP Herbarium and have only recently been studied, more t</description><pubDate>Mon, 26 Oct 2026 13:06:17 GMT</pubDate><guid isPermaLink="false">gbif-literature:e9137ee7-ea52-30e9-b045-dd01f00ba166</guid><category>Biota Neotropica</category></item><item><title>Climate change induced complex shifts in snake distributions expose people to snakebite and threaten biodiversity</title><link>https://doi.org/10.1371/journal.pntd.0014030</link><description>DOI: https://doi.org/10.1371/journal.pntd.0014030
+Journal: PLOS Neglected Tropical Diseases
+Publisher: Public Library of Science (PLoS)
+Published: 2026-05-21
+Authors: Anna F. V. Pintor, Kaushi S. T. Kanankege, Mike Turner, Bernadette Abela, Rafael Ruiz de Castañeda
+GBIF relevance: GBIF_USED
+
+Snakes play pivotal roles in many ecosystems. While some species, including medically important ones, are considered threatened by the IUCN, snakebite takes a heavy toll on rural agricultural populations in the developing world. Approximately 138,000 deaths and 400,000 disabilities result from snakebite annually and WHO has pledged to reduce the resulting health burden by 50% by 2030. Among a plethora of reasons for insufficient snakebite mitigation, one is limited explicit knowledge of how, whe</description><pubDate>Mon, 26 Oct 2026 13:02:50 GMT</pubDate><guid isPermaLink="false">gbif-literature:4582b65e-4236-3c49-858a-6b7e019a022d</guid><category>PLOS Neglected Tropical Diseases</category></item><item><title>Targeted monitoring informed by mapping the ongoing spread of tick-borne encephalitis virus, the Netherlands</title><link>https://doi.org/10.2807/1560-7917.es.2026.31.20.2500767</link><description>DOI: https://doi.org/10.2807/1560-7917.es.2026.31.20.2500767
+Journal: Eurosurveillance
+Publisher: European Centre for Disease Control and Prevention (ECDC)
+Published: 2026-05-22
+Authors: Sara R Wijburg, Dedeke Rockx-Brouwer, Megan K Herbert, Jolianne M Rijks, Paulina M Lesiczka
+GBIF relevance: GBIF_USED
+
+BACKGROUND                     Tick-borne encephalitis virus (TBEV) was detected in the Netherlands in 2015. Current monitoring through serology in deer, tick collection and reported human cases, may underestimate areas of virus circulation. Including estimates of suitability of the habitat for TBEV can guide risk-based monitoring.                                                           AIM                     We aimed to improve the accuracy of the TBEV distribution map by adding estimates of</description><pubDate>Mon, 26 Oct 2026 12:52:17 GMT</pubDate><guid isPermaLink="false">gbif-literature:c14b3abd-5b34-3308-bc0a-c15f70f1ff59</guid><category>Eurosurveillance</category></item><item><title>Areas of priority for Mantodea in South Africa</title><link>https://doi.org/10.1007/s10841-026-00777-w</link><description>DOI: https://doi.org/10.1007/s10841-026-00777-w
+Journal: Journal of Insect Conservation
+Publisher: Springer Science and Business Media LLC
+Published: 2026-05-21
+Authors: B. Greyvenstein, H. du Plessis, J. van den Berg
+GBIF relevance: GBIF_USED
+
+Despite the cultural and ecological importance of the Mantodea group, very little is known about their biogeography in South Africa. Existing information on South African Mantodea collected over a period of 180 years was recently compiled into a database (157 spp., 64 genera, 14 families) with the aim to identify hotspot areas that could be of importance for future Mantodea surveys and research. Biogeographical analyses were done using the Hot Spot Analyst (Getis-ord Gi*) tool in the Spatial ana</description><pubDate>Mon, 26 Oct 2026 12:43:43 GMT</pubDate><guid isPermaLink="false">gbif-literature:2a1afdca-79aa-3269-afea-2b3061052751</guid><category>Journal of Insect Conservation</category></item><item><title>Suitable habitats for Ebrechtella tricuspidata (Araneae, Thomisidae) in China under climate change: implications for biological control</title><link>https://doi.org/10.1007/s10661-026-15484-x</link><description>DOI: https://doi.org/10.1007/s10661-026-15484-x
+Journal: Environmental Monitoring and Assessment
+Publisher: Springer Science and Business Media LLC
+Published: 2026-05-21
+Authors: Tianlei Liu, Chunlei Cong, Xueli Feng, Zhengxue Zhao, Daochao Jin
+GBIF relevance: GBIF_USED
+
+The crab spider Ebrechtella tricuspidata is a vital indigenous natural enemy in China’s agroecosystems, yet its potential distribution dynamics under changing climates remain unquantified. We utilized optimized Maximum Entropy (MaxEnt) models—configured with Hinge-Product-Threshold feature classes and a regularization multiplier of 1.5 based on AICc selection—to identify key distributional drivers and project future range shifts. The model demonstrated high discriminatory ability (mean AUC = 0.8</description><pubDate>Mon, 26 Oct 2026 12:41:55 GMT</pubDate><guid isPermaLink="false">gbif-literature:c7496f2a-2bd2-3722-a2f4-70ee7482c5c3</guid><category>Environmental Monitoring and Assessment</category></item><item><title>Suitable areas for the conservation of six wild felids in Mexico and their overlap with protected areas</title><link>https://doi.org/10.1007/s10344-026-02109-4</link><description>DOI: https://doi.org/10.1007/s10344-026-02109-4
+Journal: European Journal of Wildlife Research
+Publisher: Springer Science and Business Media LLC
+Published: 2026-05-22
+Authors: Eduardo Iván López-Ortiz, Alberto Gómez-Tagle Chávez, Tiberio César Monterrubio-Rico, Yvonne Herrerías-Diego, María Luisa España-Boquera
+GBIF relevance: GBIF_USED
+
+Urban, agricultural, and livestock expansions have fragmented habitats, reducing wildlife habitat, especially for species with broad territory requirements, such as felids. Protected areas (PA) are key for conserving critical wildlife habitats in México; therefore, this study identified suitable areas for six wild felid species, regions of high sympatry, and their representativeness within PAs. Occurrence data for six felid species were obtained through fieldwork, open databases, and a literatur</description><pubDate>Mon, 26 Oct 2026 12:35:35 GMT</pubDate><guid isPermaLink="false">gbif-literature:14494eb1-9825-3309-ad97-7b66350543ad</guid><category>European Journal of Wildlife Research</category></item><item><title>Observations on the seasonality of Diapria conica (Fab.) (Hymenoptera: Diapriidae), a pupal parasitoid of Eristalis tenax (L.) (Diptera: Syrphidae), and implications for mass-rearing for pollination</title><link>https://doi.org/10.1080/00779962.2026.2654896</link><description>DOI: https://doi.org/10.1080/00779962.2026.2654896
+Journal: New Zealand Entomologist
+Publisher: Informa UK Limited
+Published: 2026-05-21
+Authors: Melissa A. Broussard, Tamatea Nathan, Samantha F. J. Read, Eddy J. Dowle, Brian T. Cutting
+GBIF relevance: GBIF_CITED
+
+Hover flies, particularly widely-distributed, large-bodied species like the drone fly (Eristalis tenax), show promise as managed crop pollinators, with work underway in multiple continents focused on mass-rearing them for pollination. Parasitoids can be problematic in insect mass-rearing, as high densities of hosts can promote rapid growth of parasitoid populations. The endoparasitoid Diapria conica has occasionally been reported attacking pupae of E. tenax, but relatively little is known about </description><pubDate>Mon, 26 Oct 2026 12:33:34 GMT</pubDate><guid isPermaLink="false">gbif-literature:67996b53-fd85-3917-99f6-070d84606896</guid><category>New Zealand Entomologist</category></item><item><title>Prediction of Potential Forest Risk Areas for Phytopythium helicoides in China Under Climate Change Based on Maximum Entropy Modeling</title><link>https://doi.org/10.3390/f17050626</link><description>DOI: https://doi.org/10.3390/f17050626
+Journal: Forests
+Publisher: MDPI AG
+Published: 2026-05-21
+Authors: Yuzhe Kong, Binbin Jiao, Size Dai, Chun Yang, Qing Chen
+GBIF relevance: GBIF_USED
+
+Despite the growing threat of Pythium helicoides to forest plantations in China, a nationwide assessment of climatic suitability remains unavailable, limiting the development of preventive strategies. This study applied the Maximum Entropy model combined with geographic information system analysis to predict the potential distribution and suitable habitats of the pathogen across China. The model was constructed using occurrence records from the Global Biodiversity Information Facility and publis</description><pubDate>Mon, 26 Oct 2026 12:22:07 GMT</pubDate><guid isPermaLink="false">gbif-literature:55f24b22-d93d-3078-80d4-73a07b4630b8</guid><category>Forests</category></item><item><title>A quantitative classification of chorotypes for the Socotra Archipelago’s non-endemic plants</title><link>https://doi.org/10.3897/vcs.176349</link><description>DOI: https://doi.org/10.3897/vcs.176349
+Journal: Vegetation Classification and Survey
+Publisher: Pensoft Publishers
+Published: 2026-05-20
+Authors: Dario La Montagna, Giuliano Fanelli, Michele De Sanctis, Alessio Farcomeni, Petr Maděra
+GBIF relevance: GBIF_USED
+
+Aims: To identify groups of species with similar geographic ranges in the non-endemic flora of the Socotra Archipelago, place them within a global biogeographic context, and examine how these chorotypes are reflected in Socotran vegetation types. Study area: The Socotra Archipelago (Yemen) and its surroundings, analysed against a 1° × 1° global grid to provide global context and a Socotra-centred regional focus. Methods: We assembled 4,493,566 GBIF records for 477 target taxa; 417 had usable occ</description><pubDate>Mon, 26 Oct 2026 12:17:17 GMT</pubDate><guid isPermaLink="false">gbif-literature:6a1e2bcd-6c39-3833-8bb3-faae39b9c62d</guid><category>Vegetation Classification and Survey</category></item><item><title>Uncertainties of Predicting the Potential Geographical Distribution of Species Invasion by Considering Random Errors in Environmental Factors</title><link>https://doi.org/10.1007/s12061-026-09880-6</link><description>DOI: https://doi.org/10.1007/s12061-026-09880-6
+Journal: Applied Spatial Analysis and Policy
+Publisher: Springer Science and Business Media LLC
+Published: 2026-05-08
+Authors: Jian Xie, Haifeng Zhang, Wentao Yang
+GBIF relevance: GBIF_USED
+
+Predicting the potential geographical distribution of alien invasive species is essential for effective prevention and management of biological invasions. Existing invasive species prediction (ISP) models typically utilize original data of environmental factors directly as inputs, which may introduce uncertainty into predictive outcomes due to inherent random errors in the data. However, such random errors are often overlooked in ISP modeling, potentially compromising the reliability of spatial </description><pubDate>Mon, 26 Oct 2026 12:10:30 GMT</pubDate><guid isPermaLink="false">gbif-literature:0de93c7d-ced8-3749-8d91-f055fd5a2b99</guid><category>Applied Spatial Analysis and Policy</category></item><item><title>Global projections of oceanic climate change on marine bioluminescent species distributions: Regional hotspots and climate refugia</title><link>https://doi.org/10.1016/j.rsma.2026.105066</link><description>DOI: https://doi.org/10.1016/j.rsma.2026.105066
+Journal: Regional Studies in Marine Science
+Publisher: Elsevier BV
+Published: 2026-06-30
+Authors: Thaís Kaori Enoki Takishita, Rodrigo O. Castro, Isabel A.S. Bonatelli, Danilo T. Amaral
+GBIF relevance: GBIF_USED
+
+Bioluminescent organisms play critical roles in marine ecosystems, contributing to nutrient cycling, predator-prey interactions, and biodiversity maintenance. These species are also sensitive indicators of environmental change, making them valuable for studying climate impacts on ocean health. This study aimed to model the present and future distributions of 17 bioluminescent species under two climate scenarios (SSP1–2.6 and SSP5–8.5) for 2050 and 2100. Using species distribution models (SDMs) a</description><pubDate>Mon, 26 Oct 2026 12:05:48 GMT</pubDate><guid isPermaLink="false">gbif-literature:e40df8cf-2ce6-3654-ab2f-bbda18fb0b58</guid><category>Regional Studies in Marine Science</category></item><item><title>Mapping climate-resilient tea zones in India under climate change: regional suitability projections for the northeast and Western Ghats using ensemble modelling</title><link>https://doi.org/10.1007/s10584-026-04226-0</link><description>DOI: https://doi.org/10.1007/s10584-026-04226-0
+Journal: Climatic Change
+Publisher: Springer Science and Business Media LLC
+Published: 2026-06-12
+Authors: Shipra, Prem Prakash Singh, Pujarini Samal, Dibyendu Adhikari
+GBIF relevance: GBIF_USED
+
+Tea cultivation is highly climate sensitive. Yet fine-scale projections of future climatic suitability across major tea landscapes of India remain limited. Here, we developed parallel regional ensemble species distribution models for Camellia sinensis across northeast India (including North Bengal hill districts) and southwest India (part of the Western Ghats) to evaluate baseline (1970–2000) and future climatic suitability under three Shared Socioeconomic Pathway scenarios using two General Cir</description><pubDate>Mon, 26 Oct 2026 10:24:52 GMT</pubDate><guid isPermaLink="false">gbif-literature:4a08daf5-5dd0-399c-a3a0-78bca55beddd</guid><category>Climatic Change</category></item><item><title>Population Structure of the Jewel Scarab Chrysina gloriosa</title><link>https://doi.org/10.1093/gbe/evag123</link><description>DOI: https://doi.org/10.1093/gbe/evag123
+Journal: Genome Biology and Evolution
+Publisher: Oxford University Press (OUP)
+Published: 2026-05-20
+Authors: Terrence Sylvester, Carl E Hjelmen, Michelle J Thompson, Leslie T Blackmon, James M Alfieri
+GBIF relevance: GBIF_USED
+
+The sky-island mountain ranges of the southwestern United States offer a natural setting for examining how climate and geography impact population structure and gene flow. The jewel scarab, Chrysina gloriosa, is a charismatic beetle restricted to high-elevation habitats in these mountains, where isolation and environmental change may be driving population divergence. We used low-coverage whole-genome resequencing and species distribution modelling to study population structure, gene flow, and de</description><pubDate>Mon, 26 Oct 2026 10:16:52 GMT</pubDate><guid isPermaLink="false">gbif-literature:1c13617c-2703-3628-863b-935c5500af59</guid><category>Genome Biology and Evolution</category></item><item><title>Spatio-temporal patterns and diversity of sea turtle strandings in the Moroccan exclusive economic zone (1980–2024)</title><link>https://www.gbif.org/literature/35ee1fcd-ec46-3e08-a1e4-49259d4b79d6</link><description>Journal: SALAMANDRA
+Publisher: German Society for Herpetology and Herpetoculture
+Published: 2026-05-15
+Authors: Zohayr Dibar, Aziza Lansari, Zine el abidine el Morjani, Abdellah Bouazza
+GBIF relevance: GBIF_USED
+
+This study provides the first long-term, national-scale assessment of sea turtle strandings in the Moroccan Exclusive Economic Zone (EEZ) over 44 years (1980 to 2024). We analysed species composition, spatial and seasonal patterns, life stage distribution, and potential mortality causes. Loggerhead sea turtles (Caretta caretta) dominated strandings (71%), followed by leatherback sea turtles (Dermochelys coriacea; 27%), while green sea turtles (Chelonia mydas) were rare. Most strandings occurred </description><pubDate>Mon, 26 Oct 2026 10:04:17 GMT</pubDate><guid isPermaLink="false">gbif-literature:35ee1fcd-ec46-3e08-a1e4-49259d4b79d6</guid><category>SALAMANDRA</category></item><item><title>House of the blue dragon: Ecological niche models predict range expansion of Glaucus atlanticus Forster, 1777 (Mollusca: Nudibranchia) under different climate change scenarios</title><link>https://doi.org/10.1016/j.rsma.2026.105068</link><description>DOI: https://doi.org/10.1016/j.rsma.2026.105068
+Journal: Regional Studies in Marine Science
+Publisher: Elsevier BV
+Published: 2026-06-30
+Authors: Ana Paula Ferreira, Alexandre R. da Silva
+GBIF relevance: GBIF_USED
+
+Climate change poses critical challenges to marine biodiversity, particularly through shifts in environmental variables that define species distributions. This study investigates how the distribution of Glaucus atlanticus, a neustonic nudibranch with a global but fragmented range, may change under future climate scenarios using ecological niche modeling (ENM). We utilized occurrence data and 15 oceanographic variables, selected through variance inflation factor (VIF) analysis, to calibrate Rando</description><pubDate>Mon, 26 Oct 2026 10:00:26 GMT</pubDate><guid isPermaLink="false">gbif-literature:48d4cce2-a5e1-3398-b33a-1eb7364f4b80</guid><category>Regional Studies in Marine Science</category></item><item><title>Reinstatement of Tagetes heterocarpha (Asteraceae, Tageteae), an endemic species from the Barranca del Río Santiago, Jalisco, Mexico</title><link>https://doi.org/10.1007/s12228-026-09879-w</link><description>DOI: https://doi.org/10.1007/s12228-026-09879-w
+Journal: Brittonia
+Publisher: Springer Science and Business Media LLC
+Published: 2026-09-01
+Authors: Darío Javier Schiavinato, Adriana Bartoli
+GBIF relevance: GBIF_USED
+
+Tagetes heterocarpha , a name previously placed in synonymy within Tagetes erecta and Tagetes tenuifolia , is here reinstated as a species endemic to the Barranca del Río Santiago, near to Guadalajara, Jalisco, in western Mexico. Tagetes heterocarpha can be distinguished from its congeners by having an annual habit, five ray florets, lower and mid-stem leaves with margins sharply serrate and aristate, and a pappus of obovate and cuneate scales. A taxonomic description of T. heterocarpha with an </description><pubDate>Sun, 25 Oct 2026 22:57:05 GMT</pubDate><guid isPermaLink="false">gbif-literature:5e6b0ae1-4389-3539-9961-951014d6ac49</guid><category>Brittonia</category></item><item><title>Datura (Solanaceae) in Egypt: an integrative taxonomic study based on morphological and seed micromorphological evidence</title><link>https://doi.org/10.21608/agro.2026.405927.1773</link><description>DOI: https://doi.org/10.21608/agro.2026.405927.1773
+Journal: Egyptian Journal of Agronomy
+Publisher: Egyptian Knowledge Bank
+Published: 2026-06-08
+Authors: Ibrahim Elgamal, Sami Rabei, Abdelhamid Khedr
+GBIF relevance: GBIF_USED
+
+DATURA L. belongs to the tribe Datureae, subf. Solanoideae, of the family Solanaceae. It includes 13 species. Some consider it to be native to both Asia and the Americas but others consider it to be a New World genus that was introduced to the old World shortly after European contact was established. Some species, such as those found in Egypt, are widely distributed, sometimes being regarded as invasive agricultural or environmental weeds but sometimes being cultivated for their large flowers or</description><pubDate>Sun, 25 Oct 2026 22:49:58 GMT</pubDate><guid isPermaLink="false">gbif-literature:5f3c35ac-6bf8-3336-b79f-3be5b87d25d9</guid><category>Egyptian Journal of Agronomy</category></item><item><title>From Miocene Origins to Ecological Diversification: Unraveling Evolutionary Dynamics of North American Asters (Symphyotrichum)</title><link>https://www.gbif.org/literature/66b4a853-1971-307a-a800-94600f3e15fc</link><description>Journal: Mississippi State University
+Publisher: Mississippi State University
+Published: 2026-05-15
+Authors: Sushil Dahal
+GBIF relevance: GBIF_USED
+
+Symphyotrichum, a plant genus traditionally treated within the genus Aster L., comprises &gt;100 species of annual or perennial plants in the Compositae family Asteraceae. One of the most diverse genera in the southeastern US flora, the genus extends across the Americas, the Caribbean as well as eastern Eurasia. Despite its presence across the major American biomes and with distinctive floristic characteristics, several question regarding Symphyotrichum remains obscure. This research project focuse</description><pubDate>Sun, 25 Oct 2026 22:35:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:66b4a853-1971-307a-a800-94600f3e15fc</guid><category>Mississippi State University</category></item><item><title>Climate change impact on Castanopsis sp. pl. endemic to Borneo and its conservation implications</title><link>https://doi.org/10.1007/s44473-026-00163-z</link><description>DOI: https://doi.org/10.1007/s44473-026-00163-z
+Journal: Plant Biosystems
+Publisher: Springer Science and Business Media LLC
+Published: 2026-06-08
+Authors: Adi Susilo, D. S. Rinandio, D. Usmadi, M. Y. Hidayat, Denny
+GBIF relevance: GBIF_USED
+
+Climate change has become one of the most significant drivers of biodiversity loss, particularly for endemic plant species with narrow geographic distributions. Castanopsis (Fagaceae) comprises several species endemic to Borneo, a region experiencing rapid deforestation and extensive land-use change. The objective of this study is to understand the current and future potential distribution of eight endemic Castanopsis species under two climate change scenarios (SSP2—4.5 and SSP5—8.5) in the late</description><pubDate>Sun, 25 Oct 2026 21:34:17 GMT</pubDate><guid isPermaLink="false">gbif-literature:63638ccf-520d-3d3c-8003-f61a75bfec41</guid><category>Plant Biosystems</category></item><item><title>Climate resilient rubber cultivation zoning via species distribution and spatial optimization</title><link>https://doi.org/10.1016/j.isci.2026.116278</link><description>DOI: https://doi.org/10.1016/j.isci.2026.116278
+Journal: iScience
+Publisher: Elsevier BV
+Published: 2026-06-19
+Authors: Guangxi Yang, Bihan Zhao, Yan Zhang, Longyu Sui, Jiazhen Zhang
+GBIF relevance: GBIF_USED
+
+Climate change is reshaping the geographic envelope of rubber cultivation in China, creating risks of maladaptation from ill-informed expansion or abandonment of viable regions. We compared five species distribution models (GLM, RF, BRT, MaxNet, and MaxEnt) under identical samples and spatial cross-validation, then projected suitability to 2100 under CMIP6 scenarios. MaxEnt demonstrated the highest accuracy and transferability (AUC 0.973, TSS &gt; 0.90) and was retained for final projections. Isoth</description><pubDate>Sun, 25 Oct 2026 21:20:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:78cda959-bf01-3a54-98f8-9111acadd220</guid><category>iScience</category></item><item><title>Climatic and geological drivers of diversity in Iranian Barbels lineage (Cypriniformes: Cyprinidae: Barbinae and Torinae): An integrative taxonomic perspective</title><link>https://doi.org/10.1371/journal.pone.0349868</link><description>DOI: https://doi.org/10.1371/journal.pone.0349868
+Journal: PLOS One
+Publisher: Public Library of Science (PLoS)
+Published: 2026-06-11
+Authors: Hadi Khoshnamvand, Asghar Abdoli, Faraham Ahmadzadeh, Karel Janko
+GBIF relevance: GBIF_USED
+
+Iranian Barbel taxonomy and evolutionary history (Cyprinidae: Barbinae and Torinae) remain contentious due to overlapping morphological traits and limited molecular data. This study applies an integrative taxonomic framework to elucidate species boundaries, phylogenetic relationships, and the environmental drivers of diversification within Barbels lineages across Iran. We analyzed mitochondrial DNA (                     Cytb                     and                     COI                     gen</description><pubDate>Sat, 24 Oct 2026 22:13:20 GMT</pubDate><guid isPermaLink="false">gbif-literature:8d35f4de-15d1-3910-bb64-1bf2bd3a92b6</guid><category>PLOS One</category></item><item><title>Comparative phylogeography of three Cletus species pairs reveals shared responses to quaternary environmental change</title><link>https://doi.org/10.1016/j.ympev.2026.108665</link><description>DOI: https://doi.org/10.1016/j.ympev.2026.108665
+Journal: Molecular Phylogenetics and Evolution
+Publisher: Elsevier BV
+Published: 2026-10-31
+Authors: Xue Dong, Zechen Tang, Yao Zhang, Xiuxiu Zhu, Haiguang Zhang
+GBIF relevance: GBIF_USED
+
+Understanding how co-distributed species respond to shared environmental histories is a central question in evolutionary biology. Although comparative phylogeography has advanced rapidly in vertebrates, insects—despite comprising most terrestrial biodiversity—remain underrepresented. Here, we conducted a comparative phylogeographic study of three closely related phytophagous insect species pairs in the genus Cletus (Heteroptera: Coreidae) distributed across eastern Asia. Using genome-wide SNPs g</description><pubDate>Sat, 24 Oct 2026 22:02:29 GMT</pubDate><guid isPermaLink="false">gbif-literature:de5a02f3-f212-3a78-be4f-8eb70739ec39</guid><category>Molecular Phylogenetics and Evolution</category></item><item><title>Contribution to the knowledge of the spider fauna of Morocco (Arachnida: Araneae) – Third note. On sixteen new species, and noteworthy records.</title><link>https://doi.org/10.5852/ejt.2026.1067.3292</link><description>DOI: https://doi.org/10.5852/ejt.2026.1067.3292
+Journal: European Journal of Taxonomy
+Publisher: Museum National D'Histoire Naturelle
+Published: 2026-06-11
+Authors: Sylvain LECIGNE, Soumia MOUTAOUAKIL, Josiane LIPS, Nicolas HÉNON
+GBIF relevance: GBIF_USED
+
+We present the latest results of our studies on spiders in Morocco, based on material sampled between 2021 and 2025. A total of eight caves were surveyed in the Tazekka NP and the Beni Snassen massif. Several other habitats were also surveyed (e.g., coastal habitats, mixed forests, arid stony grasslands, shrubby slopes, lapiaz, etc.). In total, 40 species belonging to 10 families were recorded. Sixteen species are described as new to science: Agelescape atlas Lecigne sp. nov.; Berlandina campest</description><pubDate>Sat, 24 Oct 2026 21:56:13 GMT</pubDate><guid isPermaLink="false">gbif-literature:2b1961ea-f1cc-3e89-bc47-ca7ac11a66a1</guid><category>European Journal of Taxonomy</category></item><item><title>Future climatically stable habitat of a vulnerable medicinal tree, Warburgia salutaris (Pepper-bark tree), overlaps with some protected areas in southern Africa</title><link>https://doi.org/10.15451/ec2026-06-15-13-1-16</link><description>DOI: https://doi.org/10.15451/ec2026-06-15-13-1-16
+Journal: Ethnobiology and Conservation
+Publisher: Universidade Estadual da Paraiba/Universidade Federal Rural de Pernambuco (Ethnobiology and Conservation)
+Published: 2026-06-11
+Authors: Percy Jinga, Tawanda Manyangadze
+GBIF relevance: GBIF_USED
+
+Climate change will affect the distribution of medicinal plant species in sub-Saharan Africa, with potential negative consequences to especially rural and poor communities that depend on them for traditional medicines. The aim of the study was to determine future climatically stable habitat of Warburgia salutaris, a commonly used vulnerable medicinal plant species. An ensemble species distribution model (SDM) was built from eight algorithms and used to estimate the current and future distributio</description><pubDate>Sat, 24 Oct 2026 21:39:13 GMT</pubDate><guid isPermaLink="false">gbif-literature:a509f055-40db-382f-ac36-cf3142357015</guid><category>Ethnobiology and Conservation</category></item><item><title>CONNATE OVARIES AND MULTIPLE FRUITS IN RUBIACEAE, WITH REDUCTION OF CONJUGATOVARIUM TO SYNONYMY WITH MITCHELLA (RUBIACEAE – MITCHELLEAE)</title><link>https://doi.org/10.24823/ejb.2026.3609</link><description>DOI: https://doi.org/10.24823/ejb.2026.3609
+Journal: Edinburgh Journal of Botany
+Publisher: Royal Botanic Garden Edinburgh
+Published: 2026-06-11
+Authors: Elmar Robbrecht, Brecht Verstraete
+GBIF relevance: GBIF_USED
+
+Multiple fruits are rare in Rubiaceae, occurring in only 14 genera. They have evolved in different ways in phylogenetically distant clades. We present a survey of all known occurrences of multiple fruits in the family. Leaving aside the poorly known genus Pagameopsis, we distinguish four types: (i) double or multiple drupes resulting from fusion of neighbouring ovaries  Prismatomerideae, Mitchelleae and Morindeae), (ii) dry fruits resulting from partial fusion of a flower pair (Calanda in Knoxie</description><pubDate>Sat, 24 Oct 2026 21:30:52 GMT</pubDate><guid isPermaLink="false">gbif-literature:49a622d4-fafc-3943-8556-dffd34f3d214</guid><category>Edinburgh Journal of Botany</category></item><item><title>Boletina kowarzi Stackelberg, 1943 (Diptera: Mycetophilidae): first Central European record after nearly 150 years from the Bavarian Alps</title><link>https://doi.org/10.3897/alpento.10.193623</link><description>DOI: https://doi.org/10.3897/alpento.10.193623
+Journal: Alpine Entomology
+Publisher: Pensoft Publishers
+Published: 2026-06-10
+Authors: Olavi Kurina, Dieter Doczkal, Ellen Bückle, Jostein Kjærandsen, Vivian Feng
+GBIF relevance: GBIF_CITED
+
+Boletinakowarzi Stackelberg, 1943 (Diptera: Mycetophilidae) is recorded from Central Europe for the first time in nearly 150 years. The species was originally described based on a single specimen from Thuringia, Germany, collected in 1877, and has not been reported from Central Europe since. New material collected in the Bavarian Alps, Germany, has enabled a redescription and updated diagnosis of the species. The morphology of the male terminalia is documented in detail and illustrated together </description><pubDate>Sat, 24 Oct 2026 21:21:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:b56403c2-7147-3530-a497-8248c79e79a6</guid><category>Alpine Entomology</category></item><item><title>A novel host-parasitoid association: first record of Nasonia vitripennis (Walker, 1836) (Hymenoptera: Pteromalidae) parasitizing Microcerella halli (Engel, 1931) (Diptera: Sarcophagidae) in southern Brazil</title><link>https://doi.org/10.12741/ebrasilis.v19.e1140</link><description>DOI: https://doi.org/10.12741/ebrasilis.v19.e1140
+Journal: EntomoBrasilis
+Publisher: Entomologistas do Brasil
+Published: 2026-06-11
+Authors: Nathalia Fonseca Silva, João Luís Barbosa Marins Poulsen, Gabriele Maschke Jeske, Taís Madeira Ott, Marcial Corrêa Cárcamo
+GBIF relevance: GBIF_CITED
+
+Records of trophic associations between sarcophagid flies (Diptera: Sarcophagidae) and their natural enemies remain scarce, limiting ecological and forensic interpretations of decomposition systems. Microcerella halli (Engel, 1931) is a Neotropical sarcophagid species of recognized relevance in carrion succession, yet its interactions with pupal parasitoids are poorly documented. Nasonia vitripennis (Walker, 1836), a cosmopolitan pteromalid and a key model in evolutionary ecology, parasitizes a </description><pubDate>Sat, 24 Oct 2026 21:11:59 GMT</pubDate><guid isPermaLink="false">gbif-literature:4226b725-7604-30eb-8322-5df702ea9dd8</guid><category>EntomoBrasilis</category></item><item><title>Revision of the Metallactus humeralis species-group (Coleoptera: Chrysomelidae: Cryptocephalinae)</title><link>https://doi.org/10.11646/zootaxa.5829.1.1</link><description>DOI: https://doi.org/10.11646/zootaxa.5829.1.1
+Journal: Zootaxa
+Publisher: Magnolia Press
+Published: 2026-06-11
+Authors: DAVIDE SASSI
+GBIF relevance: GBIF_USED
+
+Nine species of Griburius Haldeman, 1849 and three species of Metallactus Suffrian, 1866, previously regarded as valid, together with two taxa previously treated as synonyms, are revised and critically discussed. According to the recent new diagnosis of Metallactus, all treated taxa are assigned to this genus. The following nomenclatural changes and synonymies are proposed: Metallactus corruscans (Suffrian, 1866) comb. nov. (= Scolochrus tripudians Suffrian, 1866 syn. nov.); Metallactus callens </description><pubDate>Sat, 24 Oct 2026 21:04:52 GMT</pubDate><guid isPermaLink="false">gbif-literature:7fef98f2-e5f7-3d81-b7a7-064fcae292fb</guid><category>Zootaxa</category></item><item><title>Phylogenomic analyses of the Austral podocarps (Podocarpus: Podocarpaceae) support hybrid ancestry of a New Zealand species</title><link>https://doi.org/10.1016/j.ympev.2026.108663</link><description>DOI: https://doi.org/10.1016/j.ympev.2026.108663
+Journal: Molecular Phylogenetics and Evolution
+Publisher: Elsevier BV
+Published: 2026-10-31
+Authors: Raees Khan, Ed Biffin, John Conran, Robert Hill, Kor-jent van Dijk
+GBIF relevance: GBIF_USED
+
+Hybridisation is widespread in plants and can generate novel evolutionary lineages. Here, we develop a phylogenetic hypothesis for the Austral podocarps (Podocarpus), a monophyletic group of six species distributed in Tasmania, mainland Australia, New Zealand and New Caledonia, and identify a putative hybrid lineage. Using a targeted capture approach to generate DNA sequence data, we find discordance between nuclear and plastid derived phylogenetic estimates and in particular, the relationships </description><pubDate>Fri, 23 Oct 2026 22:35:45 GMT</pubDate><guid isPermaLink="false">gbif-literature:433f9836-1853-3882-9f81-ff638085596a</guid><category>Molecular Phylogenetics and Evolution</category></item><item><title>Climate-Driven Distribution Modeling of Endemic Iranian Ground Jay (Podoces pleskei): Ecological Niche and Conservation</title><link>https://doi.org/10.3390/birds7020033</link><description>DOI: https://doi.org/10.3390/birds7020033
+Journal: Birds
+Publisher: MDPI AG
+Published: 2026-06-11
+Authors: Yeganeh Rakhshanifari, Malihe Erfani, Saeed Mohammadi, Narjes Okati
+GBIF relevance: GBIF_USED
+
+The Iranian Ground Jay (Podoces pleskei) is the endemic bird species inhabiting the deserts and steppes of Iran, a region experiencing severe ecological disturbances like habitat loss and fragmentation of preferred habitat. Despite its remarkable adaptation to arid environments, Iranian Ground Jay exhibits strong habitat specialization, making it both ecologically resilient and vulnerable—an intriguing case for evaluating how the species responds to climate-driven habitat shifts. The present stu</description><pubDate>Fri, 23 Oct 2026 22:32:07 GMT</pubDate><guid isPermaLink="false">gbif-literature:0c8215fe-e00d-3fd9-b0f9-2fdb8ee9c67c</guid><category>Birds</category></item><item><title>Revealing hidden patterns in the potential distribution of Leposternon polystegum (Duméril, 1851) (Amphisbaenia, Amphisbaenidae) using fuzzy logic modeling</title><link>https://doi.org/10.21425/fob.19.179470</link><description>DOI: https://doi.org/10.21425/fob.19.179470
+Journal: Frontiers of Biogeography
+Publisher: Pensoft Publishers
+Published: 2026-06-11
+Authors: Jady P. Eleutério, Alfredo P. Santos-Jr, José C. Guerrero, Síria Ribeiro
+GBIF relevance: GBIF_USED
+
+Leposternon polystegum is a fossorial reptile endemic to Brazil, distributed across several biomes. However, the environmental and spatial factors that shape its distribution remain poorly understood. Species distribution models provide useful insights into how different environmental gradients influence the occurrence of subterranean organisms. In this study, we applied fuzzy logic-based favorability models to identify the main environmental and spatial drivers of L.polystegum distribution. We </description><pubDate>Fri, 23 Oct 2026 22:08:07 GMT</pubDate><guid isPermaLink="false">gbif-literature:db430e8f-2ffe-3b2d-abe4-e6fcc69832fe</guid><category>Frontiers of Biogeography</category></item><item><title>First records of nine vagrant bird species (Aves) from the King Abdulaziz Royal Reserve, Saudi Arabia</title><link>https://doi.org/10.15560/22.3.535</link><description>DOI: https://doi.org/10.15560/22.3.535
+Journal: Check List
+Publisher: Pensoft Publishers
+Published: 2026-06-11
+Authors: Abdelwahab Chedad, Nuwayyir Mohammad Alshammari, Abdulaziz Mubarak Al-Qahtani, Saber A. Riad, Hazem Abdullah Al-Asmari
+GBIF relevance: GBIF_CITED
+
+During a year-long survey (October 2024–September 2025) in the King Abdulaziz Royal Reserve (KARR), eastern Saudi Arabia, nine vagrant bird species were recorded for the first time. These new regional records include Palearctic migrants and Afro-Asian visitors, extending known ranges across the Arabian Peninsula. Most species belong to Passeriformes and Charadriiformes, reflecting terrestrial and wetland habitats. The results highlight KARR’s importance as a refuge for migratory and vagrant bird</description><pubDate>Fri, 23 Oct 2026 21:35:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:dc193bdb-3a6a-34a9-995a-7e7874e7f63a</guid><category>Check List</category></item><item><title>Assessing the legacy effects of COVID-19 lockdowns on insect pollinator biodiversity</title><link>https://doi.org/10.1016/j.biocon.2026.111937</link><description>DOI: https://doi.org/10.1016/j.biocon.2026.111937
+Journal: Biological Conservation
+Publisher: Elsevier BV
+Published: 2026-09-30
+Authors: Muhammad Naeem, Ting Shen, Maryam Riasat, Nawaz Haider Bashir, Tahir Farooq
+GBIF relevance: GBIF_USED
+
+The COVID-19 pandemic lockdowns provided a unique opportunity to assess the impact of human activities (HmA) on insect pollinator biodiversity (Bdv) by examining HmA across the pre-pandemic (2017–2019), lockdown (2020–2021), and post-pandemic (2022–2024) phases. This study utilized data for over 1200 insect pollinator species, including more than one hundred thousand occurrence records across the tropical and subtropical regions of southern China. HmA was represented by NO2 and Nightlight (Lgh),</description><pubDate>Fri, 23 Oct 2026 21:17:27 GMT</pubDate><guid isPermaLink="false">gbif-literature:9772997c-1bcd-3730-b4d5-bd0e36451b09</guid><category>Biological Conservation</category></item><item><title>Skin Resistance to Dehydration: A Theory‐Informed Trait Gradient in Anurans</title><link>https://doi.org/10.1111/geb.70262</link><description>DOI: https://doi.org/10.1111/geb.70262
+Journal: Global Ecology and Biogeography
+Publisher: Wiley
+Published: 2026-06-12
+Authors: Sidney F. Gouveia, Pablo A. Martinez, Juan G. Rubalcaba
+GBIF relevance: GBIF_USED
+
+Aim                     Anurans' sensitivity to hydric stress has driven adaptive changes in multiple traits, potentially displaying geographical clines, as is the case with body size. A longstanding body of research suggests that skin resistance to water loss may also vary geographically in response to water loss. We build upon biophysical first principles to test for the existence of this yet elusive global‐level cline in skin resistance to dehydration that alternates with body size across the</description><pubDate>Fri, 23 Oct 2026 20:59:37 GMT</pubDate><guid isPermaLink="false">gbif-literature:3b25dd22-fd06-385f-85cd-acc2c26c9a65</guid><category>Global Ecology and Biogeography</category></item><item><title>Exploring Andean foothill connectivity: insights from population divergence in the white‐tipped sicklebill, Eutoxeres aquila</title><link>https://doi.org/10.1002/jav.03611</link><description>DOI: https://doi.org/10.1002/jav.03611
+Journal: Journal of Avian Biology
+Publisher: Wiley
+Published: 2026-06-12
+Authors: Laura Rosado‐ Llerena, Abigail Perkins, David Ocampo, Jefferson García‐ Loor, Andrés M. Cuervo
+GBIF relevance: GBIF_USED
+
+The Northern Andes, acting both as barrier and corridor, exert strong influence in Neotropical biodiversity. Still, the diversification of foothill taxa inhabiting ecotonal zones between lowland rainforest and montane environments in this region remains poorly understood. We investigated the evolutionary history of Eutoxeres aquila, a hermit hummingbird distributed across Central America, the Chocó, and both Andean slopes. Using mitochondrial DNA (ND2 and cytb), morphometrics, resistance surface</description><pubDate>Fri, 23 Oct 2026 20:43:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:d7c0d7f2-a393-3f9d-92b4-02fc4f0d9990</guid><category>Journal of Avian Biology</category></item><item><title>Tree ferns on the move: patterns of movement and current introduction status of Cyatheales species around the world</title><link>https://doi.org/10.1007/s10530-026-03849-9</link><description>DOI: https://doi.org/10.1007/s10530-026-03849-9
 Journal: Biological Invasions
 Publisher: Springer Science and Business Media LLC
 Published: 2026-05-20
@@ -358,14 +643,7 @@ Published: 2026-05-15
 Authors: Mónica Núñez‐Flores, Andrés Solórzano, Enrique González‐Ortegón
 GBIF relevance: GBIF_USED
 
-Aim                     To reconstruct the spatiotemporal dynamics underlying the global distribution of palaemonine shrimps and to test how geographic origin, paleogeographic connectivity and larval developmental strategy shaped macroevolutionary dispersal patterns.                                                           Location                     Global tropical and temperate coastal regions, emphasizing the Eastern Pacific, Indo‐West Pacific and Atlantic basins.                           </description><pubDate>Wed, 21 Oct 2026 08:04:12 GMT</pubDate><guid isPermaLink="false">gbif-literature:2d1e0894-f20e-38d5-8a89-3822a7768dd5</guid><category>Journal of Biogeography</category></item><item><title>Niche Expansion in an Invasive Plant Has Significant Influence on the Modelling of Its Current and Future Geographic Distributions</title><link>https://doi.org/10.1111/jbi.70248</link><description>DOI: https://doi.org/10.1111/jbi.70248
-Journal: Journal of Biogeography
-Publisher: Wiley
-Published: 2026-05-16
-Authors: Nicole J. Kester, Heather M. Kharouba, Tyler W. Smith
-GBIF relevance: GBIF_USED
-
-Aim                     Species distribution models (SDMs) are commonly used to predict distributions of invasive species; however, they rely on assumptions that often go untested for invasive species. To determine what climatic conditions may be suitable for invasion using SDMs, it is critical to assess whether the species occupies the same climatic niche in its native and invaded ranges. If this assumption is not met, current distribution‐climate relationships will not be predictive of future </description><pubDate>Wed, 21 Oct 2026 08:02:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:8b6ac969-e3a4-3f91-80c3-77fd020749c4</guid><category>Journal of Biogeography</category></item><item><title>Future projections of climate-driven tropical flowering phenology</title><link>https://doi.org/10.1088/2515-7620/ae6d92</link><description>DOI: https://doi.org/10.1088/2515-7620/ae6d92
+Aim                     To reconstruct the spatiotemporal dynamics underlying the global distribution of palaemonine shrimps and to test how geographic origin, paleogeographic connectivity and larval developmental strategy shaped macroevolutionary dispersal patterns.                                                           Location                     Global tropical and temperate coastal regions, emphasizing the Eastern Pacific, Indo‐West Pacific and Atlantic basins.                           </description><pubDate>Wed, 21 Oct 2026 08:04:12 GMT</pubDate><guid isPermaLink="false">gbif-literature:2d1e0894-f20e-38d5-8a89-3822a7768dd5</guid><category>Journal of Biogeography</category></item><item><title>Future projections of climate-driven tropical flowering phenology</title><link>https://doi.org/10.1088/2515-7620/ae6d92</link><description>DOI: https://doi.org/10.1088/2515-7620/ae6d92
 Journal: Environmental Research Communications
 Publisher: IOP Publishing
 Published: 2026-05-13
@@ -393,21 +671,7 @@ Published: 2026-05-25
 Authors: H. Tutova, O. Lisovets, O. Kunakh, O. Zhukov
 GBIF relevance: GBIF_CITED
 
-Naturalness is a key ecological concept reflecting the extent to which plant communities correspond to their natural state under minimal anthropogenic influence. The Borhidi system provides a widely used framework for assigning species-level naturalness indicator values based on ecological behaviour; however, its application at the community level remains insufficiently validated. This study aimed to assess whether species-level naturalness indicators correspond to empirically observed patterns </description><pubDate>Wed, 21 Oct 2026 07:23:14 GMT</pubDate><guid isPermaLink="false">gbif-literature:0f3acb5e-1201-3b33-b890-875f4ce89568</guid><category>Biosystems Diversity</category></item><item><title>Climate mediates phenological and phylogenetic differentiation in plant invasions</title><link>https://doi.org/10.1073/pnas.2536192123</link><description>DOI: https://doi.org/10.1073/pnas.2536192123
-Journal: Proceedings of the National Academy of Sciences
-Publisher: National Academy of Sciences
-Published: 2026-05-11
-Authors: Tadeo H. Ramirez-Parada, Isaac W. Park, Shijia Peng, Misako Nishino, John T. Kartesz
-GBIF relevance: GBIF_USED
-
-Darwin’s Naturalization Conundrum holds that both functional similarity and distinctiveness can facilitate biological invasions: invaders similar to natives may succeed through preadaptation to local abiotic conditions, whereas functionally distinct invaders may succeed by reducing competition. Yet the contexts in which either mechanism dominates are unclear. Prior research has primarily attributed variability in native–invasive differentiation to shifts in the balance between biotic and climati</description><pubDate>Tue, 20 Oct 2026 13:07:41 GMT</pubDate><guid isPermaLink="false">gbif-literature:df859067-9fc4-3694-93d2-1a252684d6a2</guid><category>Proceedings of the National Academy of Sciences</category></item><item><title>Forecasting Habitat Shifts in Euro-Mediterranean Orchids Protected Under Directive 92/43/EEC</title><link>https://doi.org/10.3390/d18050287</link><description>DOI: https://doi.org/10.3390/d18050287
-Journal: Diversity
-Publisher: MDPI AG
-Published: 2026-05-11
-Authors: Giovanni-Breogán Ferreiro-Lera, Ángel Penas, Sara del Río
-GBIF relevance: GBIF_USED
-
-While the main diversification centers of Orchidaceae Juss. are located in neotropical-like climates, Europe, and particularly the Mediterranean basin, has remarkable orchid biodiversity. The present study aims to model the habitat suitability of Mediterranean orchid species listed under the Directive 92/43/EEC: Cypripedium calceolus L., Dactylorhiza kalopissii E.Nelson, Himantoglossum adriaticum H.Baumann, Himantoglossum jankae Somlyay, Kreutz &amp; Óvári, Liparis loeselii (L.) Rich., Ophrys argoli</description><pubDate>Tue, 20 Oct 2026 13:04:35 GMT</pubDate><guid isPermaLink="false">gbif-literature:de643a88-3161-3716-8d7b-24b832b5df55</guid><category>Diversity</category></item><item><title>Critical Conservation Gaps for Microendemic Axolotls Reveal Inadequate Protection in Central Mexico</title><link>https://doi.org/10.70322/ecoldivers.2026.10005</link><description>DOI: https://doi.org/10.70322/ecoldivers.2026.10005
+Naturalness is a key ecological concept reflecting the extent to which plant communities correspond to their natural state under minimal anthropogenic influence. The Borhidi system provides a widely used framework for assigning species-level naturalness indicator values based on ecological behaviour; however, its application at the community level remains insufficiently validated. This study aimed to assess whether species-level naturalness indicators correspond to empirically observed patterns </description><pubDate>Wed, 21 Oct 2026 07:23:14 GMT</pubDate><guid isPermaLink="false">gbif-literature:0f3acb5e-1201-3b33-b890-875f4ce89568</guid><category>Biosystems Diversity</category></item><item><title>Critical Conservation Gaps for Microendemic Axolotls Reveal Inadequate Protection in Central Mexico</title><link>https://doi.org/10.70322/ecoldivers.2026.10005</link><description>DOI: https://doi.org/10.70322/ecoldivers.2026.10005
 Journal: Ecology and Diversity
 Publisher: SCIE Publishing Limited
 Published: 2026-05-12
@@ -428,268 +692,4 @@ Published: 2026-05-14
 Authors: Juan Pablo Gallo Reynoso, Eric Hough, Alfonso Gardea-Béjar, Isai David Barba-Acuña, Axhel Muñoz
 GBIF relevance: GBIF_CITED
 
-Regionally called “onza” in Sonora, Herpailurus yagouaroundi, is listed as threatened under Mexican law NOM-059-COL-2010. Until now, there were no verified records of their occurrence in Sonora. Records were obtained opportunistically while monitoring other species or by direct observation of these felines while crossing highways in Sonora. Six jaguarundi records were confirmed in different areas of Sonora; some were found along vegetation of subdeciduous tropical forests with some columnar cact</description><pubDate>Tue, 20 Oct 2026 08:49:35 GMT</pubDate><guid isPermaLink="false">gbif-literature:3b5422df-6d9c-3006-9798-47914a25dddf</guid><category>Therya Notes</category></item><item><title>Assessment of the Geographic Distribution and Molecular Variation of Mammillaria candida: Perspectives for Its Conservation</title><link>https://doi.org/10.3390/d18050294</link><description>DOI: https://doi.org/10.3390/d18050294
-Journal: Diversity
-Publisher: MDPI AG
-Published: 2026-05-14
-Authors: Sofía Solórzano, Néstor E. López-Ruiz, Jacinto Treviño-Carreón, Sharon A. Rosas-Aguilar
-GBIF relevance: GBIF_USED
-
-Intraspecific genetic structure and niche modeling are auxiliary data for species conservation. The Mexican endemic cactus Mammillaria candida is listed as an at-risk species at both global and national levels; however, formal ecological and genetic assessments are lacking. We integrated fieldwork surveys, ecological niche modeling, and molecular variation levels (DNA sequences and microsatellites) to identify conservation issues in this study. The results verified that M. candida is distributed</description><pubDate>Tue, 20 Oct 2026 08:47:34 GMT</pubDate><guid isPermaLink="false">gbif-literature:f18f9aab-118d-37b3-8b16-0b07e36d6e78</guid><category>Diversity</category></item><item><title>Leaf cell wall mechanics reveal contrasting patterns of structural persistence and tissue plasticity in two temperate tree species</title><link>https://doi.org/10.1016/j.plantsci.2026.113215</link><description>DOI: https://doi.org/10.1016/j.plantsci.2026.113215
-Journal: Plant Science
-Publisher: Elsevier BV
-Published: 2026-09-30
-Authors: Zeyu Lin, Dayong Fan, Xingyue Li, Xiangping Wang
-GBIF relevance: GBIF_USED
-
-It remains unclear whether drought-induced cell wall softening reflects a functional adjustment or structural impairment after severe water stress. To address this question, we combined pressure–volume curve analysis, non-linear constitutive modeling, anatomical measurements, and species-level biogeographical context in two temperate deciduous tree species, Fraxinus pennsylvanica and Platanus occidentalis. The two species exhibited contrasting mechanical responses after dehydration–rehydration. </description><pubDate>Tue, 20 Oct 2026 08:46:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:d6d67d69-e8ff-3a3b-99cd-a32a674e278f</guid><category>Plant Science</category></item><item><title>MaxEnt Modeling for Bird Habitat Preferenceand Ecological Restoration:A Case Study of Shanghai, China</title><link>https://doi.org/10.15244/pjoes/217902</link><description>DOI: https://doi.org/10.15244/pjoes/217902
-Journal: Polish Journal of Environmental Studies
-Publisher: HARD Publishing Company
-Published: 2026-05-14
-Authors: Jinjin Guan, Ziyan Wang, Jialin Zhang
-GBIF relevance: GBIF_USED
-
-With the acceleration of urbanization, urban space continues to expand, inevitably leading to the fragmentation of urban habitats and seriously damaging urban biodiversity. In this process, birds, as indicator species that are extremely sensitive to changes in the ecological environment, are experiencing shrinking habitats, and their survival conditions are precarious. Focusing on Shanghai as the study area, bird distribution data were integrated with environmental factors. Through the applicati</description><pubDate>Tue, 20 Oct 2026 08:37:36 GMT</pubDate><guid isPermaLink="false">gbif-literature:faddb992-453b-31bd-9c47-037c8eb3b7af</guid><category>Polish Journal of Environmental Studies</category></item><item><title>Revision of the world species of Piogaster Perkins (Hymenoptera, Ichneumonidae, Pimplinae), ectoparasitoids of jumping spiders (Araneae, Salticidae) with a description of one new species</title><link>https://doi.org/10.3897/jhr.99.184465</link><description>DOI: https://doi.org/10.3897/jhr.99.184465
-Journal: Journal of Hymenoptera Research
-Publisher: Pensoft Publishers
-Published: 2026-05-12
-Authors: Amber Bass, Andrew M. R. Bennett, Tamara Spasojevic, Marla Schwarzfeld
-GBIF relevance: GBIF_CITED
-
-The world species of Piogaster Perkins are revised including the description of a new species: Piogastervariegata Bass, Bennett &amp; Schwarzfeld, sp. nov. from Alberta, Canada. The new species is described and the seven previously known species are redescribed, with an illustrated key to all eight world species. Species relationships are examined using molecular data, including DNA barcodes and ultra-conserved elements (UCEs). Piogasterpilosatorcaucasica Kasparyan, syn. nov. is newly synonymized un</description><pubDate>Tue, 20 Oct 2026 08:23:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:8e955ba0-8739-352f-bb87-cbcd9de8df24</guid><category>Journal of Hymenoptera Research</category></item><item><title>Recognition of the Spring Flight of Celastrina (Tutt)(Lycaenidae: Polyommatinae) in Southern New England as an Introgressed Hybrid Species.</title><link>https://www.gbif.org/literature/5d49177f-8240-3369-8ad3-025ff1087894</link><description>Journal: The Taxonomic Report
-Publisher: INTERNATIONAL LEPIDOPTERA SURVEY
-Published: 2026-05-12
-Authors: Harry Pavulaan
-GBIF relevance: GBIF_CITED
-
-Populations of Celastrina (“Azure”) butterflies in southern New England have historically been referred to as either C. ladon (Cramer) or C. lucia (W. Kirby) by various authors. Following the discovery of elongated dorsal wing scales in males of C. ladon (D. Wright &amp; Pavulaan, 1999; Ômura et al., 2015)—structures that replace the androconia that are typically present in most Celastrina species—it was believed that this trait was restricted to C. ladon, C. nigra (W. Forbes), and, more recently, C</description><pubDate>Tue, 20 Oct 2026 08:08:18 GMT</pubDate><guid isPermaLink="false">gbif-literature:5d49177f-8240-3369-8ad3-025ff1087894</guid><category>The Taxonomic Report</category></item><item><title>Global patterns and drivers of tree introductions</title><link>https://doi.org/10.1016/j.cub.2026.04.044</link><description>DOI: https://doi.org/10.1016/j.cub.2026.04.044
-Journal: Current Biology
-Publisher: Elsevier BV
-Published: 2026-06-08
-Authors: Yingying Zhu, Yuxin Qiao, Jianquan Liu, David P. Edwards
-GBIF relevance: GBIF_USED
-
-Trees, including globally threatened species, are introduced outside their native ranges, where they can pose conservation risks or benefits. A key question is understanding the global extent and drivers of non-native tree introductions. Using over 31 million occurrence records of 50,470 tree species, we find that 26,096 (51.7%) were introduced as non-natives, and 167 (63.7% of the global total) families harbor threatened non-native species. The introductions of all species and threatened ones a</description><pubDate>Tue, 20 Oct 2026 07:31:24 GMT</pubDate><guid isPermaLink="false">gbif-literature:d8c4da6c-977c-3790-86c7-6c5e7b154423</guid><category>Current Biology</category></item><item><title>Interpretable mycology: leveraging Kolmogorov–Arnold networks for high-accuracy Lactarius species classification and comparative benchmarking</title><link>https://doi.org/10.1007/s11227-026-08567-6</link><description>DOI: https://doi.org/10.1007/s11227-026-08567-6
-Journal: The Journal of Supercomputing
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-12
-Authors: Berk Kırık, Güney Uğurlu, Ayhan Aydın, Fatih Ekinci, Koray Açıcı
-GBIF relevance: GBIF_USED
-
-This study introduces a hybrid deep learning framework that integrates convolutional neural networks (CNNs) with Kolmogorov–Arnold networks (KAN) for fine-grained classification of eight Lactarius species using a curated dataset of 1.614 images. The proposed CNN–KAN architecture significantly outperforms seven state-of-the-art baseline models, ConvNeXt-Small, EfficientNetV2-Small, MobileNetV3-Small, RegNetY-400MF, ResNet-50, SqueezeNet1.1M, and ViT-Small, across all evaluation metrics. The model</description><pubDate>Tue, 20 Oct 2026 07:25:32 GMT</pubDate><guid isPermaLink="false">gbif-literature:f94f1a96-a22a-345d-a7f9-687f39f781a6</guid><category>The Journal of Supercomputing</category></item><item><title>The genome sequence of the comb-clawed beetle, Pseudocistela ceramboides (Linnaeus, 1758) (Coleoptera: Tenebrionidae)</title><link>https://doi.org/10.12688/wellcomeopenres.26513.1</link><description>DOI: https://doi.org/10.12688/wellcomeopenres.26513.1
-Journal: Wellcome Open Research
-Publisher: F1000 Research Ltd
-Published: 2026-05-11
-Authors: Susan C. Taylor, Dmitry Telnov
-GBIF relevance: GBIF_CITED
-
-We present a genome assembly from an individual female                     Pseudocistela ceramboides                     (comb-clawed beetle; Arthropoda; Insecta; Coleoptera; Tenebrionidae). The assembly contains two haplotypes with total lengths of 356.59 megabases and 357.26 megabases. Most of haplotype 1 (90.78%) is scaffolded into 13 chromosomal pseudomolecules, including the X sex chromosome. Haplotype 2 was assembled to scaffold level. The mitochondrial genome has also been assembled, with</description><pubDate>Tue, 20 Oct 2026 06:25:43 GMT</pubDate><guid isPermaLink="false">gbif-literature:802cf5cb-833c-39ab-be29-dd422c9c450c</guid><category>Wellcome Open Research</category></item><item><title>Data source effects on the perceived distribution of ant diversity in the Espinhaço Mountain Range, Brazil</title><link>https://doi.org/10.1038/s44185-026-00135-8</link><description>DOI: https://doi.org/10.1038/s44185-026-00135-8
-Journal: npj Biodiversity
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-15
-Authors: Davi Vilaça, Inácio Gomes, Ricardo Meireles, Ricardo Solar, Frederico Neves
-GBIF relevance: GBIF_USED
-
-We investigated the influence of the data source on taxonomic composition analyses and species distribution model outputs for ants in the Espinhaço Range. Our objectives were to evaluate the taxonomic composition reported on a global repository (GBIF plus GABI) and regional compilations (PELD-CRSC plus Atlantic Ants), to compare stacked species distribution models (SSDMs) built from each source, and to examine climate–richness relationships using a combined model. We compiled occurrences, cleane</description><pubDate>Tue, 20 Oct 2026 06:24:16 GMT</pubDate><guid isPermaLink="false">gbif-literature:54036923-8b2e-3b2a-b989-fefb84c78e76</guid><category>npj Biodiversity</category></item><item><title>Herpetofaunal Diversity and Endemism Hotspots in Australia's Fire‐Impacted Subtropical Rainforests Show Fine‐Scale Variation Across Metrics and Taxa</title><link>https://doi.org/10.1111/aec.70230</link><description>DOI: https://doi.org/10.1111/aec.70230
-Journal: Austral Ecology
-Publisher: Wiley
-Published: 2026-05-15
-Authors: Janne J. Torkkola, Harry B. Hines, Alienor L. M. Chauvenet, Paul M. Oliver
-GBIF relevance: GBIF_USED
-
-Identifying biodiversity hotspots is a key strategy for prioritising conservation efforts. However, depending on the biodiversity measures or taxonomic groups used, different areas may be prioritised, especially at broader spatial scales. For instance, areas occupied by range‐restricted taxa (endemism hotspots) may not necessarily intersect with high species diversity areas (alpha diversity hotspots) and may be overlooked in broader scale analyses dominated by signatures from wide‐ranged species</description><pubDate>Tue, 20 Oct 2026 06:21:54 GMT</pubDate><guid isPermaLink="false">gbif-literature:f79a3e36-2a7c-30a8-b481-1fc9b6aa5f7e</guid><category>Austral Ecology</category></item><item><title>Central-marginal dynamics in Dinoponera quadriceps (Hymenoptera, Formicidae): activity density, body reduction and functional divergence</title><link>https://doi.org/10.1007/s00114-026-02124-0</link><description>DOI: https://doi.org/10.1007/s00114-026-02124-0
-Journal: The Science of Nature
-Publisher: Springer Science and Business Media LLC
-Published: 2026-06-08
-Authors: Sabrina Medeiros, Bruno Mayrink, Jhonathan Silva, Ricardo Campos, Tatiana Cornelissen
-GBIF relevance: GBIF_USED
-
-The Central-marginal hypothesis predicts that populations occurring at the periphery of a species’ geographic distribution experience more adverse environmental conditions, resulting in reduced population density, lower fitness, and potential morphological changes. In insects, morphological traits are strongly associated with ecological performance and resource acquisition, making them useful indicators of how populations respond to environmental gradients. Here, we investigated whether populati</description><pubDate>Mon, 19 Oct 2026 22:39:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:18dccee4-d408-3dde-bf62-b3929567d05c</guid><category>The Science of Nature</category></item><item><title>“Ich bin ein Berliner” – Genetic identity and admixture of alien grass snakes (Natrix natrix) in Berlin, Germany</title><link>https://doi.org/10.1007/s10592-026-01802-w</link><description>DOI: https://doi.org/10.1007/s10592-026-01802-w
-Journal: Conservation Genetics
-Publisher: Springer Science and Business Media LLC
-Published: 2026-06-08
-Authors: Frederic Griesbaum, Korbinian Pacher, Emma Ehmke, Hedi Schloddarick, David Beckenbauer
-GBIF relevance: GBIF_USED
-
-Hybridization of native species with introduced closely related taxa is of concern for nature conservation due to the risk of outbreeding depression and genetic swamping. Using mitochondrial DNA sequences and 13 microsatellite loci, we provide first genetic evidence that native grass snake ( Natrix natrix natrix ) populations in Berlin have been compromised by the introduction of at least one foreign subspecies ( N. n. moreotica ), originating from the southern Balkans and western Asia Minor. Ge</description><pubDate>Mon, 19 Oct 2026 22:24:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:cd3566a8-775c-367d-81e2-e781d98b78b8</guid><category>Conservation Genetics</category></item><item><title>A taxonomic, geographic and temporal assessment of Portuguese freshwater fishes in Portuguese ichthyological collections</title><link>https://doi.org/10.3897/nhcm.3.186661</link><description>DOI: https://doi.org/10.3897/nhcm.3.186661
-Journal: Natural History Collections and Museomics
-Publisher: Pensoft Publishers
-Published: 2026-06-08
-Authors: Bruna S. Santos, Luís M. da Costa, Maria Judite Alves, Luis M. P. Ceríaco
-GBIF relevance: GBIF_CITED
-
-Freshwater fish are amongst the most threatened species globally, a situation that is particularly acute in the Iberian Peninsula and Portugal. Natural History Collections (NHCs) are biodiversity data sources with unparalleled taxonomic, geographic and temporal scope. These collections are essential for modern scientific research and the conservation of species; however, the accession of voucher specimens has faced a steep decline in the last decades. As part of an ongoing effort to review the P</description><pubDate>Mon, 19 Oct 2026 22:08:18 GMT</pubDate><guid isPermaLink="false">gbif-literature:18cae326-16e7-32c6-858b-68b1b242adb6</guid><category>Natural History Collections and Museomics</category></item><item><title>Projected Northward Expansion and Southern Core-Habitat Contraction of Zeugodacus tau in China Under Climate Change: An Optimized MaxEnt Analysis</title><link>https://doi.org/10.3390/insects17060596</link><description>DOI: https://doi.org/10.3390/insects17060596
-Journal: Insects
-Publisher: MDPI AG
-Published: 2026-06-08
-Authors: Yifu Du, Zhiwen Li
-GBIF relevance: GBIF_USED
-
-Global warming is reshaping the climatic suitability of invasive ectotherms. In this study, we used an optimized Maximum Entropy (MaxEnt) model combined with GIS-based centroid tracking to quantify the spatiotemporal changes in the potential climatic suitability of Zeugodacus tau, a major polyphagous quarantine pest, in China. Projections were conducted under the historical baseline climate (1970–2000) and future climate scenarios, including SSP1–2.6, SSP2–4.5, and SSP5–8.5 for the 2050s and 207</description><pubDate>Mon, 19 Oct 2026 21:54:07 GMT</pubDate><guid isPermaLink="false">gbif-literature:71d4fa24-6c64-35c1-8ad8-e45ef23f2945</guid><category>Insects</category></item><item><title>Cross‐realm incidental and cobenefits in freshwater and terrestrial biodiversity conservation planning</title><link>https://doi.org/10.1111/1365-2664.70422</link><description>DOI: https://doi.org/10.1111/1365-2664.70422
-Journal: Journal of Applied Ecology
-Publisher: Wiley
-Published: 2026-06-04
-Authors: Jin Ye, Feiling Yang, Feng Liu, Jihong Xu, Zhongxing Yang
-GBIF relevance: GBIF_USED
-
-Freshwater species face greater threats than terrestrial ones; however, conservation efforts for freshwater species lag far behind those for terrestrial ecosystems. Traditionally, conservation planning is often implemented independently for terrestrial and freshwater realms, ignoring potential incidental conservation benefits and cobenefits across them.We established datasets of terrestrial and freshwater species in the Three Parallel Rivers Region, predicted their distributions using Biomod2, a</description><pubDate>Mon, 19 Oct 2026 21:43:42 GMT</pubDate><guid isPermaLink="false">gbif-literature:98010986-dbc6-3675-a00d-775f760b1c94</guid><category>Journal of Applied Ecology</category></item><item><title>Mexican Freshwater Fish: Identifying Conservation Priorities and High‐Risk Areas for Fisheries Under Climate Change</title><link>https://doi.org/10.1002/aqc.70388</link><description>DOI: https://doi.org/10.1002/aqc.70388
-Journal: Aquatic Conservation: Marine and Freshwater Ecosystems
-Publisher: Wiley
-Published: 2026-05-14
-Authors: Rafael Sebastián Muratalla‐Miranda, Luis Fernando Del Moral‐Flores, Ángela P. Cuervo‐Robayo, Carolina Ureta
-GBIF relevance: GBIF_USED
-
-Freshwater fish are essential components of aquatic ecosystems, providing key ecological functions and supporting livelihoods. Climate change poses a significant threat to freshwater biodiversity; consequently, both its conservation and the food security it sustains may be at risk. Mexico harbours 677 native freshwater species, characterised by high levels of endemism and many taxa of economic and cultural importance. However, few studies have assessed the impacts of climate change on these spec</description><pubDate>Mon, 19 Oct 2026 11:20:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:d5f885d0-c128-3f2e-aa70-71272dfca76e</guid><category>Aquatic Conservation: Marine and Freshwater Ecosystems</category></item><item><title>Multidimensional Diversity Identifies Mountains as Key Refugia for Caudata in China</title><link>https://doi.org/10.1002/ece3.73497</link><description>DOI: https://doi.org/10.1002/ece3.73497
-Journal: Ecology and Evolution
-Publisher: Wiley
-Published: 2026-05-14
-Authors: Lu‐Lu Sui, Bin Wang, Feng Xie, Wei Zhu, Cheng Shen
-GBIF relevance: GBIF_USED
-
-Climate change is reshaping biodiversity patterns, yet conservation planning for amphibians, particularly Caudata, remains limited in both geographic coverage and the integration of multiple biodiversity dimensions. In this study, we combined species distribution models (SDMs), taxonomic, phylogenetic, and functional dimensions of biodiversity, and Zonation‐based spatial prioritization to identify conservation priorities for Caudata in China. The analysis includes species with limited occurrence</description><pubDate>Mon, 19 Oct 2026 11:08:42 GMT</pubDate><guid isPermaLink="false">gbif-literature:df6eae1a-4e92-3aaa-9fef-0316896963e0</guid><category>Ecology and Evolution</category></item><item><title>Global Patterns of Range Size in Ferns</title><link>https://doi.org/10.1111/jbi.70245</link><description>DOI: https://doi.org/10.1111/jbi.70245
-Journal: Journal of Biogeography
-Publisher: Wiley
-Published: 2026-05-14
-Authors: Dusty R. Prater, Jacob S. Suissa
-GBIF relevance: GBIF_USED
-
-Aim                     Ferns disperse by dust‐like spores and are conventionally assumed to have wide ranges; yet no broad comparative framework has quantified their distributions. We evaluated just how widespread fern species are across different range metrics, tested for expected biogeographic patterns, and examined mechanisms underlying wide and narrow‐ranging lineages.                                                           Location                     Global.                             </description><pubDate>Mon, 19 Oct 2026 11:06:04 GMT</pubDate><guid isPermaLink="false">gbif-literature:d72bc421-862b-36e4-8654-cac77b868a23</guid><category>Journal of Biogeography</category></item><item><title>Systematic revision of east African Oligolepis (Oxudercidae: Gobionellinae) reveals a distinct species, Oligolepis goni sp. nov., formerly assigned to Oligolepis acutipennis (Valenciennes, 1837)</title><link>https://doi.org/10.1111/jfb.70498</link><description>DOI: https://doi.org/10.1111/jfb.70498
-Journal: Journal of Fish Biology
-Publisher: Wiley
-Published: 2026-05-14
-Authors: Fatah Zarei, Roger Bills, Hiroyuki Motomura, Marcelo Kovačić, Albert Chakona
-GBIF relevance: GBIF_USED
-
-Species of the gobionelline genus Oligolepis Bleeker, 1874 (Oxudercidae) are small gobies inhabiting muddy estuaries, coastal bays and lagoons, with some extending into freshwater systems. All recognised species occur in the western Pacific and eastern Indian oceans, except Oligolepis acutipennis (Valenciennes, 1837), previously considered widespread across the Indo‐West Pacific to include the western Indian Ocean. Populations from the east African coast have traditionally been assigned to this </description><pubDate>Mon, 19 Oct 2026 11:03:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:8b4463f6-1b0b-3349-b4ee-5e0f5e213f90</guid><category>Journal of Fish Biology</category></item><item><title>Integrating fossil data in ecological niche models to improve predictions of future habitat of Caribbean corals</title><link>https://doi.org/10.1111/cobi.70323</link><description>DOI: https://doi.org/10.1111/cobi.70323
-Journal: Conservation Biology
-Publisher: Wiley
-Published: 2026-05-13
-Authors: Claire. M. Williams, Fernando Machado‐Stredel, Rowan C. Martindale, Corinne E. Myers
-GBIF relevance: GBIF_USED
-
-Ecological niche models (ENMs) are used to assess the abiotic preferences of species by linking their occurrences to the environmental conditions in which they live. We developed a fossil‐informed ENM framework that integrates mid‐Holocene and modern occurrences to test niche stability and reconstruct abiotic niche characteristics for four critical reef‐building Caribbean coral species (elkhorn coral [Acropora palmata], staghorn coral [Acropora cervicornis], boulder brain coral [Colpophyllia nat</description><pubDate>Mon, 19 Oct 2026 11:00:57 GMT</pubDate><guid isPermaLink="false">gbif-literature:b16fe587-d71c-37ef-9a99-b3ec1272342f</guid><category>Conservation Biology</category></item><item><title>Wildlife and brucellosis: Integrating conservation efforts with zoonotic disease management in Haixi Prefecture</title><link>https://doi.org/10.1002/jwmg.70224</link><description>DOI: https://doi.org/10.1002/jwmg.70224
-Journal: The Journal of Wildlife Management
-Publisher: Wiley
-Published: 2026-05-14
-Authors: HaoNing Wang, XinYa Jiang, GuanYing Ni, FuYun Chen, RenNa Wu
-GBIF relevance: GBIF_USED
-
-Brucellosis, a zoonotic disease caused by Brucella bacteria, poses significant public health risks and economic burdens, especially in ecosystems where livestock and wildlife interact. This study employs a spatial epidemiological approach to investigate the relationship between brucellosis occurrence in humans and livestock and wild ungulate habitats in Haixi Prefecture, Qinghai Province, China. We identified brucellosis hotspots and analyzed their overlap with the distributions of 6 wild ungula</description><pubDate>Mon, 19 Oct 2026 10:55:18 GMT</pubDate><guid isPermaLink="false">gbif-literature:aa0cd043-a255-3314-bc56-3fb7db608400</guid><category>The Journal of Wildlife Management</category></item><item><title>Camouflage via leaf mottling among North American Erythronium species increases with forest cover and deer abundance</title><link>https://doi.org/10.1002/ajb2.70208</link><description>DOI: https://doi.org/10.1002/ajb2.70208
-Journal: American Journal of Botany
-Publisher: Wiley
-Published: 2026-05-14
-Authors: Nathan G. Kiel
-GBIF relevance: GBIF_USED
-
-Premise                     Camouflage is a common plant strategy to avoid herbivory in sparsely vegetated environments. In temperate deciduous forests, leaf mottling is hypothesized to camouflage the nutrient‐rich leaves of spring‐active understory plants against the sparsely vegetated background of leaf litter. However, tests of this hypothesis remain limited to few species at small spatial scales.                                                           Methods                               </description><pubDate>Mon, 19 Oct 2026 10:50:44 GMT</pubDate><guid isPermaLink="false">gbif-literature:7aa5a355-e49b-3fe8-a74d-88baa78d5205</guid><category>American Journal of Botany</category></item><item><title>Forest Plants Decrease in Occupancy and Contract Their Edaphic Niches Towards Their Climatic Range Margins</title><link>https://doi.org/10.1111/geb.70248</link><description>DOI: https://doi.org/10.1111/geb.70248
-Journal: Global Ecology and Biogeography
-Publisher: Wiley
-Published: 2026-05-15
-Authors: Per‐Ola Hedwall, Kristoffer Hylander, Jörg Brunet, Ditte Marie Christiansen, Joan Díaz‐Calafat
-GBIF relevance: GBIF_USED
-
-Aim                     For improved predictions of the redistribution of species under climate change, there is a need to better understand how interactions among multiple abiotic drivers affect species distributions. We examined whether occupancy patterns of forest plant species change consistently along geographic and macroclimatic gradients. We further tested whether these changes co‐vary with species’ edaphic niche widths—specifically, whether niche widths contract as occupancy declines. Fi</description><pubDate>Mon, 19 Oct 2026 10:47:45 GMT</pubDate><guid isPermaLink="false">gbif-literature:3a9a4a16-911b-370e-b636-e5f373ed38dc</guid><category>Global Ecology and Biogeography</category></item><item><title>The Biology, Ecology, Distribution and Management of Two Globally Invasive Weeds: Calotropis procera (Calotrope) and Calotropis gigantea (Giant Calotrope)</title><link>https://doi.org/10.1111/wre.70093</link><description>DOI: https://doi.org/10.1111/wre.70093
-Journal: Weed Research
-Publisher: Wiley
-Published: 2026-05-15
-Authors: Jason Roberts, Kunjithapatham Dhileepan, Singarayer Florentine
-GBIF relevance: GBIF_USED
-
-Calotropis procera and C. gigantea are emerging as globally invasive plants that can significantly alter ecosystems in areas where they have escaped from attended cultivation. Without effective management, these species can form dense monospecific stands, resulting in severe economic, environmental and social impacts. Current control measures for these species are often limited in effectiveness, especially when applied as single‐use approaches. To address this issue, this review synthesises key </description><pubDate>Mon, 19 Oct 2026 09:46:00 GMT</pubDate><guid isPermaLink="false">gbif-literature:cb385f7e-9194-3747-85ac-42deebb3ced3</guid><category>Weed Research</category></item><item><title>Second specimen and first record of Gerrhonotus farri (Squamata: Anguidae) from San Luis Potosí, Mexico</title><link>https://doi.org/10.11646/zootaxa.5807.2.8</link><description>DOI: https://doi.org/10.11646/zootaxa.5807.2.8
-Journal: Zootaxa
-Publisher: Magnolia Press
-Published: 2026-05-11
-Authors: JOSÉ DANIEL LARA-TUFIÑO, ALVARO MONTER-POZOS, OMAR LARIOS-LOZANO, ZELTZIN Y. HERNÁNDEZ-ALEMÁN, URI O. GARCÍA-VÁZQUEZ
-GBIF relevance: GBIF_USED
-
-(no abstract available)</description><pubDate>Mon, 19 Oct 2026 09:39:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:eb64c79e-87c4-3e69-a61d-b49b2868146c</guid><category>Zootaxa</category></item><item><title>An invasive plant may overcome pollination specialisation with a versatile breeding system</title><link>https://doi.org/10.1007/s10530-026-03841-3</link><description>DOI: https://doi.org/10.1007/s10530-026-03841-3
-Journal: Biological Invasions
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-10
-Authors: Laura C. Lopresti, Lori Lach, Paula Sosenski, Victor Parra-Tabla, Daniel Montesinos
-GBIF relevance: GBIF_USED
-
-Plants with specialised pollination syndromes are less likely to become invasive compared to those with generalist syndromes, yet some highly invasive species have specialised syndromes. Few empirical studies have investigated the reproductive biology of invasive plants with specialised pollination syndromes, preventing a deep understanding of this apparent contradiction. Senna species (Fabaceae) exhibit the specialised buzz-pollination syndrome, and several Senna species are invasive globally. </description><pubDate>Mon, 19 Oct 2026 09:35:11 GMT</pubDate><guid isPermaLink="false">gbif-literature:156b4cfc-813d-3264-b814-5e8b4337274b</guid><category>Biological Invasions</category></item><item><title>Aestivation and its relationship with the distribution of freshwater turtles and tortoises of the world: a comparative phylogenetic approach</title><link>https://doi.org/10.1007/s10682-026-10398-z</link><description>DOI: https://doi.org/10.1007/s10682-026-10398-z
-Journal: Evolutionary Ecology
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-12
-Authors: Raúl López-Vivanco, Clementina González, Rodrigo Macip-Ríos
-GBIF relevance: GBIF_USED
-
-Aestivation and migration are among the adaptations that have evolved to cope with extreme or prolonged periods of drought in vertebrates. In reptiles, aestivation behavior and its duration are predicted to be influenced by environmental variables in response to harsh climatic conditions. Aestivation and/or migration could promote the ability of turtles to colonize new areas, which would be reflected in proportionally larger distributions for species that aestivate. In this study, we analyzed th</description><pubDate>Mon, 19 Oct 2026 09:31:25 GMT</pubDate><guid isPermaLink="false">gbif-literature:380eecdc-84de-3ae0-9af7-e635f7d93a9a</guid><category>Evolutionary Ecology</category></item><item><title>Climate change and local medical systems: future availability of medicinal plants for the treatment of climate-sensitive diseases</title><link>https://www.gbif.org/literature/4ffdc67a-a95b-31f0-ad02-282b20d50c0b</link><description>Journal: Ethnobotany Research and Applications
-Publisher: Ilia State University
-Published: 2026-05-10
-Authors: Eric Bem dos Santos, Ulysses Paulino Albuquerque, Elcida de Lima Araújo
-GBIF relevance: GBIF_USED
-
-Background: Climate change has intensified the incidence of climate-sensitive diseases (CSD) while simultaneously altering the availability of medicinal plant resources, with potential consequences for human health and the functioning of local medical systems (LMS), particularly in semiarid regions.  Methods: Species distribution models were developed for 83 woody medicinal plant species using occurrence records from GBIF and bioclimatic variables from WorldClim. Projections were generated for t</description><pubDate>Mon, 19 Oct 2026 09:16:24 GMT</pubDate><guid isPermaLink="false">gbif-literature:4ffdc67a-a95b-31f0-ad02-282b20d50c0b</guid><category>Ethnobotany Research and Applications</category></item><item><title>Taxonomic revision of two Indo-Pacific species of Valenciennea (Teleostei: Gobiidae) reveals two new species from the Indian Ocean</title><link>https://doi.org/10.11646/zootaxa.5807.2.6</link><description>DOI: https://doi.org/10.11646/zootaxa.5807.2.6
-Journal: Zootaxa
-Publisher: Magnolia Press
-Published: 2026-05-11
-Authors: FATAH ZAREI, HIROYUKI MOTOMURA, ALBERT CHAKONA
-GBIF relevance: GBIF_USED
-
-The gobiid genus Valenciennea Bleeker, 1856 comprises 17 bottom-dwelling species distributed on shallow coral reefs throughout the tropical and subtropical Indo-Pacific. Twelve species have Indo-Pacific distributions: within the Indian Ocean, six of these species are only found in the eastern part, while the other six occur in both eastern and western regions. Valenciennea persica is endemic to the northwestern Indian Ocean. Valenciennea puellaris (Tomiyama, 1956), originally described from Japa</description><pubDate>Mon, 19 Oct 2026 09:01:32 GMT</pubDate><guid isPermaLink="false">gbif-literature:a70ae5b4-8507-322b-af4c-a28ce72f1f7f</guid><category>Zootaxa</category></item><item><title>Climate-Driven Range Dynamics and Spatial Reorganization of the Oriental Hornet (Vespa orientalis) in the Western Palearctic Under Current and Future Scenarios</title><link>https://doi.org/10.3390/d18050290</link><description>DOI: https://doi.org/10.3390/d18050290
-Journal: Diversity
-Publisher: MDPI AG
-Published: 2026-05-12
-Authors: Hossam F. Abou-Shaara, Areej A. Al-Khalaf
-GBIF relevance: GBIF_USED
-
-Understanding the climate-driven range dynamics of the oriental hornet (Vespa orientalis) is essential for ecological risk assessment and biodiversity management. This study utilized Maximum Entropy (MaxEnt) modeling to estimate current and future (2050) habitat suitability across the Western Palearctic. The model demonstrated strong predictive performance, yielding a mean cross-validation AUC of 0.95 ± 0.01 and a TSS of 0.78 ± 0.02, indicating high stability and discriminatory capacity. Jackkni</description><pubDate>Mon, 19 Oct 2026 08:26:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:d953f86e-5e29-3f4d-bb74-4541c6aaddef</guid><category>Diversity</category></item><item><title>Eschweilera imarco (Lecythidaceae), a new species of treelet from Tolima department, Colombia</title><link>https://doi.org/10.1007/s12225-025-10322-8</link><description>DOI: https://doi.org/10.1007/s12225-025-10322-8
-Journal: Kew Bulletin
-Publisher: Springer Science and Business Media LLC
-Published: 2026-06-01
-Authors: Boris Villanueva-Tamayo, Gerardo A. Aymard-Corredor, Lina M. Corrales-Bravo
-GBIF relevance: GBIF_CITED
-
-Eschweilera imarco , a new endemic species of treelet from Tolima department, Colombia, is described, illustrated and its morphological similarities and differences with related species are discussed. This species occurs in wet montane forests over poor sandy-clay soils of Bosque de Galilea Regional Natural Park, an area located on the western slopes of the eastern Cordillera. Eschweilera imarco presents an unusual habit in a predominantly bigger-tree genus, as it is an understory and lower stra</description><pubDate>Mon, 19 Oct 2026 08:20:57 GMT</pubDate><guid isPermaLink="false">gbif-literature:1cce5521-ecd0-38be-b295-84a29d69487c</guid><category>Kew Bulletin</category></item><item><title>Himalayan or tropical Asian origin: New insights into the phylogeny, biogeography, and systematics of the fern genus Selliguea and its allied genera (Polypodiaceae)</title><link>https://doi.org/10.1111/jse.70077</link><description>DOI: https://doi.org/10.1111/jse.70077
-Journal: Journal of Systematics and Evolution
-Publisher: Wiley
-Published: 2026-06-08
-Authors: Liang Zhang, Zhen‐Long Liang, Ngan Thi Lu, Xin‐Mao Zhou, Ralf Knapp
-GBIF relevance: GBIF_USED
-
-Selligueoid ferns are arguably one of the only relatively large groups of ferns with uncertain phylogeny, biogeography, and systematics. Previous studies identified some well‐supported or moderately supported clades but their relationships were largely unresolved, and thus, it remains controversial whether these ferns originated from tropical Asia or the Himalaya and how many genera should be recognized. Here, we reconstructed phylogenies based on Sanger sequencing data of five plastid markers o</description><pubDate>Sun, 18 Oct 2026 21:22:59 GMT</pubDate><guid isPermaLink="false">gbif-literature:15295e76-75b9-3c33-b81c-7e14fb42c8b5</guid><category>Journal of Systematics and Evolution</category></item><item><title>Climate Change Reduces Habitat Suitability of the Endemic Iranian Ground‐Jay ( Podoces pleskei ): Spatial Analyses to Guide Conservation Strategies</title><link>https://doi.org/10.1002/ece3.73637</link><description>DOI: https://doi.org/10.1002/ece3.73637
-Journal: Ecology and Evolution
-Publisher: Wiley
-Published: 2026-06-10
-Authors: Masoud Yousefi, Bagher Nezami, Faham Asgari, Sayyad Sheykhi Illanloo, Sayedeh Alemohammad
-GBIF relevance: GBIF_USED
-
-Dryland and semiarid ecosystems in Iran are increasingly threatened by climate change and human activities, posing significant risks to endemic avian species such as the Iranian Ground‐jay (Podoces pleskei). In this study, we used ecological niche models and GIS analyses to predict the impacts of climate change on the habitat suitability of this bird. Our models showed that the habitat suitability for P. pleskei was primarily concentrated within the deserts and xeric shrublands biomes and identi</description><pubDate>Sun, 18 Oct 2026 21:09:20 GMT</pubDate><guid isPermaLink="false">gbif-literature:34a30e8e-9a45-3c49-be5d-c16f98b716dc</guid><category>Ecology and Evolution</category></item><item><title>Climatic Niche Modelling Reveals Limited Phylogenetic Niche Conservatism in New World Crocodylians</title><link>https://doi.org/10.1111/jbi.70275</link><description>DOI: https://doi.org/10.1111/jbi.70275
-Journal: Journal of Biogeography
-Publisher: Wiley
-Published: 2026-06-09
-Authors: Andrés L. Rodriguez‐Cordero, Nancy E. McIntyre, Richard D. Stevens, Joseph D. Manthey, Carlos Portillo‐Quintero
-GBIF relevance: GBIF_USED
-
-Aim                     Phylogenetic niche conservatism, the tendency of closely related species to retain ancestral ecological traits, has gained considerable interest, yet the lack of integration across independent evaluation methods has hindered our understanding of whether niches are conserved or dynamic. Such an understanding is especially relevant for taxa of conservation concern, such as crocodylians (order Crocodylia). This study assessed niche conservatism among New World crocodylians b</description><pubDate>Sun, 18 Oct 2026 21:03:41 GMT</pubDate><guid isPermaLink="false">gbif-literature:2628e8bf-2ff1-3e94-981a-d3211bc827c4</guid><category>Journal of Biogeography</category></item><item><title>Resolving the Taxonomic Status of the Marbled Toad (Bufonidae: Incilius marmoreus): 2RAD-based Phylogeography Including an Isolated Population in Veracruz, Mexico</title><link>https://doi.org/10.1643/h2024107</link><description>DOI: https://doi.org/10.1643/h2024107
-Journal: Ichthyology &amp; Herpetology
-Publisher: American Society of Ichthyologists and Herpetologists (ASIH)
-Published: 2026-06-03
-Authors: Kenneth Wang, Todd W. Pierson, Joseph R. Mendelson
-GBIF relevance: GBIF_USED
-
-Incilius marmoreus inhabits an extensive range along the Pacific Coast of Mexico and a smaller allopatric region in the State of Veracruz, exhibiting an unusual distribution among herpetofauna. In 1901, Günther classified the Pacific coastal toads Bufo argillaceus and B. lateralis as conspecific with Incilius [Bufo] marmoreus, which has its type locality in Veracruz. Here, we adopt a multidisciplinary approach to reevaluate the phylogeography and taxonomy of I. marmoreus by gathering and analyzi</description><pubDate>Sun, 18 Oct 2026 20:34:50 GMT</pubDate><guid isPermaLink="false">gbif-literature:6b6995d7-5899-3d50-850a-25edb61945b9</guid><category>Ichthyology &amp; Herpetology</category></item><item><title>Genomic‐Environmental Integration Predicts Climate Vulnerability and Adaptive Potential of Tibetan Plateau Herpetofauna</title><link>https://doi.org/10.1111/1749-4877.70112</link><description>DOI: https://doi.org/10.1111/1749-4877.70112
-Journal: Integrative Zoology
-Publisher: Wiley
-Published: 2026-04-10
-Authors: Mengqing Zhe, Zhixin Zhang, Yanbo Sun
-GBIF relevance: GBIF_USED
-
-The herpetofauna of the Tibetan Plateau, home to Earth's highest‐elevation ectothermic vertebrates, face escalating threats from rapid climate change. However, conventional conservation strategies often overlook intraspecific genetic variation and adaptive potential, limiting their predictive accuracy and effectiveness. Here, we integrate whole‐genome resequencing data with environmental modeling to assess climate vulnerability in two endemic species: Nanorana parkeri (Tibetan frog) and Thermoph</description><pubDate>Sat, 17 Oct 2026 22:27:12 GMT</pubDate><guid isPermaLink="false">gbif-literature:d0d8e867-10d5-3c3b-a18f-2b1346d37498</guid><category>Integrative Zoology</category></item><item><title>Chrysojasminum subhumile (Oleaceae): A New Record for the Flora of Bhutan</title><link>https://doi.org/10.1002/fedr.70096</link><description>DOI: https://doi.org/10.1002/fedr.70096
-Journal: Feddes Repertorium
-Publisher: Wiley
-Published: 2026-04-11
-Authors: Gyeltshen, Tenzin Wangpo, Kinlay Wangdi, Tshewang Tenzin, Dhan Bdr. Gurung
-GBIF relevance: GBIF_USED
-
-Chrysojasminum subhumile (W.W.Sm.) Banfi &amp; Galasso is reported as a new record for the flora of Bhutan based on recent collections from Mongar and Samdrup Jongkhar districts. The species is distinguished from the only previously recorded Bhutanese congener, Chrysojasminum humile, by its 2–5‐foliolate leaves, leaf blades 1–13 cm long, cymes arranged in panicles with 10–30 flowers, and pedicels 0.5–7 cm long. In Bhutan, it occurs on steep slopes in mixed grassland and shrubland elevations of 1243–</description><pubDate>Sat, 17 Oct 2026 22:20:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:b23dcf74-6485-3dce-9562-b006b5d5f2b1</guid><category>Feddes Repertorium</category></item><item><title>Worldwide Invasions of Centrarchidae: The Dark Side of the Sunfish Family</title><link>https://doi.org/10.1111/faf.70083</link><description>DOI: https://doi.org/10.1111/faf.70083
-Journal: Fish and Fisheries
-Publisher: Wiley
-Published: 2026-04-11
-Authors: Neil Angelo Abreo, Jonathan Tibo, António Barbosa Nogueira, Athanasios Nikolaou, Cüneyt Kaya
-GBIF relevance: GBIF_USED
-
-Freshwater fish invasions are major drivers of global ecological change, disrupting native biodiversity and ecosystem functions. However, many invasive fish hold significant socioeconomic value, resulting in conflict over their management. Centrarchidae, which are globally distributed and are important for sportfishing and aquaculture, are now potentially becoming a global threat. Yet, no comprehensive appraisal exists across taxa and regions integrating taxonomy, pathways, impacts and risk anal</description><pubDate>Sat, 17 Oct 2026 22:15:58 GMT</pubDate><guid isPermaLink="false">gbif-literature:e3500340-bc47-3b47-b305-1890d2fd73aa</guid><category>Fish and Fisheries</category></item></channel></rss>
+Regionally called “onza” in Sonora, Herpailurus yagouaroundi, is listed as threatened under Mexican law NOM-059-COL-2010. Until now, there were no verified records of their occurrence in Sonora. Records were obtained opportunistically while monitoring other species or by direct observation of these felines while crossing highways in Sonora. Six jaguarundi records were confirmed in different areas of Sonora; some were found along vegetation of subdeciduous tropical forests with some columnar cact</description><pubDate>Tue, 20 Oct 2026 08:49:35 GMT</pubDate><guid isPermaLink="false">gbif-literature:3b5422df-6d9c-3006-9798-47914a25dddf</guid><category>Therya Notes</category></item></channel></rss>

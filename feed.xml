@@ -1,5 +1,86 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Thu, 29 Oct 2026 23:42:29 GMT</lastBuildDate><item><title>Integrating habitat suitability, socioeconomics, and infrastructure to assess global biological invasion risk under climate change: A case study of the rice stem borer, Chilo suppressalis</title><link>https://doi.org/10.1002/ps.70952</link><description>DOI: https://doi.org/10.1002/ps.70952
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Fri, 30 Oct 2026 23:22:06 GMT</lastBuildDate><item><title>基于参数优化的MaxEnt模型对西藏普通秋沙鸭潜在适生区分布预测</title><link>https://doi.org/10.13248/j.cnki.wetlandsci.20250132</link><description>DOI: https://doi.org/10.13248/j.cnki.wetlandsci.20250132
+Journal: 湿地科学
+Publisher: 湿地科学
+Published: 2026-04-15
+Authors: 婉青 申, 进勋 陈, 邱筱潇 沈, 波 余, 成成 邹
+GBIF relevance: GBIF_USED
+
+为了探究普通秋沙鸭(Mergus merganser)在西藏自治区的潜在分布及其主要影响环境变量，为水鸟保护提供数据支持和理论依据，本研究整合野外调查、文献检索及全球生物多样性信息平台(GBIF)获取的186个普通秋沙鸭分布点位数据，并选取气候、地形及人为干扰等24个环境变量，通过ENMTools筛选出13个贡献率显著的变量进行建模分析，利用优化后的最大熵模型(MaxEnt)结合ArcGIS空间分析对普通秋沙鸭的潜在适生区进行预测。模型评估显示，受试者工作特征曲线下面积(Area Under the Curve,AUC)值高达0.971，表明模型预测精度极佳。距水源距离、距道路距离、温度季节性变化和最热月份最高温度是影响适生区分布的主要变量，贡献率占比为76.9%。通过物种分布模型和保护区叠加分析，位于自然保护区的普通秋沙鸭的高适生区面积为2.65×103 km2，仅占自然保护区面积的1.06%，说明西藏自治区目前还存在较大的生态保护空缺，建议加强水源及栖息地保护，为普通秋沙鸭的保护制定有效的策略，改善普通秋沙鸭的栖息地质量。</description><pubDate>Fri, 30 Oct 2026 15:34:28 GMT</pubDate><guid isPermaLink="false">gbif-literature:815fa563-7428-3f13-8d94-726295f145ee</guid><category>湿地科学</category></item><item><title>气候变化和人类活动影响下黄渤海海草的时空分布格局</title><link>https://doi.org/10.13248/j.cnki.wetlandsci.20250005</link><description>DOI: https://doi.org/10.13248/j.cnki.wetlandsci.20250005
+Journal: 湿地科学
+Publisher: 湿地科学
+Published: 2026-04-15
+Authors: 燕梅 丁, 帅 杨, 明 王
+GBIF relevance: GBIF_USED
+
+全球变化和人类活动的双重影响，使海草呈现全球退化趋势并面临日益严峻的灭绝风险。海草分布的影响因素、动态格局及形成机制是海草种群保护的基础，也是关键科学问题之一。本研究以黄渤海鳗草(Zostera marina)和日本鳗草(Zostera japonica)两种海草为研究对象，基于13个海洋环境因子和人类活动压力指数，利用最大熵模型(MaxEnt model)和ArcGIS Pro软件研究了影响海草潜在分布的关键因子，预测了2种不同气候变化情景(SSP126和SSP85)下当前(2020年)和未来(2060年和2100年)海草潜在适生区的时空分布格局和纬度变化趋势。研究结果表明，最大熵模型的预测准确度极高，受试者工作特征曲线下面积(AUC)大于0.90。影响鳗草潜在分布的主导因子为人类活动压力指数、海表温度、坡度和硝酸盐浓度(累计贡献率85.8%)；影响日本鳗草潜在分布的主导因子为水深、坡度、海表温度、人类活动压力指数和磷酸盐浓度(累计贡献率87.7%)。在当前气候条件下，鳗草和日本鳗草在黄渤海近海的高适生区面积分别为1 006.71 km2和838.65 km2；在SSP585情景下，</description><pubDate>Fri, 30 Oct 2026 15:29:12 GMT</pubDate><guid isPermaLink="false">gbif-literature:cd6e88db-1079-39e6-8cd3-a438dcf84a24</guid><category>湿地科学</category></item><item><title>基于MaxEnt模型的长白山泥炭藓生境预测</title><link>https://doi.org/10.13248/j.cnki.wetlandsci.20250020</link><description>DOI: https://doi.org/10.13248/j.cnki.wetlandsci.20250020
+Journal: 湿地科学
+Publisher: 湿地科学
+Published: 2026-04-15
+Authors: 恩朋 田, 振山 薛, 明 姜, 宪国 吕, 元春 邹
+GBIF relevance: GBIF_USED
+
+泥炭沼泽是全球最重要的碳汇之一，对全球生态系统碳储存、水文调节、生态栖息地构建和调节气候变化发挥着重要作用。泥炭藓(Sphagnum spp.)作为湿地生态系统中关键的工程物种、泥炭沼泽的建群种，具有极高的生态学功能和环境指示价值。为了掌握长白山泥炭藓的时空分布格局和气候变化下适宜分布区的变化趋势，本研究基于14个环境因子数据和1 434个泥炭藓分布样点，利用最大熵模型(Maximum Entropy Model)模拟了基准期(1981—2010年)以及未来两个时间段(2041—2070年和2071—2100年)3个气候变化情景(SSP1-2.6、SSP3-7.0和SSP5-8.5)下泥炭藓的适宜生境分布区，并量化了关键环境因子的贡献度以及响应曲线特征。结果表明，MaxEnt模型的预测精度较好，3个时间段3种情景下模型AUC(受试者工作特征曲线下的面积)值均高于0.85；泥炭藓在基准期气候条件下适生区面积为5.28万km2，占长白山地区总面积的20.87%，海拔分布范围为200~1 900 m；在未来SSP1-2.6低排放情景下适宜生境的面积相对平稳，在中排放SSP3-7.0情景下呈下</description><pubDate>Fri, 30 Oct 2026 15:24:18 GMT</pubDate><guid isPermaLink="false">gbif-literature:932eda5c-2f36-3a28-98a7-402876698fb6</guid><category>湿地科学</category></item><item><title>Prediction of potential suitable habitats of Moroccan locust Dociostaurus maroccanus in Xinjiang, China</title><link>https://doi.org/10.13802/j.cnki.zwbhxb.2026.2025112</link><description>DOI: https://doi.org/10.13802/j.cnki.zwbhxb.2026.2025112
+Journal: 植物保护学报
+Publisher: 中国植物保护学会
+Published: 2026-04-15
+Authors: 笑 畅, 金龙 任, 莉 赵, 峻 林, 誉嘉 秦
+GBIF relevance: GBIF_USED
+
+为明确2025年6月首次入侵中国新疆维吾尔自治区（简称新疆）伊犁哈萨克自治州霍城县的摩洛哥戟纹蝗Dociostaurus maroccanus的潜在适生区，基于其全球分布数据和环境数据，利用MaxEnt模型预测当前气候条件和未来3种气候情景（低强迫情景SSP126、中强迫情景SSP245和高强迫情景SSP585）下，摩洛哥戟纹蝗在新疆的潜在适生区。结果显示：年平均气温、等温性、最冷月最低温、最干季节平均气温、最冷季节平均气温、最暖季节降水量、土地利用类型和海拔是影响摩洛哥戟纹蝗分布的关键环境变量。在当前气候条件下，摩洛哥戟纹蝗的潜在适生区在新疆各地区均有分布，总面积达80.98×104 km2，约占新疆总面积的48.78%，其中高适生区主要位于伊犁哈萨克自治州。2061—2080年，摩洛哥戟纹蝗在新疆的潜在适生区整体呈向外扩张的趋势，且高适生区面积在SSP126、SSP245和SSP585情景下较当前气候条件下分别增加了85.71%、181.95%和224.44%。表明摩洛哥戟纹蝗在中国新疆定殖的风险极高，亟需构建科学高效的预警监测与风险管控体系。</description><pubDate>Fri, 30 Oct 2026 15:20:14 GMT</pubDate><guid isPermaLink="false">gbif-literature:253694be-1d44-3d68-8c5f-2b158ee53d5d</guid><category>植物保护学报</category></item><item><title>输变电工程沿线区域黑颈鹤分布与生境因子的关系</title><link>https://doi.org/10.12202/j.0476-0301.2025125</link><description>DOI: https://doi.org/10.12202/j.0476-0301.2025125
+Journal: 北京师范大学学报(自然科学版)
+Publisher: 北京师范大学学报(自然科学版)
+Published: 2026-04-15
+Authors: 晓枫 陈, 倩 洪, 彦兵 王, 晓 张, 超 刘
+GBIF relevance: GBIF_USED
+
+黑颈鹤（Grus nigricollis）是国家一级保护动物，其分布受多种生境因子影响，研究输变电工程区域黑颈鹤分布 与生境因子的关系，对黑颈鹤保护意义重大. 本研究以某输变电线路两侧各 100 km 范围为研究区，运用主成分分析 （PCA）法，结合方差膨胀因子（VIF）法筛选关键生境因子，构建广义加性模型（GAM），预测了黑颈鹤分布与生境因子关 系. 结果表明，黑颈鹤分布密度与海拔、归一化植被指数（NDVI）、距水源距离、距道路距离和最湿季度均温这 5 个生境 因子的相关性显著；NDVI 和距道路距离与分布密度呈显著正相关，距水源距离与分布密度呈显著负相关，在海拔 3 500~ 4 500 m、最湿季度均温 6~12 °C 的区域，黑颈鹤分布密度最高. 本研究揭示了黑颈鹤分布密度与关键生境因子的关系， 可为输变电工程生态保护提供定量化依据.</description><pubDate>Fri, 30 Oct 2026 15:04:49 GMT</pubDate><guid isPermaLink="false">gbif-literature:bc145514-7eec-32fe-a885-58c383b81c12</guid><category>北京师范大学学报(自然科学版)</category></item><item><title>中国生态保护红线对国家重点保护野生动植物保护成效的分析</title><link>https://doi.org/10.20103/j.stxb.202503170602</link><description>DOI: https://doi.org/10.20103/j.stxb.202503170602
+Journal: 生态学报
+Publisher: 中国生态学学会
+Published: 2026-05-11
+Authors: 雨桐 郭, 素萃 李, 卫华 徐, 智 王, 雪 杨
+GBIF relevance: GBIF_USED
+
+生态保护红线是中国实施的一项重要生态保护模式制度, 被认为对保护生物多样性、支撑《昆蒙框架》履约具有重要作用。目前, 中国全面完成生态保护红线划定工作, 红线面积超过陆域国土面积的30%, 面积上已满足《昆蒙框架》的目标要求, 但对物种的保护效益尚不清晰。为此, 以GBIF数据、文献数据以及野外调查数据等为数据源, 以《国家重点保护野生动物名录(2021年版)》《国家重点保护野生植物名录(2021年版)》等为依据, 利用空间叠加的方法分析了中国生态保护红线对全国重点保护野生物种的保护率及空间分布差异。研究结果表明, ①生态保护红线对国家重点保护野生植物的保护率为80.60%、国家重点保护野生动物的保护率为92.86%；②相较于自然保护地, 生态保护红线对国家重点保护野生植物的保护率提升约7.89%—12.02%、对国家重点保护野生动物的保护率提升约2.26%—8.51%；③生态保护红线内国家重点保护物种的分布密度呈南高北低、西高东低格局, 西南地区的生态红线对物种保护成效最高。总体而言, 生态保护红线提高了国家重点保护野生物种及濒危红色物种等的物种保护率, 为《昆蒙框架》的全球落实贡献</description><pubDate>Fri, 30 Oct 2026 14:21:15 GMT</pubDate><guid isPermaLink="false">gbif-literature:ce54b075-f936-31bb-9fbb-ef7e7b2a84e2</guid><category>生态学报</category></item><item><title>中国生态保护红线对国家重点保护野生动植物保护成效的分析</title><link>https://doi.org/10.20103/j.stxb.202503170602</link><description>DOI: https://doi.org/10.20103/j.stxb.202503170602
+Journal: 生态学报
+Publisher: 中国生态学学会
+Published: 2026-05-11
+Authors: 雨桐 郭, 素萃 李, 卫华 徐, 智 王, 雪 杨
+GBIF relevance: GBIF_USED
+
+生态保护红线是中国实施的一项重要生态保护模式制度, 被认为对保护生物多样性、支撑《昆蒙框架》履约具有重要作用。目前, 中国全面完成生态保护红线划定工作, 红线面积超过陆域国土面积的30%, 面积上已满足《昆蒙框架》的目标要求, 但对物种的保护效益尚不清晰。为此, 以GBIF数据、文献数据以及野外调查数据等为数据源, 以《国家重点保护野生动物名录(2021年版)》《国家重点保护野生植物名录(2021年版)》等为依据, 利用空间叠加的方法分析了中国生态保护红线对全国重点保护野生物种的保护率及空间分布差异。研究结果表明, ①生态保护红线对国家重点保护野生植物的保护率为80.60%、国家重点保护野生动物的保护率为92.86%；②相较于自然保护地, 生态保护红线对国家重点保护野生植物的保护率提升约7.89%—12.02%、对国家重点保护野生动物的保护率提升约2.26%—8.51%；③生态保护红线内国家重点保护物种的分布密度呈南高北低、西高东低格局, 西南地区的生态红线对物种保护成效最高。总体而言, 生态保护红线提高了国家重点保护野生物种及濒危红色物种等的物种保护率, 为《昆蒙框架》的全球落实贡献</description><pubDate>Fri, 30 Oct 2026 14:21:11 GMT</pubDate><guid isPermaLink="false">gbif-literature:8d32e21a-93f4-3de4-a6b5-69ff8efd4c49</guid><category>生态学报</category></item><item><title>中国生态保护红线对国家重点保护野生动植物保护成效的分析</title><link>https://doi.org/10.20103/j.stxb.202503170602</link><description>DOI: https://doi.org/10.20103/j.stxb.202503170602
+Published: 2026-05-11
+Authors: 雨桐 郭, 素萃 李, 卫华 徐, 智 王, 雪 杨
+GBIF relevance: GBIF_USED
+
+生态保护红线是中国实施的一项重要生态保护模式制度, 被认为对保护生物多样性、支撑《昆蒙框架》履约具有重要作用。目前, 中国全面完成生态保护红线划定工作, 红线面积超过陆域国土面积的30%, 面积上已满足《昆蒙框架》的目标要求, 但对物种的保护效益尚不清晰。为此, 以GBIF数据、文献数据以及野外调查数据等为数据源, 以《国家重点保护野生动物名录(2021年版)》《国家重点保护野生植物名录(2021年版)》等为依据, 利用空间叠加的方法分析了中国生态保护红线对全国重点保护野生物种的保护率及空间分布差异。研究结果表明, ①生态保护红线对国家重点保护野生植物的保护率为80.60%、国家重点保护野生动物的保护率为92.86%；②相较于自然保护地, 生态保护红线对国家重点保护野生植物的保护率提升约7.89%—12.02%、对国家重点保护野生动物的保护率提升约2.26%—8.51%；③生态保护红线内国家重点保护物种的分布密度呈南高北低、西高东低格局, 西南地区的生态红线对物种保护成效最高。总体而言, 生态保护红线提高了国家重点保护野生物种及濒危红色物种等的物种保护率, 为《昆蒙框架》的全球落实贡献</description><pubDate>Fri, 30 Oct 2026 14:05:26 GMT</pubDate><guid isPermaLink="false">gbif-literature:00c38cea-d0c1-33bc-ac00-21576dedf69f</guid></item><item><title>Periodic effects of land reclamation and invasive species on the habitat suitability for shorebirds along the coastal wetlands in the Yellow Sea</title><link>https://doi.org/10.1007/s11442-026-2490-0</link><description>DOI: https://doi.org/10.1007/s11442-026-2490-0
+Journal: Journal of Geographical Sciences
+Publisher: Springer Science and Business Media LLC
+Published: 2026-05-01
+Authors: Houlang Duan
+GBIF relevance: GBIF_USED
+
+The periodic impacts of land reclamation and Spartina alterniflora invasion on habitat suitability under shifting management policies remain unquantified. Under business-as-usual (BAU) and ecological protection (EP) scenarios, we assessed how coastal reclamation and S. alterniflora distribution affected shorebird habitat suitability in the Yellow Sea across three periods (2000–2010, 2010–2020, and 2020–BAU). Habitat suitability declined during 2000–2010 and 2010–2020 under the BAU scenario, but </description><pubDate>Fri, 30 Oct 2026 13:10:03 GMT</pubDate><guid isPermaLink="false">gbif-literature:01a1ee26-24de-3f7c-934b-c1cb5a388ee8</guid><category>Journal of Geographical Sciences</category></item><item><title>濒危植物大叶木兰在西双版纳潜在分布区及保护空缺研究</title><link>https://doi.org/10.11929/j.swfu.202504062</link><description>DOI: https://doi.org/10.11929/j.swfu.202504062
+Journal: 西南林业大学学报(自然科学)
+Published: 2026-05-20
+Authors: 文君 山, 光 岩, 杰京 张, 明旭 赵
+GBIF relevance: GBIF_USED
+
+以96个大叶木兰分布点和22个环境因子为研究对象，在MaxEnt模型中评估了珍稀濒危植物大叶木兰在云南西双版纳的潜在分布区，分析了保护空缺及影响其分布的主要环境因子。结果表明：模型预测结果的准确性可信度高（AUC=0.9804），可以用来预测大叶木兰在西双版纳的地理分布。影响该物种分布的主要环境因子为降水和海拔以及与海拔相关性极强的温度因子。大叶木兰在西双版纳适宜分布区主要集中于景洪中部和勐腊中南部，总面积10691.80 km2；经保护空缺分析，实际潜在分布区面积为5055.46 km2，其中仅1986.87 km2位于保护地内，尚有3068.59 km2的保护空缺。建议通过人工繁育野外回归、绿化应用等方式扩大大叶木兰种群规模，并在生物学、生态学等方面增大科研投入力度，确保该物种的长期存续。</description><pubDate>Fri, 30 Oct 2026 12:37:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:d996aeaf-0476-39f8-8823-988c8f860dcd</guid><category>西南林业大学学报(自然科学)</category></item><item><title>Taxonomic invisibility and knowledge shortfalls in terrestrial molluscs of the Caatinga Dominion, a seasonally dry tropical region</title><link>https://doi.org/10.1038/s41598-026-58663-z</link><description>DOI: https://doi.org/10.1038/s41598-026-58663-z
+Journal: Scientific Reports
+Publisher: Springer Science and Business Media LLC
+Published: 2026-06-24
+Authors: Emerson Santos Castro, Edenísio Zacarias Galvão Costa, Edson Lourenço Silva, Rodrigo Brincalepe Salvador, Tamaris Gimenez Pinheiro
+GBIF relevance: GBIF_USED
+
+The terrestrial molluscan fauna of the Caatinga Dominion, a seasonally dry tropical region in north-eastern Brazil, remains one of the least-documented components of its biota, thereby limiting its inclusion in ecological, biogeographical and conservation assessments. Here, we present a diagnosis of Caatinga terrestrial molluscs by addressing three questions: how much diversity is currently known, how strongly available records are spatially biased, and how sensitive species visibility is to min</description><pubDate>Fri, 30 Oct 2026 08:55:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:3e238d89-1f17-3c7f-9131-d805fa359d4f</guid><category>Scientific Reports</category></item><item><title>Projected contraction and spatial reorganization of climatic suitability for Glossina in Africa under climate change</title><link>https://doi.org/10.1186/s13071-026-07599-4</link><description>DOI: https://doi.org/10.1186/s13071-026-07599-4
+Journal: Parasites &amp; Vectors
+Publisher: Springer Science and Business Media LLC
+Published: 2026-08-10
+Authors: Ying Liu, Xiaodan Li, Huanxiang Liu, Dehua Lai, Henry H. Y. Tong
+GBIF relevance: GBIF_USED
+
+Background Tsetse flies ( Glossina spp.), the vectors of human African trypanosomiasis, are strongly constrained by temperature and moisture conditions. Climate change may therefore alter the broad climatic envelope within which Glossina populations can persist across Africa. Methods We applied an ensemble species distribution modelling framework with repeated spatial block cross-validation to estimate present-day and near-future climatic suitability for Glossina spp. across Africa. Occurrence r</description><pubDate>Fri, 30 Oct 2026 08:51:36 GMT</pubDate><guid isPermaLink="false">gbif-literature:da47f398-128a-39ef-8bc3-4fca8e97ed16</guid><category>Parasites &amp; Vectors</category></item><item><title>Integrating habitat suitability, socioeconomics, and infrastructure to assess global biological invasion risk under climate change: A case study of the rice stem borer, Chilo suppressalis</title><link>https://doi.org/10.1002/ps.70952</link><description>DOI: https://doi.org/10.1002/ps.70952
 Journal: Pest Management Science
 Publisher: Wiley
 Published: 2026-05-29
@@ -613,88 +694,4 @@ Published: 2026-06-11
 Authors: Nathalia Fonseca Silva, João Luís Barbosa Marins Poulsen, Gabriele Maschke Jeske, Taís Madeira Ott, Marcial Corrêa Cárcamo
 GBIF relevance: GBIF_CITED
 
-Records of trophic associations between sarcophagid flies (Diptera: Sarcophagidae) and their natural enemies remain scarce, limiting ecological and forensic interpretations of decomposition systems. Microcerella halli (Engel, 1931) is a Neotropical sarcophagid species of recognized relevance in carrion succession, yet its interactions with pupal parasitoids are poorly documented. Nasonia vitripennis (Walker, 1836), a cosmopolitan pteromalid and a key model in evolutionary ecology, parasitizes a </description><pubDate>Sat, 24 Oct 2026 21:11:59 GMT</pubDate><guid isPermaLink="false">gbif-literature:4226b725-7604-30eb-8322-5df702ea9dd8</guid><category>EntomoBrasilis</category></item><item><title>Revision of the Metallactus humeralis species-group (Coleoptera: Chrysomelidae: Cryptocephalinae)</title><link>https://doi.org/10.11646/zootaxa.5829.1.1</link><description>DOI: https://doi.org/10.11646/zootaxa.5829.1.1
-Journal: Zootaxa
-Publisher: Magnolia Press
-Published: 2026-06-11
-Authors: DAVIDE SASSI
-GBIF relevance: GBIF_USED
-
-Nine species of Griburius Haldeman, 1849 and three species of Metallactus Suffrian, 1866, previously regarded as valid, together with two taxa previously treated as synonyms, are revised and critically discussed. According to the recent new diagnosis of Metallactus, all treated taxa are assigned to this genus. The following nomenclatural changes and synonymies are proposed: Metallactus corruscans (Suffrian, 1866) comb. nov. (= Scolochrus tripudians Suffrian, 1866 syn. nov.); Metallactus callens </description><pubDate>Sat, 24 Oct 2026 21:04:52 GMT</pubDate><guid isPermaLink="false">gbif-literature:7fef98f2-e5f7-3d81-b7a7-064fcae292fb</guid><category>Zootaxa</category></item><item><title>Phylogenomic analyses of the Austral podocarps (Podocarpus: Podocarpaceae) support hybrid ancestry of a New Zealand species</title><link>https://doi.org/10.1016/j.ympev.2026.108663</link><description>DOI: https://doi.org/10.1016/j.ympev.2026.108663
-Journal: Molecular Phylogenetics and Evolution
-Publisher: Elsevier BV
-Published: 2026-10-31
-Authors: Raees Khan, Ed Biffin, John Conran, Robert Hill, Kor-jent van Dijk
-GBIF relevance: GBIF_USED
-
-Hybridisation is widespread in plants and can generate novel evolutionary lineages. Here, we develop a phylogenetic hypothesis for the Austral podocarps (Podocarpus), a monophyletic group of six species distributed in Tasmania, mainland Australia, New Zealand and New Caledonia, and identify a putative hybrid lineage. Using a targeted capture approach to generate DNA sequence data, we find discordance between nuclear and plastid derived phylogenetic estimates and in particular, the relationships </description><pubDate>Fri, 23 Oct 2026 22:35:45 GMT</pubDate><guid isPermaLink="false">gbif-literature:433f9836-1853-3882-9f81-ff638085596a</guid><category>Molecular Phylogenetics and Evolution</category></item><item><title>Climate-Driven Distribution Modeling of Endemic Iranian Ground Jay (Podoces pleskei): Ecological Niche and Conservation</title><link>https://doi.org/10.3390/birds7020033</link><description>DOI: https://doi.org/10.3390/birds7020033
-Journal: Birds
-Publisher: MDPI AG
-Published: 2026-06-11
-Authors: Yeganeh Rakhshanifari, Malihe Erfani, Saeed Mohammadi, Narjes Okati
-GBIF relevance: GBIF_USED
-
-The Iranian Ground Jay (Podoces pleskei) is the endemic bird species inhabiting the deserts and steppes of Iran, a region experiencing severe ecological disturbances like habitat loss and fragmentation of preferred habitat. Despite its remarkable adaptation to arid environments, Iranian Ground Jay exhibits strong habitat specialization, making it both ecologically resilient and vulnerable—an intriguing case for evaluating how the species responds to climate-driven habitat shifts. The present stu</description><pubDate>Fri, 23 Oct 2026 22:32:07 GMT</pubDate><guid isPermaLink="false">gbif-literature:0c8215fe-e00d-3fd9-b0f9-2fdb8ee9c67c</guid><category>Birds</category></item><item><title>Revealing hidden patterns in the potential distribution of Leposternon polystegum (Duméril, 1851) (Amphisbaenia, Amphisbaenidae) using fuzzy logic modeling</title><link>https://doi.org/10.21425/fob.19.179470</link><description>DOI: https://doi.org/10.21425/fob.19.179470
-Journal: Frontiers of Biogeography
-Publisher: Pensoft Publishers
-Published: 2026-06-11
-Authors: Jady P. Eleutério, Alfredo P. Santos-Jr, José C. Guerrero, Síria Ribeiro
-GBIF relevance: GBIF_USED
-
-Leposternon polystegum is a fossorial reptile endemic to Brazil, distributed across several biomes. However, the environmental and spatial factors that shape its distribution remain poorly understood. Species distribution models provide useful insights into how different environmental gradients influence the occurrence of subterranean organisms. In this study, we applied fuzzy logic-based favorability models to identify the main environmental and spatial drivers of L.polystegum distribution. We </description><pubDate>Fri, 23 Oct 2026 22:08:07 GMT</pubDate><guid isPermaLink="false">gbif-literature:db430e8f-2ffe-3b2d-abe4-e6fcc69832fe</guid><category>Frontiers of Biogeography</category></item><item><title>First records of nine vagrant bird species (Aves) from the King Abdulaziz Royal Reserve, Saudi Arabia</title><link>https://doi.org/10.15560/22.3.535</link><description>DOI: https://doi.org/10.15560/22.3.535
-Journal: Check List
-Publisher: Pensoft Publishers
-Published: 2026-06-11
-Authors: Abdelwahab Chedad, Nuwayyir Mohammad Alshammari, Abdulaziz Mubarak Al-Qahtani, Saber A. Riad, Hazem Abdullah Al-Asmari
-GBIF relevance: GBIF_CITED
-
-During a year-long survey (October 2024–September 2025) in the King Abdulaziz Royal Reserve (KARR), eastern Saudi Arabia, nine vagrant bird species were recorded for the first time. These new regional records include Palearctic migrants and Afro-Asian visitors, extending known ranges across the Arabian Peninsula. Most species belong to Passeriformes and Charadriiformes, reflecting terrestrial and wetland habitats. The results highlight KARR’s importance as a refuge for migratory and vagrant bird</description><pubDate>Fri, 23 Oct 2026 21:35:38 GMT</pubDate><guid isPermaLink="false">gbif-literature:dc193bdb-3a6a-34a9-995a-7e7874e7f63a</guid><category>Check List</category></item><item><title>Assessing the legacy effects of COVID-19 lockdowns on insect pollinator biodiversity</title><link>https://doi.org/10.1016/j.biocon.2026.111937</link><description>DOI: https://doi.org/10.1016/j.biocon.2026.111937
-Journal: Biological Conservation
-Publisher: Elsevier BV
-Published: 2026-09-30
-Authors: Muhammad Naeem, Ting Shen, Maryam Riasat, Nawaz Haider Bashir, Tahir Farooq
-GBIF relevance: GBIF_USED
-
-The COVID-19 pandemic lockdowns provided a unique opportunity to assess the impact of human activities (HmA) on insect pollinator biodiversity (Bdv) by examining HmA across the pre-pandemic (2017–2019), lockdown (2020–2021), and post-pandemic (2022–2024) phases. This study utilized data for over 1200 insect pollinator species, including more than one hundred thousand occurrence records across the tropical and subtropical regions of southern China. HmA was represented by NO2 and Nightlight (Lgh),</description><pubDate>Fri, 23 Oct 2026 21:17:27 GMT</pubDate><guid isPermaLink="false">gbif-literature:9772997c-1bcd-3730-b4d5-bd0e36451b09</guid><category>Biological Conservation</category></item><item><title>Skin Resistance to Dehydration: A Theory‐Informed Trait Gradient in Anurans</title><link>https://doi.org/10.1111/geb.70262</link><description>DOI: https://doi.org/10.1111/geb.70262
-Journal: Global Ecology and Biogeography
-Publisher: Wiley
-Published: 2026-06-12
-Authors: Sidney F. Gouveia, Pablo A. Martinez, Juan G. Rubalcaba
-GBIF relevance: GBIF_USED
-
-Aim                     Anurans' sensitivity to hydric stress has driven adaptive changes in multiple traits, potentially displaying geographical clines, as is the case with body size. A longstanding body of research suggests that skin resistance to water loss may also vary geographically in response to water loss. We build upon biophysical first principles to test for the existence of this yet elusive global‐level cline in skin resistance to dehydration that alternates with body size across the</description><pubDate>Fri, 23 Oct 2026 20:59:37 GMT</pubDate><guid isPermaLink="false">gbif-literature:3b25dd22-fd06-385f-85cd-acc2c26c9a65</guid><category>Global Ecology and Biogeography</category></item><item><title>Exploring Andean foothill connectivity: insights from population divergence in the white‐tipped sicklebill, Eutoxeres aquila</title><link>https://doi.org/10.1002/jav.03611</link><description>DOI: https://doi.org/10.1002/jav.03611
-Journal: Journal of Avian Biology
-Publisher: Wiley
-Published: 2026-06-12
-Authors: Laura Rosado‐ Llerena, Abigail Perkins, David Ocampo, Jefferson García‐ Loor, Andrés M. Cuervo
-GBIF relevance: GBIF_USED
-
-The Northern Andes, acting both as barrier and corridor, exert strong influence in Neotropical biodiversity. Still, the diversification of foothill taxa inhabiting ecotonal zones between lowland rainforest and montane environments in this region remains poorly understood. We investigated the evolutionary history of Eutoxeres aquila, a hermit hummingbird distributed across Central America, the Chocó, and both Andean slopes. Using mitochondrial DNA (ND2 and cytb), morphometrics, resistance surface</description><pubDate>Fri, 23 Oct 2026 20:43:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:d7c0d7f2-a393-3f9d-92b4-02fc4f0d9990</guid><category>Journal of Avian Biology</category></item><item><title>Tree ferns on the move: patterns of movement and current introduction status of Cyatheales species around the world</title><link>https://doi.org/10.1007/s10530-026-03849-9</link><description>DOI: https://doi.org/10.1007/s10530-026-03849-9
-Journal: Biological Invasions
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-20
-Authors: Megan L. Berg, David M. Richardson, Emily J. McCulloch-Jones, Mathieu Rouget, Tamara B. Robinson
-GBIF relevance: GBIF_USED
-
-Tree ferns (order Cyatheales) have been moved from their native ranges for more than two centuries, and the number of species introduced to new countries has recently increased rapidly. However, no comprehensive global list of alien tree ferns exists. Botanical garden collections and the Global Biodiversity Information Facility database were examined, and a systematic literature review was conducted to collect information on tree fern introduction dates, locations and impacts in non-native range</description><pubDate>Fri, 23 Oct 2026 14:17:16 GMT</pubDate><guid isPermaLink="false">gbif-literature:1183fe9a-fdd5-3f5a-aa77-f7c65faf4105</guid><category>Biological Invasions</category></item><item><title>A new Pleistocene peafowl from Taiwan reveals the extinction of a large galliform bird in East Asia</title><link>https://doi.org/10.1098/rsos.260347</link><description>DOI: https://doi.org/10.1098/rsos.260347
-Journal: Royal Society Open Science
-Publisher: The Royal Society
-Published: 2026-05-20
-Authors: Yong-Jie Lan, Gerald Mayr, Cheng-Hsiu Tsai
-GBIF relevance: GBIF_USED
-
-Pleistocene land birds remain rare in East Asia, which hinders the understanding of avian extinctions and the emergence of modern avian diversity in this part of the world. Abundant extinct mammals and reptiles have been documented from the Pleistocene of Taiwan, revealing significant Pleistocene extinctions. However, no fossil evidence shows such events for birds. In this study, we describe a newly discovered humerus from the Middle Pleistocene of the Chiting Formation (Tainan). Its morphology </description><pubDate>Fri, 23 Oct 2026 14:15:00 GMT</pubDate><guid isPermaLink="false">gbif-literature:3c855b9d-ee12-382c-9fab-c603f037e0a0</guid><category>Royal Society Open Science</category></item><item><title>First larval record of Sudis hyalina Rafinesque, 1810 from the Southeast Brazilian Bight</title><link>https://doi.org/10.11646/zootaxa.5814.1.10</link><description>DOI: https://doi.org/10.11646/zootaxa.5814.1.10
-Journal: Zootaxa
-Publisher: Magnolia Press
-Published: 2026-05-19
-Authors: GABRIEL VILANOVA, ÉRICO SILVA LIMA GOMES DOS SANTOS, HENRIQUE GRANDE, ULISSES CAVALCANTE DOS SANTOS, MARIO KATSURAGAWA
-GBIF relevance: GBIF_USED
-
-(no abstract available)</description><pubDate>Fri, 23 Oct 2026 14:11:24 GMT</pubDate><guid isPermaLink="false">gbif-literature:f2ec2c81-7dd2-387a-a2b6-12673dbb3b5e</guid><category>Zootaxa</category></item><item><title>Harnessing citizen science to contextualize adaptation mechanism discovery</title><link>https://doi.org/10.1016/j.cell.2026.04.039</link><description>DOI: https://doi.org/10.1016/j.cell.2026.04.039
-Journal: Cell
-Publisher: Elsevier BV
-Published: 2026-07-23
-Authors: Laura E. Tibbs-Cortes, Linqian Han, Jeremy B. Jewell, Puranjit Singh, Haiyan Huang
-GBIF relevance: GBIF_USED
-
-Species occupying broad geographic regions have evolved multiple mechanisms to regulate phenological characteristics, enabling adaptations to diverse native habitats. By developing computer vision AI to process citizen science observations across native habitats over North America, we uncovered a consistent latitudinal trend of earlier flowering at higher latitudes in warm-season perennial grasses. To explore the underlying mechanisms of adaptation, we conducted common garden experiments with on</description><pubDate>Fri, 23 Oct 2026 14:03:50 GMT</pubDate><guid isPermaLink="false">gbif-literature:976c3ac2-8a53-359e-b98b-fb71613a2489</guid><category>Cell</category></item></channel></rss>
+Records of trophic associations between sarcophagid flies (Diptera: Sarcophagidae) and their natural enemies remain scarce, limiting ecological and forensic interpretations of decomposition systems. Microcerella halli (Engel, 1931) is a Neotropical sarcophagid species of recognized relevance in carrion succession, yet its interactions with pupal parasitoids are poorly documented. Nasonia vitripennis (Walker, 1836), a cosmopolitan pteromalid and a key model in evolutionary ecology, parasitizes a </description><pubDate>Sat, 24 Oct 2026 21:11:59 GMT</pubDate><guid isPermaLink="false">gbif-literature:4226b725-7604-30eb-8322-5df702ea9dd8</guid><category>EntomoBrasilis</category></item></channel></rss>

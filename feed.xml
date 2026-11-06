@@ -1,5 +1,165 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Thu, 05 Nov 2026 00:38:32 GMT</lastBuildDate><item><title>Discovering the mesophotic fauna of Malpelo Ridge: biodiversity insights in a remote marine sanctuary</title><link>https://doi.org/10.3389/fmars.2026.1879566</link><description>DOI: https://doi.org/10.3389/fmars.2026.1879566
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Fri, 06 Nov 2026 00:37:02 GMT</lastBuildDate><item><title>A probabilistic habitat–suitability overlap framework ( HMI ) reveals spatial bias in MaxEnt models of West African forest butterflies</title><link>https://doi.org/10.2478/foecol-2026-0010</link><description>DOI: https://doi.org/10.2478/foecol-2026-0010
+Journal: Folia Oecologica
+Publisher: Walter de Gruyter GmbH
+Published: 2026-05-31
+Authors: Fabio Petrozzi, Luca Luiselli
+GBIF relevance: GBIF_USED
+
+S                     pecies distribution models (SDMs) are widely used to infer potential species ranges, yet their ecological reliability in rapidly transformed landscapes remains poorly understood. We applied Maximum Entropy (MaxEnt) modelling to estimate the potential distribution of twelve forest-specialist butterfly species of high commercial value across West Africa, with a focus on Côte d’Ivoire, Ghana and Liberia, based on bioclimatic covariates. Models showed good predicted performance</description><pubDate>Thu, 05 Nov 2026 11:31:33 GMT</pubDate><guid isPermaLink="false">gbif-literature:0721e405-8092-3eb0-8d9f-0e999361e1ae</guid><category>Folia Oecologica</category></item><item><title>Himalayan medicinal plants for gastrointestinal disorders: ethnopharmacology and mechanistic insights</title><link>https://doi.org/10.1007/s10787-026-02279-2</link><description>DOI: https://doi.org/10.1007/s10787-026-02279-2
+Journal: Inflammopharmacology
+Publisher: Springer Science and Business Media LLC
+Published: 2026-07-01
+Authors: Anil Punetha, Abhay Chaturvedi, Aparna Bahuguna, Mamta Kharkwal, Aneeta Kharkwal
+GBIF relevance: GBIF_USED
+
+The Himalayan region has a rich and diverse flora specially of medicinal plants, many of which are traditionally used to treat various gastrointestinal (GI) disorders. GI disorders significantly contribute to global morbidity and mortality, and their prevalence is closely linked to dietary habits and lifestyle patterns. Since ancient times, plant-based or herbal medicines have played a crucial role in treating various ailments worldwide. Medicinal herbs are known to be rich sources of bioactive </description><pubDate>Thu, 05 Nov 2026 10:43:48 GMT</pubDate><guid isPermaLink="false">gbif-literature:a656223a-e2f6-3d06-96b9-0998063c8aa3</guid><category>Inflammopharmacology</category></item><item><title>Global Characterization of Sea Turtle Ecological Traps under Compound Marine Heatwaves and Microplastics</title><link>https://doi.org/10.1021/acs.est.6c02104</link><description>DOI: https://doi.org/10.1021/acs.est.6c02104
+Journal: Environmental Science &amp; Technology
+Publisher: American Chemical Society (ACS)
+Published: 2026-06-02
+Authors: Hao Liu, Yiling Zhong, Zehou Li, Kai Hu, Xiangang Hu
+GBIF relevance: GBIF_USED
+
+The concurrent intensification of marine heatwaves (MHW) and microplastics (MPs) pollution presents a complex challenge for environmental risk assessment in the Anthropocene. However, the mechanisms governing organismal responses to these compound perturbations remain poorly resolved, often obscured by linear assumptions. Here, we integrate global tracking data from seven sea turtle species with high-resolution oceanographic reanalysis to spatially characterize the ecological traps influenced by</description><pubDate>Thu, 05 Nov 2026 10:29:27 GMT</pubDate><guid isPermaLink="false">gbif-literature:285b50da-76ea-3874-8085-c6ef3f08008b</guid><category>Environmental Science &amp; Technology</category></item><item><title>Phylogenomic and demographic history of the Cape cliff lizard ( Hemicordylus capensis )</title><link>https://doi.org/10.1093/jeb/voag040</link><description>DOI: https://doi.org/10.1093/jeb/voag040
+Journal: Journal of Evolutionary Biology
+Publisher: Oxford University Press (OUP)
+Published: 2026-06-02
+Authors: Henrique G Leitão, Alexandros Bantounas, Genevieve Diedericks, Chris Broeckhoven, Raoul Van Damme
+GBIF relevance: GBIF_USED
+
+Hemicordylus capensis, the Cape cliff lizard, is endemic to South Africa and occurs across the entire range of the Cape Fold Mountains. Despite previously reported phenotypic variation among populations, the species’ population structure and evolutionary history remain poorly resolved. Here, we conducted population genomic and phylogenomic analyses using whole-genome resequencing data from 64 individuals representing 18 populations spanning the species’ entire distribution. We uncovered five maj</description><pubDate>Thu, 05 Nov 2026 10:15:04 GMT</pubDate><guid isPermaLink="false">gbif-literature:3f4f2b1c-67cd-39cc-86f3-cba80da44153</guid><category>Journal of Evolutionary Biology</category></item><item><title>Short-term resilience, seasonal variability, and reduced contemporary diversity in a central Texas moth fauna (Lepidoptera)</title><link>https://doi.org/10.1093/ee/nvag053</link><description>DOI: https://doi.org/10.1093/ee/nvag053
+Journal: Environmental Entomology
+Publisher: Oxford University Press (OUP)
+Published: 2026-05-08
+Authors: Valarie L Gabbard, James Gillaspy, Jane E Strobel, Briseida E Yáñez, Karalee A Corbeil
+GBIF relevance: GBIF_CITED
+
+Moths are important environmental indicators and ecosystem service providers, yet they remain understudied and increasingly threatened by climate change, habitat loss, and disturbance. The Lost Pines region of central Texas is an isolated remnant of hardwood–pine forest within a post oak savannah ecoregion that has recently experienced several wildfires, making it vulnerable to environmental change and biodiversity loss. Moths in this region have received little study, especially regarding diver</description><pubDate>Thu, 05 Nov 2026 10:09:20 GMT</pubDate><guid isPermaLink="false">gbif-literature:b1d87e90-91d2-3c49-828f-e899677941b4</guid><category>Environmental Entomology</category></item><item><title>Synthetic biology as a game-changer for endangered medicinal orchids: biosynthesis, engineering and conservation</title><link>https://doi.org/10.1039/d6np00027d</link><description>DOI: https://doi.org/10.1039/d6np00027d
+Journal: Natural Product Reports
+Publisher: Royal Society of Chemistry (RSC)
+Published: 2026-06-02
+Authors: Lin Qiu, Xianghui Chen, Zhan Luo, Min Jiang, Hu Chen
+GBIF relevance: GBIF_CITED
+
+Synthetic biology acts as a game-changer for endangered medicinal orchids, enabling a transition from resource scarcity and extraction inefficiency to sustainable conservation through pathway decoding, chassis engineering and green biomanufacturing.</description><pubDate>Thu, 05 Nov 2026 10:06:47 GMT</pubDate><guid isPermaLink="false">gbif-literature:c5b86b21-2ff7-378d-9f7d-37fc5107a136</guid><category>Natural Product Reports</category></item><item><title>Comparing potential biodiversity conflicts from renewable energy expansion in China at different centralization levels</title><link>https://doi.org/10.1038/s41559-026-03098-y</link><description>DOI: https://doi.org/10.1038/s41559-026-03098-y
+Journal: Nature Ecology &amp; Evolution
+Publisher: Springer Science and Business Media LLC
+Published: 2026-07-01
+Authors: Zhijie Zhou, Siyu Sun, Junjie Zhang, Yixin Fang, Binbin V. Li
+GBIF relevance: GBIF_CITED
+
+The rapid deployment of renewable energy creates urgent trade-offs with biodiversity conservation. The uneven distribution of renewable energy potential and biodiversity creates a critical governance challenge: at which administrative level should goal setting and spatial planning decisions be set to best mitigate these conflicts? Here we model the expansion of solar and wind energy in China through 2060 to reach its carbon neutrality goal, to compare a centralized national planning scenario aga</description><pubDate>Thu, 05 Nov 2026 09:17:25 GMT</pubDate><guid isPermaLink="false">gbif-literature:bd151cc4-0c59-3eae-863c-dd94df984536</guid><category>Nature Ecology &amp; Evolution</category></item><item><title>Modeling the Potential Distribution and Spatial Dynamics of Chenopodium hybridum in China Under Climate Change and Human Disturbance</title><link>https://doi.org/10.3390/d18060333</link><description>DOI: https://doi.org/10.3390/d18060333
+Journal: Diversity
+Publisher: MDPI AG
+Published: 2026-06-02
+Authors: Lingchen Tong, Zheng Wu, Wenqiang Huang, Minghang Hu, Shuang Liu
+GBIF relevance: GBIF_USED
+
+(1) Background: The rapid spatial expansion of the ruderal weed Chenopodium hybridum L. poses a potential challenge to agricultural production and regional ecosystems in China. However, the spatial evolution characteristics of its potential geographic distribution remain unclear under the compound scenarios of global warming and intensified human activities. (2) Methods: Utilizing an optimized MaxEnt model (regularization multiplier (RM) = 0.5, feature combination (FC) = LQ), this study integrat</description><pubDate>Thu, 05 Nov 2026 09:13:07 GMT</pubDate><guid isPermaLink="false">gbif-literature:84cd47b3-b32b-323a-94ee-321a7f3c45f1</guid><category>Diversity</category></item><item><title>Novelties in Melastomataceae from the departments Caquetá and Putumayo, Colombia, and keys for the identification of some groups of Miconia</title><link>https://doi.org/10.21829/abm133.2026.2548</link><description>DOI: https://doi.org/10.21829/abm133.2026.2548
+Journal: Acta Botanica Mexicana
+Publisher: Instituto de Ecologia, A.C.
+Published: 2026-06-01
+Authors: Humberto Mendoza-Cifuentes, Juan Mauricio Posada-Herrera, Yimi Katherine Angel-Sanchez, Adriana Eugenia Suarez-Salazar, Ervin Humprey Duran-Bautista
+GBIF relevance: GBIF_USED
+
+Background and Aims: The Amazonian foothills of the Caquetá and Putumayo departments in Colombia are considered a biodiversity hotspot, particularly regarding the Melastomataceae family. This article describes taxonomic and chorological novelties of Melastomataceae from this region. Methods: New records of species of the genera Blakea and Salpinga are documented for Colombia, and two new species of the genus Miconia are described and illustrated. Measurements of the vegetative parts and inflores</description><pubDate>Thu, 05 Nov 2026 09:01:11 GMT</pubDate><guid isPermaLink="false">gbif-literature:ac8f37df-9bf6-33f8-a1a5-f50b40b39327</guid><category>Acta Botanica Mexicana</category></item><item><title>Geographical distribution and range extension of Lycodon effraenis in Thailand</title><link>https://doi.org/10.33256/hb176.3334</link><description>DOI: https://doi.org/10.33256/hb176.3334
+Journal: The Herpetological Bulletin
+Publisher: British Herpetological Society
+Published: 2026-05-29
+Authors: ROBIN PRINGPUANGKEO, ANDREA VITTORIO POZZI
+GBIF relevance: GBIF_USED
+
+(no abstract available)</description><pubDate>Thu, 05 Nov 2026 08:53:22 GMT</pubDate><guid isPermaLink="false">gbif-literature:bc0de62f-03a7-34f7-8cfb-d52d3f85a017</guid><category>The Herpetological Bulletin</category></item><item><title>Ninety-year trends reveal sharpest insect declines in the mid-twentieth century</title><link>https://doi.org/10.1038/s41559-026-03074-6</link><description>DOI: https://doi.org/10.1038/s41559-026-03074-6
+Journal: Nature Ecology &amp; Evolution
+Publisher: Springer Science and Business Media LLC
+Published: 2026-06-01
+Authors: Felix Neff, Kurt Bollmann, Yannick Chittaro, Martin M. Gossner, Felix Herzog
+GBIF relevance: GBIF_USED
+
+Most studies on insect trends have focused on the past few decades, but major changes could have occurred earlier. If so, shifted baselines can result in misleading conclusions or poor conservation decisions. Here we analyse nine decades of insect trends in Switzerland and relate them to changes in land use and climate. By reconstructing continuous trends in species richness based on 1.2 million records of 595 saproxylic beetle and 216 butterfly species, we find that both groups declined from th</description><pubDate>Thu, 05 Nov 2026 08:50:01 GMT</pubDate><guid isPermaLink="false">gbif-literature:e25c4e53-4bf1-34b1-8f48-3c3cb0169d7b</guid><category>Nature Ecology &amp; Evolution</category></item><item><title>Specimens lost, biodiversity data preserved: Part I. A revised and illustrated catalog of the name-bearing types of grasshoppers (Orthoptera: Romaleidae) from the Entomological Collection of the Museu Nacional/UFRJ, Brazil</title><link>https://doi.org/10.11606/1807-0205/2026.66.special-issue-1.028</link><description>DOI: https://doi.org/10.11606/1807-0205/2026.66.special-issue-1.028
+Journal: Papéis Avulsos de Zoologia
+Publisher: Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais
+Published: 2026-06-11
+Authors: Marcus Vinícius Oliveira De Almeida, Pedro Guilherme Barrios de Souza-Dias
+GBIF relevance: GBIF_CITED
+
+The Entomological Collection of the Museu Nacional/UFRJ, Brazil (MNRJ), served as the primary repository for Brazilian Orthoptera (Insecta), housing the country’s largest assemblage of this order and one of the most prominent in South America. This paper presents a revised and illustrated catalog of the name-bearing specimens (types) of grasshoppers (Orthoptera: Romaleidae) from the MNRJ. These types and their respective primary biodiversity data were digitized during on-site inspections by the </description><pubDate>Thu, 05 Nov 2026 08:34:57 GMT</pubDate><guid isPermaLink="false">gbif-literature:730a5b7f-f86b-398d-bd91-45c3b2a0c760</guid><category>Papéis Avulsos de Zoologia</category></item><item><title>Updating silver-haired bat, Lasionycteris noctivagans (Le Conte, 1831), range confirmations in Virginia</title><link>https://www.gbif.org/literature/f6301814-1a14-3ad6-83ee-100040b4ef97</link><description>Journal: Banisteria
+Publisher: Virginia Natural History Society
+Published: 2026-05-26
+Authors: KAREN E. POWERS, LESLIE STURGES, KARRA PIERCE, JEN RILEY, SABRINA GARVIN WIL D. ORNDORFF
+GBIF relevance: GBIF_USED
+
+The Virginia Fish &amp; Wildlife Information Service (VAFWIS), an online service maintained by the Virginia Department of Wildlife Resources (DWR), map suggests that silver-haired bats’ range is likely cosmopolitan in Virginia. However, VAFWIS published records only confirm them in 49/95 counties and 7/41 independent cities. In combining sightings and holdings through wildlife rehabilitation records, iNaturalist validated images, museum records, contractor data, and personal observations, we add 22 </description><pubDate>Thu, 05 Nov 2026 08:24:20 GMT</pubDate><guid isPermaLink="false">gbif-literature:f6301814-1a14-3ad6-83ee-100040b4ef97</guid><category>Banisteria</category></item><item><title>Population, expanded distribution, and conservation of the Sumatran endemic tree Magnolia sumatrae (Dandy) Figlar &amp;; Noot.</title><link>https://doi.org/10.3897/natureconservation.64.172897</link><description>DOI: https://doi.org/10.3897/natureconservation.64.172897
+Journal: Nature Conservation
+Publisher: Pensoft Publishers
+Published: 2026-06-01
+Authors: Zulfan Arico, Wendy A. Mustaqim, Aryo Adhi Condro, Angga Yudaputra, Dipta S. Rinandio
+GBIF relevance: GBIF_USED
+
+Data deficiency remains a major constraint in understanding the extinction risk and conservation of Magnolia species globally. Magnoliasumatrae (Dandy) Figlar &amp; Noot. is one of the Indonesian Magnolia species assessed as Data Deficient by the IUCN Red List. It is a tree endemic to Sumatra Island and is known only from Mount Singgalang, Mount Talamau, and Gunung Leuser National Park. In the present study, population surveys of M.sumatrae were conducted in the previously known locations. Additiona</description><pubDate>Wed, 04 Nov 2026 12:37:45 GMT</pubDate><guid isPermaLink="false">gbif-literature:ee6f8df8-3dd4-3603-88d6-3a8ae3d448f0</guid><category>Nature Conservation</category></item><item><title>Моніторинг і контроль інвазійного виду Ambrosia artemisiifolia L. в Європі</title><link>https://doi.org/10.18523/2617-4529.2026.9.97-104</link><description>DOI: https://doi.org/10.18523/2617-4529.2026.9.97-104
+Journal: NaUKMA Research Papers. Biology and Ecology
+Publisher: National University of Kyiv - Mohyla Academy
+Published: 2026-06-02
+Authors: Iryna Vyshenska, Yelyzaveta Kiselova
+GBIF relevance: GBIF_USED
+
+У статті подано результати аналізу основних методів моніторингу та заходів контролю поширення небезпечного інвазійного виду Ambrosia artemisiifolia L. у європейських країнах. У межах дослідження проведено картографування поширення Ambrosia artemisiifolia L. за допомогою платформи GBIF, яка надає відкриті дані з географічною прив’язкою. Завантажені дані про амброзію (4001 спостереження) візуалізовано на мапі Європи. Для оцінювання швидкості поширення виду проведено порівняння виявлених місць стан</description><pubDate>Wed, 04 Nov 2026 12:33:13 GMT</pubDate><guid isPermaLink="false">gbif-literature:e1562aef-00fc-398d-b2a1-89089f4b44fa</guid><category>NaUKMA Research Papers. Biology and Ecology</category></item><item><title>Cyrtomium lacrimipinnum (Dryopteridaceae), a new sexually reproducing fern from Phong Nha–Ke Bang National Park, Vietnam</title><link>https://doi.org/10.3897/phytokeys.275.183837</link><description>DOI: https://doi.org/10.3897/phytokeys.275.183837
+Journal: PhytoKeys
+Publisher: Pensoft Publishers
+Published: 2026-06-01
+Authors: Katsuhiro Yoneoka, Tao Fujiwara, Van-Son Dang, Quoc Trong Pham, Phetlasy Souladeth
+GBIF relevance: GBIF_CITED
+
+A new fern species, Cyrtomiumlacrimipinnum (Dryopteridaceae), is described and illustrated from limestone ridges of Phong Nha–Ke Bang National Park, central Vietnam. It is most similar to C.pachyphyllum in having lateral pinnae with deeply cordate bases but is distinguished by its pinnae with acute and attenuate apices (vs. obtuse) and the presence of black or dark brown microscales on both surfaces of the pinnae (vs. confined to the abaxial surface). Spore counts of 64 per sporangium suggest a </description><pubDate>Wed, 04 Nov 2026 12:25:47 GMT</pubDate><guid isPermaLink="false">gbif-literature:9e142ae0-a76f-3d51-bc1d-a91600c7a40e</guid><category>PhytoKeys</category></item><item><title>Influence of climate change on suitable areas for three Salvia species and their pollinators</title><link>https://doi.org/10.1007/s11258-026-01644-z</link><description>DOI: https://doi.org/10.1007/s11258-026-01644-z
+Journal: Plant Ecology
+Publisher: Springer Science and Business Media LLC
+Published: 2026-06-01
+Authors: Feng-Shi Zhang, Han-Wen Xiao, Ru-Nan Tian
+GBIF relevance: GBIF_USED
+
+Salvia miltiorrhiza is widely cultivated in China for its high ornamental and medicinal values. In recent years, owing to global climate change and overharvesting, the wild S. miltiorrhiza population has declined sharply. Its frequent substitutes, S. bowleyana and S. paramiltiorrhiza , are simultaneously facing population declines. Currently suitable habitats for these three species remain to be clarified, as they are influenced by climate change and the distribution of their only effective poll</description><pubDate>Wed, 04 Nov 2026 10:35:04 GMT</pubDate><guid isPermaLink="false">gbif-literature:af8ab6b0-f168-3f7a-9759-485b0c54bddd</guid><category>Plant Ecology</category></item><item><title>Modelling the environmental suitability of dominant mangrove species in the Sundarbans using Maxent</title><link>https://doi.org/10.3759/tropics.simm04</link><description>DOI: https://doi.org/10.3759/tropics.simm04
+Journal: Tropics
+Publisher: The Japan Society of Tropical Ecology
+Published: 2026-05-31
+Authors: Mohammad Shamim Hasan Mandal, Abdullah-Al-Nomaan Khan, Md. Kamruzzaman, Tetsuro Hosaka
+GBIF relevance: GBIF_USED
+
+Understanding the distribution of mangrove species is crucial for the long-term monitoring and conservation planning of mangrove ecosystems. In this regard, Species Distribution Models (SDMs), especially the Maximum Entropy method (Maxent), has been widely used to map out the geographic distribution of species. However, only a few studies have applied this approach to investigate mangrove species distribution in the Bangladeshi Sundarbans, part of which is designated as a UNESCO World Heritage S</description><pubDate>Wed, 04 Nov 2026 10:21:20 GMT</pubDate><guid isPermaLink="false">gbif-literature:514f5c0b-0f7a-3a09-8cf8-429ba34cd132</guid><category>Tropics</category></item><item><title>Effect of agroforestry shading on Robusta coffee (Coffea canephora) suitability under climate change in Uganda</title><link>https://doi.org/10.1007/s10457-026-01558-9</link><description>DOI: https://doi.org/10.1007/s10457-026-01558-9
+Journal: Agroforestry Systems
+Publisher: Springer Science and Business Media LLC
+Published: 2026-06-01
+Authors: Isaac T. Okurut, David Abigaba, Catherine Mulinde, Saul D. Ddumba, David Williamson
+GBIF relevance: GBIF_USED
+
+Rising temperatures associated with climate change are expected to alter the suitability of coffee growing regions, yet the effectiveness of agroforestry as a climate adaptation strategy is insufficiently understood. This study assessed the potential of coffee agroforestry systems (CAFS) to moderate microclimate in Coffea canephora systems in Uganda by: (1) modelling current climatic suitability; (2) projecting future suitability under climate change scenarios; and (3) evaluating the influence o</description><pubDate>Wed, 04 Nov 2026 10:13:01 GMT</pubDate><guid isPermaLink="false">gbif-literature:73c1303b-93d4-3511-a59b-16f8c0aa701e</guid><category>Agroforestry Systems</category></item><item><title>Effects of UV Exposure on Fecundity, Survival, And Performance of a Stored Grain Pest, Callosobruchus maculatus</title><link>https://doi.org/10.59620/2993-3323.1020</link><description>DOI: https://doi.org/10.59620/2993-3323.1020
+Journal: Curiosity
+Publisher: Utah State University Libraries
+Published: 2026-06-04
+Authors: Colby Christensen, Fielding Mumford, Spencer Brinton, Anna Goates, Md Mirajul Islam
+GBIF relevance: GBIF_USED
+
+Seed beetles (Callosobruchus maculatus) are a pest of stored leguminous grains that can dramatically decrease yields. Management strategies to control infestations of C. maculatus are important for economic and food security. Radiation exposure is one possible management strategy that has shown promise. In two separate course-based undergraduate research experiences (CUREs), we tested how exposure to UV-C light affects C. maculatus fecundity, survival, and performance. Callosobruchus maculatus i</description><pubDate>Wed, 04 Nov 2026 10:05:03 GMT</pubDate><guid isPermaLink="false">gbif-literature:769de745-e0ad-3de8-896f-fcb1c56a514a</guid><category>Curiosity</category></item><item><title>Prediction of Habitat Suitability for Aporrectodea caliginosa in Western Siberia Based on Bioclimatic Scenarios</title><link>https://doi.org/10.1134/s1064229325604937</link><description>DOI: https://doi.org/10.1134/s1064229325604937
+Journal: Eurasian Soil Science
+Publisher: Pleiades Publishing Ltd
+Published: 2026-06-01
+Authors: R. R. Romanchuk, E. V. Golovanova
+GBIF relevance: GBIF_USED
+
+An assessment of the potential range shift of the species Aporrectodea caliginosa in Western Siberia under the influence of global climate change was conducted. The Maximum Entropy algorithm (MaxEnt) was used to model the species' distribution. The study region is defined by a rectangle bounded by 60°–95° E and 48°–75° N, encompassing parts of Russia, Kazakhstan, Mongolia, and China. Four climatic variables, selected through expert judgment and statistical evaluation, were used as predictors: me</description><pubDate>Wed, 04 Nov 2026 09:59:14 GMT</pubDate><guid isPermaLink="false">gbif-literature:8c5786ce-01f0-33ff-b8dc-0eaa6e767e73</guid><category>Eurasian Soil Science</category></item><item><title>Integrating climate and wetland projections reveals hidden risks for greater flamingo conservation</title><link>https://doi.org/10.1007/s43388-026-00332-w</link><description>DOI: https://doi.org/10.1007/s43388-026-00332-w
+Journal: Ornithology Research
+Publisher: Springer Science and Business Media LLC
+Published: 2026-10-13
+Authors: Mustafa Cemal Darılmaz
+GBIF relevance: GBIF_USED
+
+Climate change threatens wetland-dependent species through both climatic shifts and habitat loss, yet conventional species distribution models assess only climatic suitability, potentially underestimating conservation risk. This study presents the first climate-wetland vulnerability assessment for greater flamingo ( Phoenicopterus roseus ) across its African–Eurasian range, integrating MaxEnt species distribution modelling with CMIP6-based wetland persistence projections. The model, calibrated w</description><pubDate>Wed, 04 Nov 2026 08:51:55 GMT</pubDate><guid isPermaLink="false">gbif-literature:705b0775-4c87-39aa-843f-6ee479992043</guid><category>Ornithology Research</category></item><item><title>广东省蜻蜓目物种多样性空间格局及关键影响因素</title><link>https://doi.org/10.17520/biods.2025337</link><description>DOI: https://doi.org/10.17520/biods.2025337
+Journal: 生物多样性
+Publisher: 中国科学院生物多样性委员会
+Published: 2026-05-20
+Authors: 婷婷 周, 浩淼 张, 浩杰 王, 健 廖, 晓丹 陈
+GBIF relevance: GBIF_USED
+
+广东省地处我国热带气候北缘, 横跨北回归线。温暖湿润的气候、复杂的山地与密布发达的水系, 共同孕育了丰富的生物多样性。尽管广东省陆生植物和脊椎动物的研究较为深入, 但水生昆虫多样性的系统调查仍相对滞后。本研究以蜻蜓目为研究对象, 基于团队多年野外调查和文献梳理, 首次构建了较为完整的广东省蜻蜓物种名录和地理分布数据集, 综合分析了物种组成和区系特征、物种多样性空间格局及关键影响因素。共记录蜻蜓2亚目19科115属261种(含亚种), 其中中国特有种71种(含亚种), 占总物种数的27.20%。在区系组成方面, 东洋界分布型物种占据主导地位, 有199种(含亚种), 其次为古北界-东洋界分布型, 有62种(含亚种)。在区系类型组成上, 华南区-华中区类型占比最高(90种, 34.48%), 其次为华南区类型(63种, 24.14%)。空间格局方面, 广东省中北部山区为蜻蜓物种多样性热点地区, 如惠州市龙门县和广州市增城区分别记录蜻蜓173种(含亚种)和154种(含亚种)。冗余分析结果显示, 年平均温度、降水季节性、坡度、农田占比、森林占比、水体占比和海拔范围是影响蜻蜓群落结构的关键环境因</description><pubDate>Tue, 03 Nov 2026 14:34:24 GMT</pubDate><guid isPermaLink="false">gbif-literature:c243444d-dc4a-3032-8886-3cb12dc48b40</guid><category>生物多样性</category></item><item><title>Discovering the mesophotic fauna of Malpelo Ridge: biodiversity insights in a remote marine sanctuary</title><link>https://doi.org/10.3389/fmars.2026.1879566</link><description>DOI: https://doi.org/10.3389/fmars.2026.1879566
 Journal: Frontiers in Marine Science
 Publisher: Frontiers Media SA
 Published: 2026-06-30
@@ -256,14 +416,7 @@ Published: 2026-08-31
 Authors: Amin Rastandeh, Sara Borgström
 GBIF relevance: GBIF_USED
 
-To provide multifunctional spaces for recreationists while protecting wildlife in peri-urban landscapes, one fundamental step is to develop an understanding of human-wildlife space-use patterns over time. In the Järfälla-Sollentuna Green-Blue Infrastructure (JSGBI), Stockholm County, Sweden, we employed an in-person, public participatory mapping approach to identify areas of interest for outdoor recreation in relation to the spatial distribution of nine mammal species, access to trails/pathways,</description><pubDate>Mon, 02 Nov 2026 09:17:09 GMT</pubDate><guid isPermaLink="false">gbif-literature:0cfb58a9-dea5-3138-b68f-c01c11d94f40</guid><category>Urban Forestry &amp; Urban Greening</category></item><item><title>广东省蜻蜓目物种多样性空间格局及关键影响因素</title><link>https://doi.org/10.17520/biods.2025337</link><description>DOI: https://doi.org/10.17520/biods.2025337
-Journal: 生物多样性
-Publisher: 中国科学院生物多样性委员会
-Published: 2026-05-20
-Authors: 婷婷 周, 浩淼 张, 浩杰 王, 健 廖, 晓丹 陈
-GBIF relevance: GBIF_USED
-
-广东省地处我国热带气候北缘, 横跨北回归线。温暖湿润的气候、复杂的山地与密布发达的水系, 共同孕育了丰富的生物多样性。尽管广东省陆生植物和脊椎动物的研究较为深入, 但水生昆虫多样性的系统调查仍相对滞后。本研究以蜻蜓目为研究对象, 基于团队多年野外调查和文献梳理, 首次构建了较为完整的广东省蜻蜓物种名录和地理分布数据集, 综合分析了物种组成和区系特征、物种多样性空间格局及关键影响因素。共记录蜻蜓2亚目19科115属261种(含亚种), 其中中国特有种71种(含亚种), 占总物种数的27.20%。在区系组成方面, 东洋界分布型物种占据主导地位, 有199种(含亚种), 其次为古北界-东洋界分布型, 有62种(含亚种)。在区系类型组成上, 华南区-华中区类型占比最高(90种, 34.48%), 其次为华南区类型(63种, 24.14%)。空间格局方面, 广东省中北部山区为蜻蜓物种多样性热点地区, 如惠州市龙门县和广州市增城区分别记录蜻蜓173种(含亚种)和154种(含亚种)。冗余分析结果显示, 年平均温度、降水季节性、坡度、农田占比、森林占比、水体占比和海拔范围是影响蜻蜓群落结构的关键环境因</description><pubDate>Mon, 02 Nov 2026 09:12:48 GMT</pubDate><guid isPermaLink="false">gbif-literature:c243444d-dc4a-3032-8886-3cb12dc48b40</guid><category>生物多样性</category></item><item><title>垂枝柏复合体的物种界定</title><link>https://doi.org/10.17520/biods.2025373</link><description>DOI: https://doi.org/10.17520/biods.2025373
+To provide multifunctional spaces for recreationists while protecting wildlife in peri-urban landscapes, one fundamental step is to develop an understanding of human-wildlife space-use patterns over time. In the Järfälla-Sollentuna Green-Blue Infrastructure (JSGBI), Stockholm County, Sweden, we employed an in-person, public participatory mapping approach to identify areas of interest for outdoor recreation in relation to the spatial distribution of nine mammal species, access to trails/pathways,</description><pubDate>Mon, 02 Nov 2026 09:17:09 GMT</pubDate><guid isPermaLink="false">gbif-literature:0cfb58a9-dea5-3138-b68f-c01c11d94f40</guid><category>Urban Forestry &amp; Urban Greening</category></item><item><title>垂枝柏复合体的物种界定</title><link>https://doi.org/10.17520/biods.2025373</link><description>DOI: https://doi.org/10.17520/biods.2025373
 Journal: 生物多样性
 Publisher: 中国科学院生物多样性委员会
 Published: 2026-05-20
@@ -465,21 +618,7 @@ Published: 2026-08-10
 Authors: Ying Liu, Xiaodan Li, Huanxiang Liu, Dehua Lai, Henry H. Y. Tong
 GBIF relevance: GBIF_USED
 
-Background Tsetse flies ( Glossina spp.), the vectors of human African trypanosomiasis, are strongly constrained by temperature and moisture conditions. Climate change may therefore alter the broad climatic envelope within which Glossina populations can persist across Africa. Methods We applied an ensemble species distribution modelling framework with repeated spatial block cross-validation to estimate present-day and near-future climatic suitability for Glossina spp. across Africa. Occurrence r</description><pubDate>Fri, 30 Oct 2026 08:51:36 GMT</pubDate><guid isPermaLink="false">gbif-literature:da47f398-128a-39ef-8bc3-4fca8e97ed16</guid><category>Parasites &amp; Vectors</category></item><item><title>Integrating habitat suitability, socioeconomics, and infrastructure to assess global biological invasion risk under climate change: A case study of the rice stem borer, Chilo suppressalis</title><link>https://doi.org/10.1002/ps.70952</link><description>DOI: https://doi.org/10.1002/ps.70952
-Journal: Pest Management Science
-Publisher: Wiley
-Published: 2026-05-29
-Authors: Jinsol Hong, Minyoung Lee, Yongeun Kim, Yun‐Sik Lee, June Wee
-GBIF relevance: GBIF_USED
-
-BACKGROUND                                            Biological invasion risk is a multifaceted concept that, according to the Food and Agriculture Organization (FAO), results from the likelihood of entry, establishment, and dispersal, along with the potential impact magnitude. Based on this definition, we developed a national‐scale risk index using normalization and entropy‐based objective weights. The striped rice stem borer (RSB,                       Chilo suppressalis                      </description><pubDate>Thu, 29 Oct 2026 12:56:44 GMT</pubDate><guid isPermaLink="false">gbif-literature:09f940ea-8a01-3e98-a0aa-4829cc2fa489</guid><category>Pest Management Science</category></item><item><title>Regional land use and land-use intensity effects on vertebrate biodiversity across Europe identified using species distribution models</title><link>https://doi.org/10.1007/s10980-026-02379-y</link><description>DOI: https://doi.org/10.1007/s10980-026-02379-y
-Journal: Landscape Ecology
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-18
-Authors: Sophie Jane Tudge, Adrienne Etard, Zoe M Harris, Adriana De Palma, Martin Jung
-GBIF relevance: GBIF_USED
-
-Context Land-use change and intensification are major drivers of biodiversity loss. However, estimates of the effects of land use and land-use intensity on biodiversity on broad spatial scales rarely account for species-specific responses across large areas, instead averaging effects on local assemblages. Current understanding of biodiversity effects on broad spatial scales is therefore limited. Objective To investigate the broad-scale effects of land use and land-use intensity on habitat suitab</description><pubDate>Thu, 29 Oct 2026 12:55:28 GMT</pubDate><guid isPermaLink="false">gbif-literature:d16877e1-0d69-3b16-a8c5-60f318508d90</guid><category>Landscape Ecology</category></item><item><title>The evolution of gene functional repertoire in Amorphea: divergent strategies across Amoebozoa, Fungi, and Metazoa</title><link>https://doi.org/10.1093/molbev/msag071</link><description>DOI: https://doi.org/10.1093/molbev/msag071
+Background Tsetse flies ( Glossina spp.), the vectors of human African trypanosomiasis, are strongly constrained by temperature and moisture conditions. Climate change may therefore alter the broad climatic envelope within which Glossina populations can persist across Africa. Methods We applied an ensemble species distribution modelling framework with repeated spatial block cross-validation to estimate present-day and near-future climatic suitability for Glossina spp. across Africa. Occurrence r</description><pubDate>Fri, 30 Oct 2026 08:51:36 GMT</pubDate><guid isPermaLink="false">gbif-literature:da47f398-128a-39ef-8bc3-4fca8e97ed16</guid><category>Parasites &amp; Vectors</category></item><item><title>The evolution of gene functional repertoire in Amorphea: divergent strategies across Amoebozoa, Fungi, and Metazoa</title><link>https://doi.org/10.1093/molbev/msag071</link><description>DOI: https://doi.org/10.1093/molbev/msag071
 Journal: Molecular Biology and Evolution
 Publisher: Oxford University Press (OUP)
 Published: 2026-03-20
@@ -556,144 +695,4 @@ Published: 2026-10-21
 Authors: Luis A. Hurtado, Katie K. Sanbonmatsu, Dale A. Kruse, Daniel Spalink
 GBIF relevance: GBIF_USED
 
-Environmental DNA (eDNA) represents a promising preliminary tool for efficiently assessing biological diversity in locales where conducting intensive field surveys is logistically challenging, as in the case of west-central Texas. Its utility for characterizing biodiversity across broad spatial scales is amplified in lotic systems, which can transport eDNA several kilometers from its source and often contain signals from both aquatic and nearby terrestrial organisms. In the present study, we emp</description><pubDate>Thu, 29 Oct 2026 09:31:05 GMT</pubDate><guid isPermaLink="false">gbif-literature:aacd6607-2375-3945-8a44-9a16b0fdfe69</guid><category>Scientific Reports</category></item><item><title>Climate-driven redistribution of global Haloxylon Bunge habitat revealed by ensemble species distribution models: Implications for dryland restoration indicators</title><link>https://doi.org/10.1016/j.jenvman.2026.130068</link><description>DOI: https://doi.org/10.1016/j.jenvman.2026.130068
-Journal: Journal of Environmental Management
-Publisher: Elsevier BV
-Published: 2026-05-27
-Authors: Ke Lu, Wei Liu, Yuanyuan Xue, Qi Zhang, Lingge Wang
-GBIF relevance: GBIF_USED
-
-Haloxylon Bunge is a key restoration genus in drylands because it supports windbreak formation, sand fixation, and carbon sequestration. However, ongoing warming may reshape its habitat suitability across the global dryland belt. Here, we used Biomod2 to model global habitat suitability of Haloxylon under four CMIP6 climate scenarios (SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5) across the 2030s, 2050s, 2070s, and 2090s. Under the historical baseline, suitable habitat covered 7.79 × 106 km2 and e</description><pubDate>Thu, 29 Oct 2026 09:08:45 GMT</pubDate><guid isPermaLink="false">gbif-literature:1a11ce3c-ef19-3d0b-aa69-736b8f21db01</guid><category>Journal of Environmental Management</category></item><item><title>Spatial distribution pattern of Pavetta crassipes K. Schum. under global change and its implications for conserving savanna ecosystems in West Africa</title><link>https://doi.org/10.1007/s44372-026-00632-x</link><description>DOI: https://doi.org/10.1007/s44372-026-00632-x
-Journal: Discover Plants
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-27
-Authors: Armel Arnaud Hennou, Towanou Houetchegnon, Jacques Idohou Kadjogbé Ayena, Charlotte Yamontché, Gwladys Azongnidé
-GBIF relevance: GBIF_USED
-
-An understanding of the interactions between climate change, human pressures, and the spatial distribution of species is required to implement effective biodiversity conservation strategies. This study analyzes the current and future distribution of Pavetta crassipes K. Schum. (Rubiaceae), a tropical species that is currently well-represented in Benin and provides important ecosystem services. The analysis is based on species distribution modeling (SDM) and combines presence data from field surv</description><pubDate>Thu, 29 Oct 2026 08:57:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:e07442ee-8065-3b18-88a4-2e26917924f0</guid><category>Discover Plants</category></item><item><title>Epidemiology, Transmission Dynamics, and Diagnostic Approaches of Crimean-Congo
-Hemorrhagic Fever Virus (CCHFV) in Animal Hosts: A One Health Perspective</title><link>https://www.gbif.org/literature/8ada9788-af7c-3676-be73-03f3496182f7</link><description>Journal: Public Health and Epidemiology
-Publisher: International Prime Publications
-Published: 2026-05-11
-Authors: Kanza Fatima, Asmat Nawaz, Khadija Tariq
-GBIF relevance: GBIF_USED
-
-Crimean–Congo hemorrhagic fever virus (CCHFV) is a highly pathogenic, tick-borne zoonotic virus with a wide geographical distribution across Africa, Asia, the Middle East, and parts of Europe. The virus is primarily transmitted by ticks of the genus Hyalomma, which act as both vectors and reservoirs, maintaining the virus through transstadial and transovarial transmission. This review provides a comprehensive overview of the epidemiology, transmission dynamics, and diagnostic approaches of CCHFV</description><pubDate>Thu, 29 Oct 2026 08:32:40 GMT</pubDate><guid isPermaLink="false">gbif-literature:8ada9788-af7c-3676-be73-03f3496182f7</guid><category>Public Health and Epidemiology</category></item><item><title>Efecto del cambio climático en la distribución global de la polilla de la papa (Phthorimaea operculella Zeller)</title><link>https://doi.org/10.30973/aap/2025.11.e0111028</link><description>DOI: https://doi.org/10.30973/aap/2025.11.e0111028
-Journal: Acta Agrícola y Pecuaria
-Publisher: Universidad Autónoma del Estado de Morelos
-Published: 2026-06-09
-Authors: Ligia Magali García-Rosero, Fernando López-Morales, Genaro Pérez-Jiménez, Gregorio Hernández-Salinas, César Sotelo-Leyva
-GBIF relevance: GBIF_USED
-
-Phthorimaea operculella (Zeller) (Lepidoptera, Gelechiidae), a globally important pest affecting potato crops, is present in 105 countries. Its potential distribution was evaluated using CLIMEX under current climate conditions and the A2-2050 scenario. The area suitable for establishment (EI &gt; 30) decreased from 29,327,798 km² to 17,607,147 km² in the future. In the Americas, Africa, Asia, Oceania, and Europe, estimated percentage increases were 35.56 %, 53.69 %, 40.38 %, 41.27 %, and 21.13 %, r</description><pubDate>Wed, 28 Oct 2026 14:27:37 GMT</pubDate><guid isPermaLink="false">gbif-literature:51eb7322-1a61-3db7-927a-338ef2cd2f4a</guid><category>Acta Agrícola y Pecuaria</category></item><item><title>Molecular phylogenetics and evolutionary history of Bienertia sinuspersici: implications for crop improvement in South Asia</title><link>https://doi.org/10.3389/fpls.2026.1822164</link><description>DOI: https://doi.org/10.3389/fpls.2026.1822164
-Journal: Frontiers in Plant Science
-Publisher: Frontiers Media SA
-Published: 2026-06-09
-Authors: Qasim Ali Hashmi, Joonho Park
-GBIF relevance: GBIF_USED
-
-This review’s scientific value is to systematically review existing literature on B. sinuspersici ensuring a structure of exploiting such genetic adapt reactions to counter climate change impacts on agriculture. This work highlights the need for such interdisciplinarity to bring such discoveries into fruition of improved, salinity and drought, tolerant crops, providing novel tactics toward food production from saline and arid landscapes. This paper argues that Bienertia sinuspersici has revoluti</description><pubDate>Wed, 28 Oct 2026 14:02:26 GMT</pubDate><guid isPermaLink="false">gbif-literature:0c0eb313-c9c8-3090-bc37-370bc1babbf6</guid><category>Frontiers in Plant Science</category></item><item><title>Unveiling the taxonomy, systematics, and distribution of the Sooty Falcon (Falco concolor) : a history of discoveries and misidentifications</title><link>https://doi.org/10.2478/orhu-2026-0001</link><description>DOI: https://doi.org/10.2478/orhu-2026-0001
-Journal: Ornis Hungarica
-Publisher: Walter de Gruyter GmbH
-Published: 2026-06-11
-Authors: Giovanni Leonardi, Umberto Gallo-Orsi, Lauren Lopes
-GBIF relevance: GBIF_CITED
-
-This paper reviews the history of Sooty Falcon’s (Falco concolor) research, tracing its classification from specimens collected during 19th century European expeditions, to its current International Single Species Action Plan (2025). Eight preserved specimens serve as the syntypes for F. concolor, with those collected from Barqān Island in northwestern Saudi Arabia forming the basis for the species’ original description. The classification of Sooty Falcon faced significant challenges due to earl</description><pubDate>Wed, 28 Oct 2026 13:42:31 GMT</pubDate><guid isPermaLink="false">gbif-literature:3aab71f5-1a80-3308-8bf5-e00c5ee89627</guid><category>Ornis Hungarica</category></item><item><title>Economic and Social Aspects of the Decorative Dried Plant Value Chain in the Brazilian Cerrado</title><link>https://doi.org/10.1007/s12231-026-09676-2</link><description>DOI: https://doi.org/10.1007/s12231-026-09676-2
-Journal: Ethnobotany and Economic Botany
-Publisher: Springer Science and Business Media LLC
-Published: 2026-09-01
-Authors: Ana Carolina de Oliveira Neves, Daniel Negreiros, Renato Ramos, Lívia Echternacht, Kesley Henrique Silva
-GBIF relevance: GBIF_CITED
-
-The commerce of decorative dried plants from the Brazilian Cerrado Biome provides cultural transmission, and essential revenue for low-income families. We investigated this production value chain over the past decade, assessing its economic and social relevance and mapping the main actors involved, and characterizing the interviewed participants, as well as the foreign trade trends over 50 years. Data was gathered through interviews with 67 actors across six municipalities and from official trad</description><pubDate>Wed, 28 Oct 2026 13:25:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:145d9a83-a7d2-31cb-bb90-694bd1652134</guid><category>Ethnobotany and Economic Botany</category></item><item><title>Ecological niche modeling under current and future scenarios for several Amazonian endemic vascular epiphytes</title><link>https://doi.org/10.1007/s10531-026-03368-y</link><description>DOI: https://doi.org/10.1007/s10531-026-03368-y
-Journal: Biodiversity and Conservation
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-25
-Authors: Ana Laura Silva Luz, Gustavo Reis Brito, Felipe Fajardo Villela Antolin Barberena
-GBIF relevance: GBIF_USED
-
-Given the ongoing climate change, information on species distribution is becoming increasingly necessary, particularly for species with restricted distribution ranges, such as endemic ones. We used ecological niche modeling to evaluate the distribution of 28 species of vascular epiphytes endemic to the Amazonia under current and future scenarios. We analyzed the climatic factors influencing current and future environmental suitability using MaxEnt (based on a set of three global circular models:</description><pubDate>Wed, 28 Oct 2026 13:23:36 GMT</pubDate><guid isPermaLink="false">gbif-literature:8f6d72b8-6ff5-3347-a9dd-b43e7df486bb</guid><category>Biodiversity and Conservation</category></item><item><title>Diversity and Conservation Status of Sharks and Rays in the Dutch Caribbean</title><link>https://doi.org/10.18475/cjos.v56i1.a24</link><description>DOI: https://doi.org/10.18475/cjos.v56i1.a24
-Journal: Caribbean Journal of Science
-Publisher: University of Puerto Rico at Mayaguez
-Published: 2026-05-20
-Authors: Guido Leurs, Adolphe O. Debrot, Hendrik V. Winter
-GBIF relevance: GBIF_CITED
-
-Tribon i chuchu (elasmobranchii) ta sortonan ku tin un rol ekológiko importante, pero nan populashon mundial a baha fuertemente den e dékadanan pasá. Na Karibe Hulandes (Saba, Sint-Maarten, Sint-Eustatius, Aruba, Kòrsou i Boneiru) kasi nada no ta konosí tokante nan diversidat i estado di konservashón. Nos a aktualisá e lista di sorto i nan estado di konservashón pa Karibe Hulandes a base di un kombinashon di informashon saká for di literatura (inkluyendo “grey literature”), observashon di piskad</description><pubDate>Wed, 28 Oct 2026 13:16:31 GMT</pubDate><guid isPermaLink="false">gbif-literature:2c299936-e206-3444-ba6e-2bf7ece88ae7</guid><category>Caribbean Journal of Science</category></item><item><title>New Distributional Records of the Endemic Moroccan Blenny Salariopsis Atlantica (Doadrio, Perea &amp; Yahyaoui, 2011)</title><link>https://doi.org/10.2478/cjf-2026-0009</link><description>DOI: https://doi.org/10.2478/cjf-2026-0009
-Journal: Croatian Journal of Fisheries
-Publisher: Walter de Gruyter GmbH
-Published: 2026-05-29
-Authors: Soufyane El Caidi, Abdelkhaleq Fouzi Taybi, Youness Mabrouki
-GBIF relevance: GBIF_CITED
-
-Within Northern Africa, Morocco is distinguished by its remarkable diversity of freshwater fish species. This diversity is characterised by a high level of endemism, which is largely due to the country’s unique geographical location and the complexity of its hydrographic network.                     Salariopsis atlantica                     (Doadrio, Perea &amp; Yahyaoui, 2011) is an endangered (EN) Moroccan endemic species, historically confined to the Sebou Basin, where it is known from only a few</description><pubDate>Wed, 28 Oct 2026 13:01:25 GMT</pubDate><guid isPermaLink="false">gbif-literature:4f06c1a9-46f2-3dd4-8724-261adcc20241</guid><category>Croatian Journal of Fisheries</category></item><item><title>Forecasting the future of a desert relict: current and future potential distribution of the rare Argun palm Medemia argun under climate change scenarios</title><link>https://doi.org/10.1007/s10113-026-02610-1</link><description>DOI: https://doi.org/10.1007/s10113-026-02610-1
-Journal: Regional Environmental Change
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-26
-Authors: Marwa Waseem A. Halmy, Arege Yehia, Manal Fawzy, Ahmed R. Mahmoud
-GBIF relevance: GBIF_USED
-
-The Argun ( Medemia argun ) is a vulnerable relict palm confined to hyper-arid regions of southeastern Egypt and northeastern Sudan. This study employed high-performing ensemble predictive distribution models (SDMs) to assess the present and upcoming suitability of Argun under 1–2.6 and 5–8.5 shared socioeconomic pathways of HadGEM3-GC31-LL and IPSL-CM6A-LR climate models. The models demonstrated robust performance (AUC = 0.96; TSS = 0.88) and recognized precipitation variables, mean diurnal tem</description><pubDate>Wed, 28 Oct 2026 12:38:58 GMT</pubDate><guid isPermaLink="false">gbif-literature:508b0850-4778-3bfe-b666-5805c6ba8cb1</guid><category>Regional Environmental Change</category></item><item><title>Synchronous range dynamics of Caatinga birds during the Late Quaternary</title><link>https://doi.org/10.1007/s10336-026-02411-7</link><description>DOI: https://doi.org/10.1007/s10336-026-02411-7
-Journal: Journal of Ornithology
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-24
-Authors: Carina Cristina de Oliveira Santos Costa, Henrique Batalha-Filho
-GBIF relevance: GBIF_USED
-
-The Quaternary period, marked by alternating glacial and interglacial phases, has profoundly shaped global biogeographic patterns. Among the ecosystems affected by this climatic instability are the Neotropical semiarid regions, such as the Caatinga, which have undergone profound changes in their distribution through time. However, tempo and mode of changes in distribution of the Caatinga avifauna during Quaternary remain poorly understood. In this study, we analyzed the spatial dynamics of the C</description><pubDate>Wed, 28 Oct 2026 10:58:42 GMT</pubDate><guid isPermaLink="false">gbif-literature:407403ae-690a-307a-a067-3990b9a8c08a</guid><category>Journal of Ornithology</category></item><item><title>Phylogeography and Climate-Driven Distribution of Culex tarsalis (Diptera: Culicidae): Implications for the Global Spread of West Nile Virus</title><link>https://doi.org/10.1007/s11686-026-01307-z</link><description>DOI: https://doi.org/10.1007/s11686-026-01307-z
-Journal: Acta Parasitologica
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-25
-Authors: Juan José Trujillo-González, Estefanía Mejía-Jurado, Gian Carlo García-Escobar, Oscar Alexander Aguirre-Obando
-GBIF relevance: GBIF_USED
-
-Objective To evaluate mitochondrial genetic diversity, exploratory phylogeographic structure, and the current and future climatic suitability of Culex tarsalis . Materials and Methods We analyzed 406 COI sequences (475 bp) to estimate haplotype diversity (Hd), nucleotide diversity (π), and neutrality (Tajima’s D). Given the use of a single mitochondrial locus, population structure analyses (STRUCTURE and DAPC) were treated as exploratory assessments of haplotype frequency patterns rather than in</description><pubDate>Wed, 28 Oct 2026 10:56:20 GMT</pubDate><guid isPermaLink="false">gbif-literature:d4bf5c55-d045-33e5-b3fd-0005a05bfeba</guid><category>Acta Parasitologica</category></item><item><title>Agroforestry as a gateway for cultivated alien plants and invasion transitions in India</title><link>https://doi.org/10.1007/s10457-026-01519-2</link><description>DOI: https://doi.org/10.1007/s10457-026-01519-2
-Journal: Agroforestry Systems
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-26
-Authors: Priya Kaushik, Pranab Kumar Pati, Mohammed Latif Khan, Pramod Kumar Khare
-GBIF relevance: GBIF_USED
-
-Agroforestry and plantation-based land-use systems are widely promoted for enhancing livelihoods, climate mitigation, and ecosystem restoration, yet they also represent major intentional pathways for the introduction of alien plant species. Despite increasing recognition of biological invasions as a global environmental challenge, the role of agroforestry and plantation in shaping invasion risk remains poorly synthesized at national scales, particularly in tropical regions. Here, we present the </description><pubDate>Wed, 28 Oct 2026 10:49:58 GMT</pubDate><guid isPermaLink="false">gbif-literature:189d8aa0-5a66-3000-b704-aff4e82b5895</guid><category>Agroforestry Systems</category></item><item><title>Climate refugia in a warming ocean: salinity and temperature shape the persistent core habitat of Sthenoteuthis oualaniensis in the Indian Ocean</title><link>https://doi.org/10.1016/j.ecoinf.2026.103861</link><description>DOI: https://doi.org/10.1016/j.ecoinf.2026.103861
-Journal: Ecological Informatics
-Publisher: Elsevier BV
-Published: 2026-06-30
-Authors: Guoqing Zhao, Lingzhi Li, Hanfeng Zheng, Yongchuang Shi, Shuai Li
-GBIF relevance: GBIF_USED
-
-Global climate change is transforming the marine environment at an unprecedented pace and scale. This study evaluates the impacts of climate change on biodiversity and fisheries resources in the Indian Ocean—a sensitive climatic hotspot—using the purpleback flying squid (Sthenoteuthis oualaniensis) as a model species. We systematically projected the current and future patterns of habitat suitability for this species using species distribution models (SDMs). The study aimed to pinpoint key vulner</description><pubDate>Wed, 28 Oct 2026 10:47:59 GMT</pubDate><guid isPermaLink="false">gbif-literature:93addc04-4625-34b9-96ef-a383c83bfa3e</guid><category>Ecological Informatics</category></item><item><title>Basement biodiversity to botanical resource: Impacts and lessons learned from digitizing a small herbarium1</title><link>https://doi.org/10.3159/torrey-d-25-00031.1</link><description>DOI: https://doi.org/10.3159/torrey-d-25-00031.1
-Journal: The Journal of the Torrey Botanical Society
-Publisher: Torrey Botanical Society
-Published: 2026-09-23
-Authors: Kristen R. Haynes, Kamal I. Mohamed
-GBIF relevance: GBIF_CITED
-
-Herbaria, like all natural history collections, represent an invaluable source of data for addressing critical research in the fields of biodiversity conservation, climate change biology, species invasions, taxonomy, morphology, and much more. However, a large proportion of the world's herbarium records remain undigitized and therefore largely unavailable to researchers. Starting in 2022, the team at the SUNY Oswego Herbarium (OSW) began a three-year mass curation and digitization effort of the </description><pubDate>Wed, 28 Oct 2026 10:44:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:453cf672-73a7-3693-bff2-edfa0bfe4e16</guid><category>The Journal of the Torrey Botanical Society</category></item><item><title>The Evolution of Hutchinsonian Climatic Niche Hypervolumes in Gymnosperms</title><link>https://doi.org/10.1111/geb.70257</link><description>DOI: https://doi.org/10.1111/geb.70257
-Journal: Global Ecology and Biogeography
-Publisher: Wiley
-Published: 2026-05-28
-Authors: Fernanda S. Caron, Jānis Lazovskis, David F. R. P. Burslem, Juliano Morimoto
-GBIF relevance: GBIF_USED
-
-Aim                     The niche is a fundamental concept in theoretical and experimental ecology and is used to describe a wide range of ecological processes from species' interactions with the environment to community assemblies. A common way to represent the niche is through a multidimensional geometry known as the Hutchinsonian niche hypervolume. Ecological theory predicts that niche hypervolumes have properties such as holes with broader eco‐evolutionary significance, but we lack a compreh</description><pubDate>Wed, 28 Oct 2026 10:15:36 GMT</pubDate><guid isPermaLink="false">gbif-literature:c88006de-c74b-3909-98a2-df6d0a19f84c</guid><category>Global Ecology and Biogeography</category></item><item><title>Niche Dynamics and Climatic Novelty Drive the Invasion Success of the European Paper Wasp Across North America</title><link>https://doi.org/10.1111/jbi.70267</link><description>DOI: https://doi.org/10.1111/jbi.70267
-Journal: Journal of Biogeography
-Publisher: Wiley
-Published: 2026-05-27
-Authors: Samir Kuinkel, Sara E. Miller
-GBIF relevance: GBIF_USED
-
-Aim                                            Predicting range expansion requires separating whether species establish in new habitats by tracking similar environments or by occupying novel conditions. We test these hypotheses using the European paper wasp (                       Polistes dominula                       ), an invasive social insect, by integrating complementary approaches to characterize niche dynamics.                                                                             </description><pubDate>Wed, 28 Oct 2026 10:05:42 GMT</pubDate><guid isPermaLink="false">gbif-literature:06cd660a-95f5-3d30-93d3-952400f762a9</guid><category>Journal of Biogeography</category></item><item><title>Gaps and drivers of global marine animal biodiversity from the surface to abyss</title><link>https://doi.org/10.1038/s41467-026-73613-z</link><description>DOI: https://doi.org/10.1038/s41467-026-73613-z
-Journal: Nature Communications
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-27
-Authors: Hanieh Saeedi
-GBIF relevance: GBIF_USED
-
-With advances in global biodiversity data sharing, particularly following the Census of Marine Life, understanding of marine biodiversity has improved but remains incomplete. The Ocean Biodiversity Information System and Global Biodiversity Information Facility host over 150 million marine occurrence records, enabling reassessment of global biodiversity and data gaps. Here, we compile a quality-controlled dataset of ca. 48 million records covering 184,141 marine animal species, representing ~87%</description><pubDate>Wed, 28 Oct 2026 09:58:47 GMT</pubDate><guid isPermaLink="false">gbif-literature:61394511-b2c4-3ea2-b711-8febbef0e022</guid><category>Nature Communications</category></item><item><title>The Danube Fish Database: documenting species distributions across a major European river basin</title><link>https://doi.org/10.1038/s41597-026-07249-5</link><description>DOI: https://doi.org/10.1038/s41597-026-07249-5
-Journal: Scientific Data
-Publisher: Springer Science and Business Media LLC
-Published: 2026-05-27
-Authors: Yusdiel Torres-Cambas, András Ambrus, Miklós Bán, Bálint Bánó, Anthony Basooma
-GBIF relevance: GBIF_USED
-
-The Danube River Basin (DRB) harbors the highest documented fish species richness of any European river, yet native populations face increasing threats from physical infrastructures that impede longitudinal and lateral connectivity, unsustainable fisheries, the introduction of non-native species, and climate change. Spanning across 19 countries, the DRB presents conservation challenges that demand coordinated, transboundary data sharing. The present database compiles and standardizes fish occurr</description><pubDate>Wed, 28 Oct 2026 09:55:10 GMT</pubDate><guid isPermaLink="false">gbif-literature:5de0049d-fd2f-35cd-b243-c6cc59a329b0</guid><category>Scientific Data</category></item></channel></rss>
+Environmental DNA (eDNA) represents a promising preliminary tool for efficiently assessing biological diversity in locales where conducting intensive field surveys is logistically challenging, as in the case of west-central Texas. Its utility for characterizing biodiversity across broad spatial scales is amplified in lotic systems, which can transport eDNA several kilometers from its source and often contain signals from both aquatic and nearby terrestrial organisms. In the present study, we emp</description><pubDate>Thu, 29 Oct 2026 09:31:05 GMT</pubDate><guid isPermaLink="false">gbif-literature:aacd6607-2375-3945-8a44-9a16b0fdfe69</guid><category>Scientific Reports</category></item></channel></rss>

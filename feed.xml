@@ -1,5 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Fri, 20 Nov 2026 01:31:39 GMT</lastBuildDate><item><title>Climate-driven phenological shifts and biogeographical constraints of the hydrozoan Velella velella in Mediterranean coastal waters</title><link>https://doi.org/10.3389/fmars.2026.1765862</link><description>DOI: https://doi.org/10.3389/fmars.2026.1765862
+<rss version="2.0"><channel><title>GBIF Literature Feed</title><link>https://sekitake.github.io/gbif-literature-feed/</link><description>Journal articles from GBIF Literature API where GBIF is used or cited.</description><language>en</language><lastBuildDate>Sat, 21 Nov 2026 00:59:14 GMT</lastBuildDate><item><title>Global potential geographical distribution of Leptinotarsa decemlineata under climate change</title><link>https://www.gbif.org/literature/437ed2b5-9420-3c7a-a378-976b16b39873</link><description>Journal: 生物安全学报(中英文)
+Publisher: 生物安全学报(中英文)
+Published: 2026-05-15
+Authors: 鑫 李, 鸣 杨, 程元 杨, 提玛 帕, 木尔汗 乌
+GBIF relevance: GBIF_USED
+
+【目的】全球气候变暖会改变入侵物种的地理分布格局。马铃薯甲虫作为对全球农业生产造成重大经济损失的检疫性害虫，其在未来气候变化背景下的潜在分布动态对早期监测预警及防控策略制定具有关键意义。【方法】采用参数优化的MaxEnt模型，整合2 113个全球分布点位及8个关键环境变量，预测了当前与未来3种共享社会经济路径情景（SSP1-2.6、SSP2-4.5、SSP5-8.5）下2个时期（2021—2040年、2041—2060年）马铃薯甲虫的全球潜在地理分布。【结果】最冷季度均温（bio11）和最干月降水量（bio14）是影响马铃薯甲虫潜在地理分布的主导环境变量。当前高适生区主要集中于北美洲、欧洲及亚洲部分区域；未来情景下，全球潜在地理分布呈现显著动态：在SSP1-2.6情景下潜在地理分布呈现出“先增后减”的趋势，而在SSP2-4.5和SSP5-8.5情景下呈现出“先减后增”的趋势，其中SSP5-8.5情境下2021—2040年达到峰值。【结论】以最冷季度均温（bio11）和最干月降水量（bio14）为主的环境因子共同塑造马铃薯甲虫的潜在地理分布边界；北美洲、欧洲以及亚洲、南美洲、大洋洲和非洲</description><pubDate>Fri, 20 Nov 2026 13:55:16 GMT</pubDate><guid isPermaLink="false">gbif-literature:437ed2b5-9420-3c7a-a378-976b16b39873</guid><category>生物安全学报(中英文)</category></item><item><title>Current status of invasive alien plants in the Horqin Sandy Land</title><link>https://www.gbif.org/literature/335311df-15fd-3afd-80b2-0878e7666d0c</link><description>Journal: 中国沙漠
+Publisher: 中国沙漠
+Published: 2026-05-20
+Authors: 圆 圆, 彩云 张, 晓旭 郎, 庆 张
+GBIF relevance: GBIF_USED
+
+植物入侵是21世纪人类社会亟待解决的关键生态难题。系统掌握外来入侵植物的种类组成及分布特征对于维持生态系统稳定性和促进区域可持续发展具有重要意义。尽管已有研究对中国北方科尔沁沙地部分入侵植物进行了初步探讨，但从整体层面来看，针对该区外来入侵植物的种类组成与空间分布格局尚缺乏系统性调查与全面评估，相关研究仍存在明显不足。因此，本研究于2024年7—8月，通过野外实地调查与文献资料整理，系统梳理了科尔沁沙地入侵植物的物种组成、原产地、生活型、区系特征及分布格局等。结果表明：科尔沁沙地共有入侵植物51种，隶属于16科38属。其中，菊科植物种类最多，柳叶菜科、葡萄科等植物种类最少；从生活型来看，以一年生草本为主；原产地以美洲为主；区系分析显示，在科和属的水平上，科尔沁沙地外来入侵植物都有着热带区系性质。分布格局分析显示，科尔沁沙地外来入侵植物数量在不同旗县之间存在差异，其中赤峰市各旗县入侵植物种类最为丰富，吉林省长岭县入侵植物种类最少。本研究系统梳理了科尔沁沙地外来入侵植物现状，为中国北方半干旱农牧交错带外来物种防控、区域生态安全屏障构建及生物多样性保护提供多维度的科学依据与决策支撑。</description><pubDate>Fri, 20 Nov 2026 13:51:14 GMT</pubDate><guid isPermaLink="false">gbif-literature:335311df-15fd-3afd-80b2-0878e7666d0c</guid><category>中国沙漠</category></item><item><title>耦合多尺度生态位模型的互花米草潜在适宜生境预测研究</title><link>https://doi.org/10.15928/j.1674-3075.202501240004</link><description>DOI: https://doi.org/10.15928/j.1674-3075.202501240004
+Journal: 水生态学杂志
+Publisher: 水生态学杂志
+Published: 2026-06-11
+Authors: 丹华 张, 圣扬 田
+GBIF relevance: GBIF_USED
+
+明确互花米草(Spartina alterniflora)的时空分布变化及其扩张特征，为未来互花米草的生态适应性和管理策略提供重要依据。常见的生态位模型——最大熵模型(MaxEnt)，耦合全球和区域2个尺度的环境变量预测互花米草的潜在适生区，探究不同因子对互花米草分布的相对重要性，预测互花米草潜在生境的空间分布格局。结果表明：基于生态位模型的互花米草适宜生境预测精度显著(全球尺度AUC=0.965，区域尺度AUC=0.992)。气候适宜度模拟结果显示，全球尺度上，互花米草的高气候适宜度生长区主要集中在全球沿海地区。互花米草的气候适宜分布区主要集中在中纬度。区域尺度上，互花米草气候适宜分布区主要在18°～42°N，气候适宜区域面积为216.28万km2。区域环境适宜度模拟结果显示，环境适宜分布区面积为21.17万km2，占我国沿海地区面积的44.84%，高度适生区集中在长江三角洲、福建、河北和浙江沿海。在全球尺度上，气候因子中最干燥月份降水量、年降水量和气温日较差对互花米草的潜在分布影响最大。在区域尺度上，影响互花米草地理分布贡献率最高的4个环境因子依次为距港口距离、气候适宜度、地形和人</description><pubDate>Fri, 20 Nov 2026 13:33:30 GMT</pubDate><guid isPermaLink="false">gbif-literature:d924c338-8c1d-34f5-8b1e-109d088c2596</guid><category>水生态学杂志</category></item><item><title>Historical climate change shaped the geographical distribution pattern of Paeonia rockii</title><link>https://doi.org/10.12302/j.issn.1000-2006.202602017</link><description>DOI: https://doi.org/10.12302/j.issn.1000-2006.202602017
+Journal: 南京林业大学学报(自然科学版)
+Publisher: 南京林业大学
+Published: 2026-06-12
+Authors: 磊 王, 一龙 史, 柯欣 赵, 旭 王, 艺帆 徐
+GBIF relevance: GBIF_USED
+
+(no abstract available)</description><pubDate>Fri, 20 Nov 2026 13:26:25 GMT</pubDate><guid isPermaLink="false">gbif-literature:0f8c93d8-62f0-3177-9e7e-cc7e85da6551</guid><category>南京林业大学学报(自然科学版)</category></item><item><title>Variations in Habitat Suitability and Co-Invasion Risks of Alien Herbaceous Plants Across Different Diffusion Stages</title><link>https://doi.org/10.13759/j.cnki.dlxb.20260612.002</link><description>DOI: https://doi.org/10.13759/j.cnki.dlxb.20260612.002
+Journal: 东北林业大学学报
+Publisher: 东北林业大学
+Published: 2026-06-15
+Authors: 曼妮 林, 彬彬 王, 楚涛 郑, 雨璐 莫, 雅宏 邢
+GBIF relevance: GBIF_USED
+
+摘 要 为比较不同扩散阶段外来植物的未来潜在分布格局及其环境响应差异,选取广布入侵种五爪金龙 (Ipomoea cairica (L. ) Sweet)、归化扩散种马齿苋(Portulaca oleracea L. )与潜在入侵种毛马齿苋(Portulaca pilosa L. )为研究对象,采用参数优化后的 MaxEnt 模型进行适生区预测;通过 Bootstrap 重采样量化预测不确定性、结合 多变量环境相似度曲面(MESS)分析识别外推风险,并模拟其在当前及未来两种气候情景( SSP1-2. 6、SSP5-8. 5) 下的分布变化。 结果表明:不同扩散阶段的外来物种主导环境因子存在显著差异;其中,五爪金龙分布同时受温度 因子与人为活动共同调控,马齿苋对人为干扰的响应更为敏感,毛马齿苋分布则主要受气候因子约束。 未来情景 下,3 种外来植物适生区均呈北移趋势,但扩张强度与迁移路径存在差异。 值得关注的是,这 3 种植物适生区在华 南及长江中下游等区域具有较大重叠,且在 SSP1-2. 6 情景下重叠范围更明显,识别出潜在的“共入侵”高风险区。 综上,研究从扩散阶段对比与重叠区识别两</description><pubDate>Fri, 20 Nov 2026 13:17:28 GMT</pubDate><guid isPermaLink="false">gbif-literature:d1015320-8ac5-3f8b-84cc-cf7667db2ae1</guid><category>东北林业大学学报</category></item><item><title>青藏高原鸟类多样性: 确定性、随机性与尺度效应</title><link>https://doi.org/10.1360/csb-2026-0165</link><description>DOI: https://doi.org/10.1360/csb-2026-0165
+Journal: Chinese Science Bulletin
+Publisher: Science China Press., Co. Ltd.
+Published: 2026-06-09
+Authors: 塔星 张, 慧玲 胡, 江洪 冉
+GBIF relevance: GBIF_USED
+
+理解生物多样性空间分布的一般规律, 厘清其形成机制与关键影响因素, 对预测生物多样性未来变化趋势并制定科学保护方案具有重要意义. 本研究基于公共数据库和“堆叠物种分布模型”, 在5 km分辨率尺度上估算了青藏高原鸟类物种丰富度、系统发育多样性及功能多样性的空间分布格局, 并分析了生态学中确定性过程与随机过程对这些多样性指标的相对影响. 结果表明, “生态位填充”, 即在有限生态位空间内容纳更多物种, 是在大尺度上驱动青藏高原鸟类多样性自西北向东南递增的主要确定性机制; 而在小尺度上驱动多样性增加的机制可能会发生转换. 此外, 由三维地貌结构所主导的随机扩散过程, 在气候与初级生产力等确定性环境因子的强烈约束下往往被掩盖. 本研究初步阐明了随机过程与确定性过程对青藏高原鸟类多样性分布格局的驱动机制及其相互关系, 为深入理解生物多样性格局的形成机理及制定有针对性的保护策略提供了科学依据.</description><pubDate>Fri, 20 Nov 2026 13:02:09 GMT</pubDate><guid isPermaLink="false">gbif-literature:39c2bf4f-c9cb-305d-836a-c8d9ea29c4e7</guid><category>Chinese Science Bulletin</category></item><item><title>Prediction of Changes in Potential Suitable Distribution Areas of Peucedanum praeruptorum under Future Climate Scenarios</title><link>https://www.gbif.org/literature/0481c098-516d-3d6d-8143-b81e8d384689</link><description>Journal: 中国农业气象
+Publisher: 中国农业气象
+Published: 2026-06-20
+Authors: 青霞 张, 威 林, 祥鑫 徐, 国春 樊, 一冰 刘
+GBIF relevance: GBIF_USED
+
+基于中国白花前胡（Peucedanum praeruptorum Dunn）89个地理分布数据和包括生物气候、地形和土壤36个环境变量，利用MaxEnt优化模型预测历史时期（1970−2000年）和未来时期（2041−2060年、2061−2080年）不同气候情景下白花前胡适生区以及影响白花前胡分布的主导气候因子，为白花前胡的管理、保护和合理选址提供一定的理论依据。结果表明：（1）MaxEnt模型模拟准确性较高，受试者工作特征曲线（ROC）的曲线下面积（AUC）为0.909；（2）影响白花前胡分布的主导气候因子分别是最冷季平均气温bio11（47.9%）、年降水量bio12（30.8%）和温度季节性bio4（9.4%），3个变量累计贡献率达88.1%；（3）历史时期白花前胡低适生区主要分布在山东、河南、河北和山西地区，中、高适生区主要分布在中南部地区。未来时期气候情景下，其潜在适生区变化幅度较小，对白花前胡地理分布产生的影响较小，分布质心呈向东北偏移的趋势；（4）高排放情景下生态位重叠呈下降趋势，每个时期生态位宽度较稳定，表明白花前胡生态适应性较广，更倾向成为广适性物种。</description><pubDate>Fri, 20 Nov 2026 10:47:11 GMT</pubDate><guid isPermaLink="false">gbif-literature:0481c098-516d-3d6d-8143-b81e8d384689</guid><category>中国农业气象</category></item><item><title>南海岛礁渔业土著物种的潜在生境分布、关键环境因子及其在硇洲岛海域的适宜性</title><link>https://doi.org/10.11964/jfc.20260115341</link><description>DOI: https://doi.org/10.11964/jfc.20260115341
+Journal: 水产学报
+Publisher: 水产学报
+Published: 2026-06-22
+Authors: 健 廖, 黎阳, 麦 童, 曦 郑, 水源 张
+GBIF relevance: GBIF_USED
+
+目的 针对南海岛礁海域养殖与生态保护矛盾突出、近岸养殖空间饱和的问题，明确本土代表性水产养殖物种的潜在生境分布特征及关键调控因子，为该区域养殖布局优化与海洋牧场建设提供科学依据。 方法 选取南海岛礁水域 11 种本土养殖物种 (3 种螺类和贝类、1 种虾类、7 种鱼类)，整合物种分布数据与 48 项海洋环境变量，经多重共线性筛选后保留 21 个核心变量，联合 MaxEnt 模型与 ecospat 模型，模拟物种潜在适宜生境分布，量化关键环境因子贡献率及种间生态位重叠程度，并结合硇洲岛周边 12 个潜在养殖点位开展适宜性综合评价。 结果 构建的物种生境模型表现优良，11 个物种训练集 AUC 值均大于0.9，测试集仅日本对虾 AUC 值为 0.8981(良好)，其余均大于0.9 (优秀)；水深、离岸距离、波高是主导多数物种分布的核心物理因子(贡献率 35.19%~65.42%)，营养盐与温度因子呈物种特异性影响；螺类和贝类生态位的重叠度较低(Schoener's D=0.1780~0.3871)，鱼类部分物种存在高重叠(D&gt;0.5)；硇洲岛周边海域为方斑东风螺、大黄鱼、卵形鲳鲹等的核心养</description><pubDate>Fri, 20 Nov 2026 10:42:19 GMT</pubDate><guid isPermaLink="false">gbif-literature:56055582-2058-338e-a570-a840c7269713</guid><category>水产学报</category></item><item><title>基于MaxEnt模型的中国雷公藤气候适生区评价与时空演变预测</title><link>https://doi.org/10.7671/j.issn.1001-411x.202509004</link><description>DOI: https://doi.org/10.7671/j.issn.1001-411x.202509004
+Journal: 华南农业大学学报
+Publisher: 华南农业大学学报
+Published: 2026-06-22
+Authors: 国礼 杨, 小燕 郭, 子豪 陈, 学录 刘, 晓丹 李
+GBIF relevance: GBIF_USED
+
+雷公藤Tripterygium wilfordii Hook. f.是我国重要的药用植物。然而受气候变化和人类活动等因素影响，其自然分布区正面临逐渐萎缩与破碎化的风险。本研究旨在系统评估其当前及未来的适宜生境格局。方法 本研究基于430条物种分布记录，采用空间稀疏化方法降低样本空间分布不均的影响，获得独立分布记录。结合气候、土壤和地形等共53个环境变量，利用变量贡献率、Jackknife检验及多重共线性分析(Pearson |r| ≥ 0.8)筛选关键变量。基于MaxEnt建立一个雷公藤适宜性预测模型，通过调节特征组合(Feature classes, FC)与正则化倍数(Regularization multiplier, RM)优化模型超参数，并以修正的赤池信息准则(Akaike information criterion corrected, AICc)和部分受试者工作特征(Receiver operating characteristic, ROC)曲线为评价指标，最终确定最优模型参数组合(FC = LQT，RM = 2.9)。该模型预测了雷公藤在当前及未来4种共享社会经济路径</description><pubDate>Fri, 20 Nov 2026 10:31:28 GMT</pubDate><guid isPermaLink="false">gbif-literature:2c297b03-572a-3cf3-b195-9e7ec8a66f4e</guid><category>华南农业大学学报</category></item><item><title>气候变化下臭蒿的潜在分布格局变化</title><link>https://doi.org/10.13866/j.azr.2026.08.11</link><description>DOI: https://doi.org/10.13866/j.azr.2026.08.11
+Journal: 干旱区研究
+Publisher: 干旱区研究
+Published: 2026-06-29
+Authors: 壮壮 李, 赟 韩, 发起 张
+GBIF relevance: GBIF_USED
+
+基于优化后的MaxEnt模型，选取臭蒿在青藏高原及其毗邻地区136条分布数据，结合历史（末次盛冰期、全新世中期）、当前、未来时期的39个环境变量，模拟臭蒿在不同气候情景下的潜在适生区，分析制约臭蒿自然分布的关键环境变量并阐述臭蒿分布区的变化趋势。结果表明：模型AUC平均值为0.916，预测结果较为准确。影响臭蒿分布的4个主要环境因子为海拔、人类足迹指数、最湿季度降水量、最暖季度平均温度。在当前气候环境下，臭蒿在青藏高原及周边地区的总适生区面积为1.6×106 km2，高适生区面积为7×104 km2，高度适生区集中在祁连山脉、共和盆地、横断山脉和青藏高原南部雅鲁藏布江流域。历史气候条件下，臭蒿适生区存在向青藏高原西南地区大幅收缩且高适生区严重丧失的趋势。在未来三种气候情景（SSP1-2.6、SSP2-4.5和SSP5-8.5）下，臭蒿总适生区面积均呈现扩张趋势。本研究可为臭蒿资源开发提供数据支持。</description><pubDate>Fri, 20 Nov 2026 09:47:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:9414a823-c75b-36c4-baaa-a19b2bdafeb4</guid><category>干旱区研究</category></item><item><title>新疆黑鹳繁殖期潜在适生区预测及保护空缺分析</title><link>https://doi.org/10.13866/j.azr.2026.08.16</link><description>DOI: https://doi.org/10.13866/j.azr.2026.08.16
+Journal: 干旱区研究
+Publisher: 干旱区研究
+Published: 2026-07-01
+Authors: 迪 吴, 家娟 刘, 洹宇 周, 庆明 吴
+GBIF relevance: GBIF_USED
+
+新疆是我国黑鹳的重要繁殖分布地，利用优化后的MaxEnt模型，预测繁殖期黑鹳在新疆的潜在适生区，分析其影响因子，同时通过ArcGIS软件将适生区与新疆自然保护地进行叠加对比，得到保护空缺，从而为黑鹳种群保护与新疆生物多样性保护提供科学依据。结果表明：（1） 植被覆盖度、土地利用类型、距水源距离、温度季节性变化的标准差是影响黑鹳分布的主要环境因子；（2） 繁殖期黑鹳潜在适生区面积435291.9 km2，占新疆总面积的26.1%，且南疆面积远小于北疆；（3） 现有的自然保护地仅覆盖12.8%的繁殖期黑鹳中、高适生区，其中自然保护区在现有保护覆盖中发挥主要作用。研究揭示了新疆黑鹳繁殖期更偏向于选择有适宜植被覆盖度、离水源距离近、气温变化较缓和的生境。同时，较大的保护空缺显示，新疆亟需优化自然保护地规划，以提升对黑鹳繁殖期栖息地的覆盖与保护成效。</description><pubDate>Fri, 20 Nov 2026 09:43:56 GMT</pubDate><guid isPermaLink="false">gbif-literature:fe6fd39e-7c73-314f-bfa4-94314aa1ee0a</guid><category>干旱区研究</category></item><item><title>HABITAT SUITABILITY AND PREY RICHNESS PREDICT DISTRIBUTION CONSTRAINTS OF THE ENDANGERED DHOLE, Cuon alpinus (MAMMALIA: CARNIVORA) IN WEST SUMATRA</title><link>https://doi.org/10.47605/tapro.v15i1.403</link><description>DOI: https://doi.org/10.47605/tapro.v15i1.403
+Journal: Taprobanica
+Publisher: Research Center for Climate Change, University of Indonesia
+Published: 2026-05-30
+Authors: Inda D. Solina, Wilson Novarino, Muhammad H. Saputra, Rajif Iryadi, Aditya Hani
+GBIF relevance: GBIF_USED
+
+The endangered Cuon alpinus faces severe habitat fragmentation and population decline across Asia, including Sumatra, where both the species and its prey are increasingly threatened. Limited ecological data further constrain conservation efforts. This study identifies suitable habitats for dholes and their prey in West Sumatra using MaxEnt modelling, integrating occurrence data from camera traps, GBIF, and Camera Trap Asia with environmental predictors (altitude, land cover, rivers, roads, and b</description><pubDate>Fri, 20 Nov 2026 09:32:49 GMT</pubDate><guid isPermaLink="false">gbif-literature:0da9526b-28c3-35f6-986c-80106f555905</guid><category>Taprobanica</category></item><item><title>Is There a Chance for Endemics to Survive? Calophaca wolgarica (Lf) Pall. Ex Fisch. in the Era of Global Climate Change</title><link>https://doi.org/10.1134/s2079096126700101</link><description>DOI: https://doi.org/10.1134/s2079096126700101
+Journal: Arid Ecosystems
+Publisher: Pleiades Publishing Ltd
+Published: 2026-03-01
+Authors: A. S. Kashin, A. O. Kondratieva, Yu. I. Kuliseva, R. A. Murtazaliev, I. V. Shilova
+GBIF relevance: GBIF_USED
+
+Research into the patterns of morphological variability by 17 parameters were carried out in 2013, 2014, and 2025 in 19 populations of a paleoendemic of the arid territories of the Russian Plain, the “Maykaragan of the Volga” Calophaca wolgarica (Lf) Pall. Ex Fisch. (Fabaceae) throughout its local range. Nonmetric multidimensional scaling (nMDS) was used to identify the nature of variability and its relationship with environmental factors. It was shown that this relict species is characterized b</description><pubDate>Fri, 20 Nov 2026 09:26:22 GMT</pubDate><guid isPermaLink="false">gbif-literature:1a65be11-4c82-3529-af75-720464bcbfb2</guid><category>Arid Ecosystems</category></item><item><title>Climate-driven phenological shifts and biogeographical constraints of the hydrozoan Velella velella in Mediterranean coastal waters</title><link>https://doi.org/10.3389/fmars.2026.1765862</link><description>DOI: https://doi.org/10.3389/fmars.2026.1765862
 Journal: Frontiers in Marine Science
 Publisher: Frontiers Media SA
 Published: 2026-06-26
@@ -132,14 +220,7 @@ Published: 2026-06-27
 Authors: Jia-Qing Hou, Yi Shi, Yong-Xiu Song, Xin-Yi Yu, Xiao-Yu Jiang
 GBIF relevance: GBIF_USED
 
-The fragmented landscape of the Qinghai–Xizang Plateau (QXP) is widely recognized as a driver of speciation. However, the relative contributions of physical topographic barriers versus environmental heterogeneity in shaping the fine-scale genetic structure of alpine plants remain debated. Particularly for species with limited seed dispersal, population plastomic evidence remains limited regarding the extent to which topographic fragmentation restricts seed-mediated gene flow and contributes to m</description><pubDate>Wed, 18 Nov 2026 12:05:49 GMT</pubDate><guid isPermaLink="false">gbif-literature:11d97a92-8bf7-33a9-a008-7ebd4f50775a</guid><category>Plant Diversity</category></item><item><title>Climate Change Poses Risk of Local Extinction for Temperate Forest Species in Oaxaca, Mexico</title><link>https://doi.org/10.4206/bosque.e4702</link><description>DOI: https://doi.org/10.4206/bosque.e4702
-Journal: Bosque (Valdivia)
-Publisher: Sistema de Bibliotecas UACH
-Published: 2026-06-23
-Authors: Juan Carlos Guzmán-Santiago, Vicente Espinosa-Hernández, Rogelio Omar Corona-Núñez, Juan Camilo Zapata-Calero, Iván Felipe Benavides-Martínez
-GBIF relevance: GBIF_USED
-
-Climate change is expected to drive significant shifts in species distributions, particularly in temperate forest ecosystems. Areas of long-term environmental stability, known as climatic refugia, may play a key role in preserving biodiversity under future climate scenarios. This study assessed the potential impact of climate change on the distribution of eleven temperate forest tree species in Oaxaca, Mexico. Species distribution models were developed for eleven tree-species of temperate forest</description><pubDate>Wed, 18 Nov 2026 12:04:29 GMT</pubDate><guid isPermaLink="false">gbif-literature:1aca6af6-625e-33bd-a9df-9420f00a1121</guid><category>Bosque (Valdivia)</category></item><item><title>Global warming and environmental heterogeneity drive species richness pattern of Picea in China</title><link>https://doi.org/10.1007/s11056-026-10197-y</link><description>DOI: https://doi.org/10.1007/s11056-026-10197-y
+The fragmented landscape of the Qinghai–Xizang Plateau (QXP) is widely recognized as a driver of speciation. However, the relative contributions of physical topographic barriers versus environmental heterogeneity in shaping the fine-scale genetic structure of alpine plants remain debated. Particularly for species with limited seed dispersal, population plastomic evidence remains limited regarding the extent to which topographic fragmentation restricts seed-mediated gene flow and contributes to m</description><pubDate>Wed, 18 Nov 2026 12:05:49 GMT</pubDate><guid isPermaLink="false">gbif-literature:11d97a92-8bf7-33a9-a008-7ebd4f50775a</guid><category>Plant Diversity</category></item><item><title>Global warming and environmental heterogeneity drive species richness pattern of Picea in China</title><link>https://doi.org/10.1007/s11056-026-10197-y</link><description>DOI: https://doi.org/10.1007/s11056-026-10197-y
 Journal: New Forests
 Publisher: Springer Science and Business Media LLC
 Published: 2026-06-30
@@ -614,88 +695,4 @@ Published: 2026-06-24
 Authors: Peter Brimblecombe, Graham Holloway, Pascal Querner
 GBIF relevance: GBIF_USED
 
-Museum collections are at risk from insects. A changing climate or increased amounts of imported materials, exhibition loans and international travel, can increase exotic species. Heritage properties are often monitored for pests, so we used trapping data from 31 Austrian museums, libraries and storerooms. The carpet beetles Anthrenus spp. and Attagenus spp. studied here, showed that the catch of these two species in buildings was correlated. Unheated libraries show high catch rates for Anthrenu</description><pubDate>Fri, 13 Nov 2026 14:30:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:beecb71b-1c60-35ba-a103-209bba8cf198</guid><category>Insects</category></item><item><title>Invasions of alien plants pose unprecedented challenges to China’s nature reserves under climate change</title><link>https://doi.org/10.1007/s10531-026-03394-w</link><description>DOI: https://doi.org/10.1007/s10531-026-03394-w
-Journal: Biodiversity and Conservation
-Publisher: Springer Science and Business Media LLC
-Published: 2026-06-25
-Authors: Jia-Xin Wang, Rainer W. Bussmann, Fei Qin, Yun-Fen Liang, Bao-Cai Han
-GBIF relevance: GBIF_USED
-
-Biological invasions are considered the second-greatest threat to global biodiversity. In China, nature reserves are crucial in terms of biodiversity conservation, but many are at high risk of biological invasion. However, as climate change progresses, the nature reserve invasion risk posed by invasive alien plants (IAPs) remains unclear. Here, we compiled an inventory of 402 IAPs with over 120,000 occurrences to investigate IAP distribution patterns and the potential invasion risks in China’s n</description><pubDate>Fri, 13 Nov 2026 13:53:23 GMT</pubDate><guid isPermaLink="false">gbif-literature:108ca3c0-e3b8-388e-b611-b7fb7b8d59ae</guid><category>Biodiversity and Conservation</category></item><item><title>Matching the largest Neotropical primates with their food resources: Rapid suitability declines in light of climate change</title><link>https://doi.org/10.1007/s10531-026-03396-8</link><description>DOI: https://doi.org/10.1007/s10531-026-03396-8
-Journal: Biodiversity and Conservation
-Publisher: Springer Science and Business Media LLC
-Published: 2026-06-25
-Authors: Vagner Lacerda Vasquez, Míriam Plaza Pinto
-GBIF relevance: GBIF_USED
-
-Anthropogenic climate change affects species distribution and population dynamics. For mostly frugivorous and forest-dependent primates, such as Brachyteles (hereafter muriquis), shifts in plant distributions may alter future resource availability. We evaluated the effects of climate change on the climatic suitability of B. arachnoides and B. hypoxanthus and 46 of their most frequently recorded food plants. We modeled and projected current and future climatic suitability for both primates and pl</description><pubDate>Fri, 13 Nov 2026 13:47:54 GMT</pubDate><guid isPermaLink="false">gbif-literature:00e873d5-8e27-32c2-9a31-37a72342894f</guid><category>Biodiversity and Conservation</category></item><item><title>Три новых вида сосудистых растений во флоре Тюменской области</title><link>https://doi.org/10.14258/turczaninowia.28.3.7</link><description>DOI: https://doi.org/10.14258/turczaninowia.28.3.7
-Journal: Turczaninowia
-Publisher: Altai State University
-Published: 2025-10-13
-Authors: Olga A. Kapitonova
-GBIF relevance: GBIF_CITED
-
-Для территории Тюменской области приводятся три новых вида сосудистых растений: Actaea cimicifuga, Petrosimonia litwinowii и Trichophorum alpinum. Для каждого из них даны точные местонахождения с указанием географических координат находок и характера экотопов. Наиболее вероятной причиной расширения области распространения этих видов является антропогенное преобразование природных ландшафтов.</description><pubDate>Fri, 13 Nov 2026 13:45:23 GMT</pubDate><guid isPermaLink="false">gbif-literature:f0b23aa6-08d2-3f84-911e-625b958c90ca</guid><category>Turczaninowia</category></item><item><title>Дополнение к флоре Юго-Западной Якутии</title><link>https://doi.org/10.14258/turczaninowia.28.4.18</link><description>DOI: https://doi.org/10.14258/turczaninowia.28.4.18
-Journal: Turczaninowia
-Publisher: Altai State University
-Published: 2026-01-12
-Authors: Lyubov A. Antonova, Irina G. Borisova
-GBIF relevance: GBIF_CITED
-
-В статье приводятся данные о находках в Юго-Западной Якутии охраняемых (Carex pseudocyperus, Viola uniflora, Aconitum Rubicundum, Lilium pilosiusculum, Dactylorhiza fuchsii, Tragopogon sibiricus) и редко встречающихся аборигенных и чужеродных видов сосудистых растений. Впервые приводятся находки для флоры Якутии чужеродного вида Galium mollugo, а для Верхне-Ленского флористического района отмельного полусорного вида Potentilla paradoxa. Сообщается также о недавно занесенном в Якутию чужеродном в</description><pubDate>Fri, 13 Nov 2026 13:26:40 GMT</pubDate><guid isPermaLink="false">gbif-literature:896767ba-b50e-3199-830e-3f738125e668</guid><category>Turczaninowia</category></item><item><title>Находки новых и редких для Дагестана видов растений и грибов горных болот и заболоченных местообитаний</title><link>https://doi.org/10.14258/turczaninowia.29.1.6</link><description>DOI: https://doi.org/10.14258/turczaninowia.29.1.6
-Journal: Turczaninowia
-Publisher: Altai State University
-Published: 2026-05-19
-Authors: Nadezhda S. Liksakova, Tatyana G. Ivchenko, Patimat O. Mukhumaeva, Zagidat I. Abdurakhmanova, Galina Yu. Konechnaya
-GBIF relevance: GBIF_CITED
-
-В ходе исследования растительного покрова горных болот Восточного Кавказа был найден новый для Дагестана вид – Persicaria minor. Приводятся новые местонахождения для 11 редких видов сосудистых растений,  двух видов мхов и одного вида гриба, из которых Menyanthes trifoliata, Scorpidium cossonii, Philonotis falcata, Ganoderma lucidum занесены в Красную книгу Республики Дагестан, а гриб  и в Красную книгу Российской Федерации.</description><pubDate>Fri, 13 Nov 2026 13:13:25 GMT</pubDate><guid isPermaLink="false">gbif-literature:a277f4d9-5a88-3126-8b62-c9357d2532e8</guid><category>Turczaninowia</category></item><item><title>Новые и редкие виды растений для Иркутской области</title><link>https://doi.org/10.14258/turczaninowia.29.1.2</link><description>DOI: https://doi.org/10.14258/turczaninowia.29.1.2
-Journal: Turczaninowia
-Publisher: Altai State University
-Published: 2026-05-19
-Authors: Daba G. Chimitov, Denis V. Sandanov, Andrey Yu. Korolyuk, Elena A. Korolyuk
-GBIF relevance: GBIF_CITED
-
-В статье приводятся список и краткая характеристика распространения 7 видов сосудистых растений, найденных на территории Ольхонского района Иркутской области. Впервые для флоры Иркутской области указывается местонахождение Aleuritopteris shensiensis. Из числа найденных видов три включены в Красную книгу Иркутской области (2020): Asparagus gibbus, Krascheninnikovia ceratoides, Oxytropis microphylla. Обнаружено карантинное сорное растение Solanum triflorum, которое ранее не указывалось для Ольхонс</description><pubDate>Fri, 13 Nov 2026 13:11:11 GMT</pubDate><guid isPermaLink="false">gbif-literature:33a4b777-bc22-31ee-b7de-e0aa25963e1b</guid><category>Turczaninowia</category></item><item><title>Первая находка Pseudochlorella signiensis (Chlorophyta) на территории России</title><link>https://doi.org/10.14258/turczaninowia.29.1.7</link><description>DOI: https://doi.org/10.14258/turczaninowia.29.1.7
-Journal: Turczaninowia
-Publisher: Altai State University
-Published: 2026-05-19
-Authors: Irina V. Novakovskaya, Elena N. Patova, Dmitry M. Shadrin
-GBIF relevance: GBIF_CITED
-
-В данной статье приводятся сведения о зеленой микроводоросли Pseudochlorella signiensis. Три штамма этой водоросли были изолированы из биологических почвенных корочек горно-тундровых сообществ (Полярный и Северный Урал) и с поверхности «красного» снега (Приполярный Урал). В результате их изучения с применением световой микроскопии и молекулярно-генетических методов (анализ нуклеотидных последовательностей ITS рДНК) получены новые данные по биологии, географии и филогении вида. P. signiensis явля</description><pubDate>Fri, 13 Nov 2026 13:08:50 GMT</pubDate><guid isPermaLink="false">gbif-literature:cbb3925b-7f47-34a4-a06d-db707836a60a</guid><category>Turczaninowia</category></item><item><title>Новые находки цианобактерий и водорослей для территории России и российского Дальнего Востока. Часть 2</title><link>https://doi.org/10.14258/turczaninowia.28.3.8</link><description>DOI: https://doi.org/10.14258/turczaninowia.28.3.8
-Journal: Turczaninowia
-Publisher: Altai State University
-Published: 2025-10-13
-Authors: Arthur Yu. Nikulin, Vyacheslav Yu. Nikulin, Veronika B. Bagmet, Rezeda Z. Sushchenko, Shamil R. Abdullin
-GBIF relevance: GBIF_CITED
-
-Статья является продолжением серии, посвящённой находкам новых таксонов цианобактерий и водорослей для территории России и российского Дальнего Востока. С использованием комплексного подхода в пробах с архитектурных сооружений г. Владивостока и почв из Еврейской автономной и Сахалинской областей идентифицированы три таксона: Inacoccus carmineus (Cyanobacteria) – новый для России; Pseudochlorella pringsheimii и Pseudomuriella schumacherensis (Chlorophyta) – новые для РДВ. Дана краткая характерист</description><pubDate>Fri, 13 Nov 2026 13:03:55 GMT</pubDate><guid isPermaLink="false">gbif-literature:1827b4e9-9b85-39ad-b286-cc8aa62cff96</guid><category>Turczaninowia</category></item><item><title>Флористические находки из семейства Rosaceae на юге Сибири</title><link>https://doi.org/10.14258/turczaninowia.28.4.3</link><description>DOI: https://doi.org/10.14258/turczaninowia.28.4.3
-Journal: Turczaninowia
-Publisher: Altai State University
-Published: 2026-01-12
-Authors: А. А. Кечайкин, А. И. Шмаков, И. Г. Чухина, В. И. Дорофеев
-GBIF relevance: GBIF_CITED
-
-Представлены новые данные о распространении 8 видов из семейства Rosaceae, обнаруженных на территории Южной Сибири в Кемеровской области, Республиках Бурятия, Тыва и Хакасия и Красноярском крае. Из них Sibbaldianthe semiglabra – новый вид для Красноярского края; Potentilla intermedia – для Хакасии, Горной Шории и Западного Саяна; Potentilla chalchorum впервые указывается для Республики Тыва и Западного Саяна. Для редких и занесенных в Красную книгу Красноярского края Coluria geoides и Dasiphora </description><pubDate>Fri, 13 Nov 2026 13:00:59 GMT</pubDate><guid isPermaLink="false">gbif-literature:fbbfdac9-6c5f-3866-bff1-ce9ba801f101</guid><category>Turczaninowia</category></item><item><title>A modeling framework to assess climate vulnerability and future distributions of tropical tree species: a case study on Brazilian ipês</title><link>https://doi.org/10.4206/bosque.e4709</link><description>DOI: https://doi.org/10.4206/bosque.e4709
-Journal: Bosque (Valdivia)
-Publisher: Sistema de Bibliotecas UACH
-Published: 2026-06-23
-Authors: Fábio De-Castro-Borba, Caroline De-Souza-Bezerra, Jennifer Souza-Tomaz, Maria José Marques, Helinara Lais Vieira-Capucho
-GBIF relevance: GBIF_USED
-
-Assessing climate vulnerability of tropical trees requires ecological niche modeling frameworks capable of integrating multiple sources of uncertainty. Here, we present an integrated modeling approach that combines climatic, edaphic, and topographic predictors, dimensionality reduction, multi-algorithm calibration, and ensemble forecasting to evaluate future environmental suitability under climate change. Using two Brazilian Handroanthus species as a case study, occurrence data were spatially fi</description><pubDate>Fri, 13 Nov 2026 10:01:14 GMT</pubDate><guid isPermaLink="false">gbif-literature:fa7cf77b-3d05-316d-9565-2748d914d151</guid><category>Bosque (Valdivia)</category></item><item><title>From past to future: the impact of climate change on the snake-eyed lizard, Ophisops elegans</title><link>https://doi.org/10.1080/09397140.2026.2686513</link><description>DOI: https://doi.org/10.1080/09397140.2026.2686513
-Journal: Zoology in the Middle East
-Publisher: Informa UK Limited
-Published: 2026-06-24
-Authors: Arda Cem Kuyucu
-GBIF relevance: GBIF_USED
-
-The Eastern Mediterranean and Middle East (EMME) region forms one of the most important hot spots for reptiles and is also expected to experience significant impacts from climate change. This study investigates the potential impacts of past and future climate change on the snake-eyed lizard Ophisops elegans in the region. The main hypothesis is that the current distribution of O. elegans is critically limited by minimum temperature and precipitation, and its habitat will contract in the future d</description><pubDate>Fri, 13 Nov 2026 09:29:04 GMT</pubDate><guid isPermaLink="false">gbif-literature:c29d3eb5-57af-339b-9dd1-bf37edf94065</guid><category>Zoology in the Middle East</category></item><item><title>Current non-native status and potential spread of the Mediterranean Mussel, Mytilus galloprovincialis Lamarck, 1819 (Bivalvia, Mytilidae), in northwestern Mexico</title><link>https://doi.org/10.15560/22.3.567</link><description>DOI: https://doi.org/10.15560/22.3.567
-Journal: Check List
-Publisher: Pensoft Publishers
-Published: 2026-06-23
-Authors: Tulio F. Villalobos-Guerrero, Claudia Ventura-López, José Manuel Morales-Pulido, Luis Manuel Jáquez-Domínguez, Omar Valencia-Méndez
-GBIF relevance: GBIF_USED
-
-The Mediterranean Mussel, Mytilus galloprovincialis Lamarck, 1819, is regarded by the federation as a high-risk invasive species in Mexico. Use of integrative taxonomy and niche modelling confirms mass aggregations in Ensenada harbour (Bahía de Todos Santos), Baja California, and forecasts this species’ presence in protected areas of the Gulf of California. While M. galloprovincialis is profitable in aquaculture, the economic benefit complicates efforts to evaluate and manage its invasive potent</description><pubDate>Fri, 13 Nov 2026 09:12:05 GMT</pubDate><guid isPermaLink="false">gbif-literature:7d6339be-b77c-3430-ac18-0e913b48e700</guid><category>Check List</category></item></channel></rss>
+Museum collections are at risk from insects. A changing climate or increased amounts of imported materials, exhibition loans and international travel, can increase exotic species. Heritage properties are often monitored for pests, so we used trapping data from 31 Austrian museums, libraries and storerooms. The carpet beetles Anthrenus spp. and Attagenus spp. studied here, showed that the catch of these two species in buildings was correlated. Unheated libraries show high catch rates for Anthrenu</description><pubDate>Fri, 13 Nov 2026 14:30:53 GMT</pubDate><guid isPermaLink="false">gbif-literature:beecb71b-1c60-35ba-a103-209bba8cf198</guid><category>Insects</category></item></channel></rss>
